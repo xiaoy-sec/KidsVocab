@@ -1,0 +1,27 @@
+{
+  "title": "The Mario family 马里奥一家人",
+  "folderName": "lesson29",
+  "backgroundImage": "bg29",
+  "script": [
+    {
+      "textEN": "The Marios live at 87 King Street.",
+      "textCN": "马里奥一家住在国王街87号。"
+    },
+    {
+      "textEN": "What do they usually do?",
+      "textCN": "他们通常做什么？"
+    },
+    {
+      "textEN": "Mr. Mario goes to work by car.",
+      "textCN": "马里奥先生开车去上班。"
+    },
+    {
+      "textEN": "The children go to school by bus.",
+      "textCN": "孩子们乘公共汽车去上学。"
+    },
+    {
+      "textEN": "Mrs. Mario stays at home. She drinks tea in the afternoon.",
+      "textCN": "马里奥夫人待在家里。她下午喝茶。"
+    }
+  ]
+}

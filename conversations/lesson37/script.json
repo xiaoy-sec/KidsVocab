@@ -1,0 +1,31 @@
+{
+  "title": "He's clever! 他很聪明！",
+  "folderName": "lesson37",
+  "backgroundImage": "bg37",
+  "script": [
+    {
+      "textEN": "What's he like? ",
+      "textCN": "他这人怎么样？"
+    },
+    {
+      "textEN": "He's clever!",
+      "textCN": "他很聪明"
+    },
+    {
+      "textEN": "When did you see him? ",
+      "textCN": "你什么时候见到他的？"
+    },
+    {
+      "textEN": "I saw him yesterday.",
+      "textCN": "我昨天见到他的。"
+    },
+    {
+      "textEN": "Did you go to the cinema? ",
+      "textCN": "你们去电影院了吗？"
+    },
+    {
+      "textEN": "Yes, we did.",
+      "textCN": "是的，我们去了。"
+    }
+  ]
+}

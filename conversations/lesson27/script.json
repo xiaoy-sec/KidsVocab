@@ -1,0 +1,31 @@
+{
+  "title": "A good weather 好天气",
+  "folderName": "lesson27",
+  "backgroundImage": "bg27",
+  "script": [
+    {
+      "textEN": "Where do you come from?",
+      "textCN": "你来自哪里？"
+    },
+    {
+      "textEN": "I come from China.",
+      "textCN": "我来自中国。"
+    },
+    {
+      "textEN": "What's the weather like in your country?",
+      "textCN": "你们国家的气候怎么样？"
+    },
+    {
+      "textEN": "It's very good. The sun shines nearly every day.",
+      "textCN": "非常宜人。几乎每天都阳光灿烂。"
+    },
+    {
+      "textEN": "What nationality are they? ",
+      "textCN": "他们是哪国人？"
+    },
+    {
+      "textEN": "They are Chinese.",
+      "textCN": "他们是中国人。"
+    }
+  ]
+}

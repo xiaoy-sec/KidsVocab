@@ -1,0 +1,39 @@
+{
+  "title": "Hurry up! 快点！",
+  "folderName": "lesson23",
+  "backgroundImage": "bg23",
+  "script": [
+    {
+      "textEN": "Can you make the tea? ",
+      "textCN": "你会沏茶吗？"
+    },
+    {
+      "textEN": "Yes, of course I can.",
+      "textCN": "是的，我当然会。"
+    },
+    {
+      "textEN": "Is there any water in this kettle",
+      "textCN": "这水壶里有水吗？"
+    },
+    {
+      "textEN": "Yes, there is.",
+      "textCN": "有的。"
+    },
+    {
+      "textEN": "Where's the tea?",
+      "textCN": "茶叶在哪儿？"
+    },
+    {
+      "textEN": "It's over there, behind the teapot.",
+      "textCN": "就在那儿，茶壶后面。"
+    },
+    {
+      "textEN": "Can you see it? I can see the teapot, but I can't see the tea.",
+      "textCN": "你能看见吗？我能看见茶壶，但看不见茶叶。"
+    },
+    {
+      "textEN": "Hurry up! The kettle's boiling!",
+      "textCN": "快点，水开了！"
+    }
+  ]
+}

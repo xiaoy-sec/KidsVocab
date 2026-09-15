@@ -1,0 +1,47 @@
+{
+  "title": "Yes and No 是与不是",
+  "folderName": "lesson5",
+  "backgroundImage": "bg5",
+  "script": [
+    {
+      "textEN": "is this your book?",
+      "textCN": "这是你的书吗？"
+    },
+    {
+      "textEN": "yes it is",
+      "textCN": "是的，是我的。"
+    },
+    {
+      "textEN": "Is this your pen?",
+      "textCN": "这是你的钢笔吗？"
+    },
+    {
+      "textEN": "No, it is not.",
+      "textCN": "不是。"
+    },
+    {
+      "textEN": "Are you happy?",
+      "textCN": "你开心吗？"
+    },
+    {
+      "textEN": "Yes, I am.",
+      "textCN": "是的，我很开心。"
+    },
+    {
+      "textEN": "Come here, please.",
+      "textCN": "请来这里。"
+    },
+    {
+      "textEN": "Okay!",
+      "textCN": "好的！"
+    },
+    {
+      "textEN": "Is he your friend?",
+      "textCN": "他是你的朋友吗？"
+    },
+    {
+      "textEN": "No, he is not.",
+      "textCN": "不是，他不是。"
+    }
+  ]
+}

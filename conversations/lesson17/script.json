@@ -1,0 +1,47 @@
+{
+  "title": "At home 在家",
+  "folderName": "lesson17",
+  "backgroundImage": "bg17",
+  "script": [
+    {
+      "textEN": "Come in,Please",
+      "textCN": "请进"
+    },
+    {
+      "textEN": "Open the window and air the room.",
+      "textCN": "打开窗户给房间通风"
+    },
+    {
+      "textEN": "Dust the table",
+      "textCN": "擦桌子"
+    },
+    {
+      "textEN": "Then sweep the floor.",
+      "textCN": "然后扫地"
+    },
+    {
+      "textEN": "Put on your coat",
+      "textCN": "穿衣服"
+    },
+    {
+      "textEN": "Take off your shoes.",
+      "textCN": "脱掉鞋子"
+    },
+    {
+      "textEN": "Turn on the light.",
+      "textCN": "打开灯"
+    },
+    {
+      "textEN": "Turn off the light.",
+      "textCN": "关闭灯"
+    },
+    {
+      "textEN": "Get up.",
+      "textCN": "起床"
+    },
+    {
+      "textEN": "Go to sleep.",
+      "textCN": "去睡觉"
+    }
+  ]
+}

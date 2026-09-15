@@ -1,0 +1,39 @@
+{
+  "title": "Penny's bag 彭妮的包",
+  "folderName": "lesson22",
+  "backgroundImage": "bg22",
+  "script": [
+    {
+      "textEN": "Is that bag heavy? ",
+      "textCN": "那个包重吗？"
+    },
+    {
+      "textEN": "Not very. Put it on this chair.",
+      "textCN": "不太重。把它放在这把椅子上。"
+    },
+    {
+      "textEN": "What's in it? ",
+      "textCN": "里面有什么？"
+    },
+    {
+      "textEN": "A piece of cheese and a loaf of bread.",
+      "textCN": "里面有什么？一块乳酪和一个面包。"
+    },
+    {
+      "textEN": "Is there any milk?",
+      "textCN": "有牛奶吗？"
+    },
+    {
+      "textEN": "Yes, there is a bottle of milk.",
+      "textCN": "有，有一瓶牛奶。"
+    },
+    {
+      "textEN": "Is there any chocolate? ",
+      "textCN": "有巧克力吗？"
+    },
+    {
+      "textEN": "Yes, a bar of chocolate.",
+      "textCN": "有，一条巧克力。"
+    }
+  ]
+}

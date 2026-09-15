@@ -1,0 +1,31 @@
+{
+  "title": "Read and write 读和写",
+  "folderName": "lesson15",
+  "backgroundImage": "bg15",
+  "script": [
+    {
+      "textEN": "Give me a book please",
+      "textCN": "请给我一本书"
+    },
+    {
+      "textEN": "Which one?",
+      "textCN": "哪本?"
+    },
+    {
+      "textEN": "The red one.",
+      "textCN": "红色的那本"
+    },
+    {
+      "textEN": "Open page ten.",
+      "textCN": "打开第十页"
+    },
+    {
+      "textEN": "First,Read the book",
+      "textCN": "首先,读书"
+    },
+    {
+      "textEN": "Then,Writing.",
+      "textCN": "然后写字"
+    }
+  ]
+}

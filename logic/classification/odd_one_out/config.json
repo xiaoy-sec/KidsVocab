@@ -1,0 +1,192 @@
+[
+  {
+    "id": "level1",
+    "prompt": "哪个不是水果？",
+    "items": [
+      { "image": "apple", "isAnswer": false },
+      { "image": "banana", "isAnswer": false },
+      { "image": "cat", "isAnswer": true },
+      { "image": "strawberry", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "level2",
+    "prompt": "哪个不是交通工具？",
+    "items": [
+      { "image": "bus", "isAnswer": false },
+      { "image": "car", "isAnswer": false },
+      { "image": "flower", "isAnswer": true },
+      { "image": "train", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "level3",
+    "prompt": "哪个不是动物？",
+    "items": [
+      { "image": "dog", "isAnswer": false },
+      { "image": "cat", "isAnswer": false },
+      { "image": "carrot", "isAnswer": true },
+      { "image": "rabbit", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "level4",
+    "prompt": "哪个不是水果？",
+    "items": [
+      { "image": "apple", "isAnswer": false },
+      { "image": "banana", "isAnswer": false },
+      { "image": "grape", "isAnswer": false },
+      { "image": "broccoli", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level5",
+    "prompt": "哪个不是可以穿的？",
+    "items": [
+      { "image": "hat", "isAnswer": false },
+      { "image": "shirt", "isAnswer": false },
+      { "image": "pants", "isAnswer": false },
+      { "image": "chair", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level6",
+    "prompt": "哪个不是圆形？",
+    "items": [
+      { "image": "ball", "isAnswer": false },
+      { "image": "orange", "isAnswer": false },
+      { "image": "clock", "isAnswer": false },
+      { "image": "book", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level7",
+    "prompt": "谁没办法在水里呼吸？",
+    "items": [
+      { "image": "fish", "isAnswer": false },
+      { "image": "dolphin", "isAnswer": false },
+      { "image": "whale", "isAnswer": false },
+      { "image": "chicken", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level8",
+    "prompt": "哪个不是用来吃的？",
+    "items": [
+      { "image": "rice", "isAnswer": false },
+      { "image": "egg", "isAnswer": false },
+      { "image": "bread", "isAnswer": false },
+      { "image": "pencil", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level9",
+    "prompt": "哪个不是植物？",
+    "items": [
+      { "image": "tree", "isAnswer": false },
+      { "image": "flower", "isAnswer": false },
+      { "image": "grass", "isAnswer": false },
+      { "image": "bird", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level10",
+    "prompt": "哪个不是学习用品？",
+    "items": [
+      { "image": "book", "isAnswer": false },
+      { "image": "pencil", "isAnswer": false },
+      { "image": "eraser", "isAnswer": false },
+      { "image": "banana", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level11",
+    "prompt": "哪个东西**没有**轮子？",
+    "items": [
+      { "image": "car", "isAnswer": false },
+      { "image": "bicycle", "isAnswer": false },
+      { "image": "bus", "isAnswer": false },
+      { "image": "boat", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level12",
+    "prompt": "哪个摸起来是**软绵绵**的？",
+    "items": [
+      { "image": "rock", "isAnswer": false },
+      { "image": "table", "isAnswer": false },
+      { "image": "hammer", "isAnswer": false },
+      { "image": "teddy_bear", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level13",
+    "prompt": "哪个不是戴在头上的？",
+    "items": [
+      { "image": "hat", "isAnswer": false },
+      { "image": "helmet", "isAnswer": false },
+      { "image": "crown", "isAnswer": false },
+      { "image": "shoe", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level14",
+    "prompt": "哪个东西是**热**的？",
+    "items": [
+      { "image": "ice_cream", "isAnswer": false },
+      { "image": "snowman", "isAnswer": false },
+      { "image": "ice_cube", "isAnswer": false },
+      { "image": "fire", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level15",
+    "prompt": "哪个不是在天空中出现的？",
+    "items": [
+      { "image": "sun", "isAnswer": false },
+      { "image": "cloud", "isAnswer": false },
+      { "image": "airplane", "isAnswer": false },
+      { "image": "submarine", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level16",
+    "prompt": "哪个不是用来打扫卫生的？",
+    "items": [
+      { "image": "broom", "isAnswer": false },
+      { "image": "mop", "isAnswer": false },
+      { "image": "vacuum", "isAnswer": false },
+      { "image": "guitar", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level17",
+    "prompt": "哪个动物**不会**飞？",
+    "items": [
+      { "image": "eagle", "isAnswer": false },
+      { "image": "butterfly", "isAnswer": false },
+      { "image": "bee", "isAnswer": false },
+      { "image": "elephant", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level18",
+    "prompt": "哪个通常**不出现**在厨房里？",
+    "items": [
+      { "image": "pan", "isAnswer": false },
+      { "image": "knife", "isAnswer": false },
+      { "image": "plate", "isAnswer": false },
+      { "image": "bed", "isAnswer": true }
+    ]
+  },
+  {
+    "id": "level19",
+    "prompt": "哪个不是红色的东西？",
+    "items": [
+      { "image": "apple", "isAnswer": false },
+      { "image": "fire", "isAnswer": false },
+      { "image": "strawberry", "isAnswer": false },
+      { "image": "leaf_green", "isAnswer": true }
+    ]
+  }
+]

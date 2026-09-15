@@ -1,0 +1,31 @@
+{
+  "title": "The letter 信",
+  "folderName": "lesson24",
+  "backgroundImage": "bg24",
+  "script": [
+    {
+      "textEN": "Could you come over for a moment please?",
+      "textCN": "请你过来一下好吗"
+    },
+    {
+      "textEN": "Can read this letter for me?",
+      "textCN": "能帮我写这封信吗？"
+    },
+    {
+      "textEN": "Yes, of course I can. Here you are.",
+      "textCN": "可以，当然可以。给你。"
+    },
+    {
+      "textEN": "What's the matter?",
+      "textCN": "怎么了？"
+    },
+    {
+      "textEN": "I can't read this letter.",
+      "textCN": "我不能读这封信。"
+    },
+    {
+      "textEN": "I can't read it! The handwriting is terrible!",
+      "textCN": "我看不懂！字太糟糕了！"
+    }
+  ]
+}

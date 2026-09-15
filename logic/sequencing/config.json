@@ -1,0 +1,57 @@
+[
+  {
+    "id": "seq_001",
+    "title": "种出一朵小花",
+    "success_video": "flower_grow.mp4",
+    "steps": [
+      { "image": "dig_hole", "text": "挖个坑" },
+      { "image": "plant_seed", "text": "播种子" },
+      { "image": "water", "text": "浇浇水" },
+      { "image": "bloom", "text": "开花了" }
+    ]
+  },
+  {
+    "id": "seq_002",
+    "title": "制作三明治",
+    "success_video": "eat_sandwich.mp4",
+    "steps": [
+      { "image": "bread", "text": "拿面包" },
+      { "image": "cheese", "text": "放芝士" },
+      { "image": "vegetable", "text": "加蔬菜" },
+      { "image": "eat", "text": "吃掉它" }
+    ]
+  },
+  {
+    "id": "seq_003",
+    "title": "早晨起床",
+    "success_video": "morning_routine.mp4",
+    "steps": [
+      { "image": "wake_up", "text": "起床" },
+      { "image": "brush_teeth", "text": "刷牙" },
+      { "image": "wash_face", "text": "洗脸" },
+      { "image": "eat_breakfast", "text": "吃早餐" }
+    ]
+  },
+  {
+    "id": "seq_004",
+    "title": "去上学",
+    "success_video": "go_to_school.mp4",
+    "steps": [
+      { "image": "pack_bag", "text": "整理书包" },
+      { "image": "put_on_shoes", "text": "穿鞋子" },
+      { "image": "go_out", "text": "出门" },
+      { "image": "arrive_school", "text": "到学校" }
+    ]
+  },
+  {
+    "id": "seq_005",
+    "title": "洗手步骤",
+    "success_video": "wash_hands.mp4",
+    "steps": [
+      { "image": "turn_on_water", "text": "打开水龙头" },
+      { "image": "apply_soap", "text": "涂洗手液" },
+      { "image": "rub_hands", "text": "搓搓手" },
+      { "image": "rinse_hands", "text": "冲干净" }
+    ]
+  }
+]

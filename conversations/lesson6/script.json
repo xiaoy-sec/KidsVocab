@@ -1,0 +1,47 @@
+{
+  "title": "At School 在学校",
+  "folderName": "lesson6",
+  "backgroundImage": "bg6",
+  "script": [
+    {
+      "textEN": "Good morning, teacher.",
+      "textCN": "老师，早上好。"
+    },
+    {
+      "textEN": "Good morning!",
+      "textCN": "早上好！"
+    },
+    {
+      "textEN": "what is this",
+      "textCN": "这是什么？"
+    },
+    {
+      "textEN": "It is a book.",
+      "textCN": "它是一本书。"
+    },
+    {
+      "textEN": "what is that?",
+      "textCN": "那是什么？"
+    },
+    {
+      "textEN": "That is a chair.",
+      "textCN": "那是一把椅子。"
+    },
+    {
+      "textEN": "May I come in?",
+      "textCN": "我可以进来吗？"
+    },
+    {
+      "textEN": "Yes, please come in.",
+      "textCN": "可以，请进。"
+    },
+    {
+      "textEN": "Thank you.",
+      "textCN": "谢谢。"
+    },
+    {
+      "textEN": "You are welcome.",
+      "textCN": "不客气。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "My Family 我的家庭",
+  "folderName": "lesson8",
+  "backgroundImage": "bg8",
+  "script": [
+    {
+      "textEN": "This is my family.",
+      "textCN": "这是我的家庭。"
+    },
+    {
+      "textEN": "who is he?",
+      "textCN": "他是谁？"
+    },
+    {
+      "textEN": "He is my father.",
+      "textCN": "他是我的爸爸。"
+    },
+    {
+      "textEN": "who is she?",
+      "textCN": "她是谁？"
+    },
+    {
+      "textEN": "She is my mother.",
+      "textCN": "她是我的妈妈。"
+    },
+    {
+      "textEN": "Do you have a brother?",
+      "textCN": "你有兄弟吗？"
+    },
+    {
+      "textEN": "Yes, I have a little brother.",
+      "textCN": "是的，我有一个弟弟。"
+    },
+    {
+      "textEN": "How old is he?",
+      "textCN": "他几岁了？"
+    },
+    {
+      "textEN": "He is three years old.",
+      "textCN": "他三岁了。"
+    },
+    {
+      "textEN": "I love my family.",
+      "textCN": "我爱我的家人。"
+    }
+  ]
+}

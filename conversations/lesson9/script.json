@@ -1,0 +1,47 @@
+{
+  "title": "Food and Drinks 食物和饮料",
+  "folderName": "lesson9",
+  "backgroundImage": "bg9",
+  "script": [
+    {
+      "textEN": "I am hungry.",
+      "textCN": "我饿了。"
+    },
+    {
+      "textEN": "What do you want to eat?",
+      "textCN": "你想吃什么？"
+    },
+    {
+      "textEN": "I want some rice.",
+      "textCN": "我想吃一些米饭。"
+    },
+    {
+      "textEN": "Do you like vegetables?",
+      "textCN": "你喜欢蔬菜吗？"
+    },
+    {
+      "textEN": "Yes, I do.",
+      "textCN": "是的，我喜欢。"
+    },
+    {
+      "textEN": "Do you like milk?",
+      "textCN": "你喜欢牛奶吗？"
+    },
+    {
+      "textEN": "No, I do not.",
+      "textCN": "不，我不喜欢。"
+    },
+    {
+      "textEN": "Here you are.",
+      "textCN": "给你。"
+    },
+    {
+      "textEN": "Thank you.",
+      "textCN": "谢谢。"
+    },
+    {
+      "textEN": "You are welcome.",
+      "textCN": "不客气。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Where are you from 你来自哪里",
+  "folderName": "lesson13",
+  "backgroundImage": "bg13",
+  "script": [
+    {
+      "textEN": "Where are you from?Are you Chinese?",
+      "textCN": "你来自哪里?你是中国人吗"
+    },
+    {
+      "textEN": "No, I'm not.I'm from Italy,I'm Italian.",
+      "textCN": "不,我不是,我来自意大利,我是意大利人"
+    },
+    {
+      "textEN": "What's your job?",
+      "textCN": "你是做什么工作的?"
+    },
+    {
+      "textEN": "I'm a student,and you?",
+      "textCN": "我是学生,你呢"
+    },
+    {
+      "textEN": "I'm a policeman",
+      "textCN": "我是警察"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "ce_001",
+    "title": "下雨啦",
+    "prompt": "下雨了，小明该用什么呢？",
+    "question_image": "rain_cause",
+    "result_image": "rain_result", 
+    "options": [
+      { "image": "umbrella", "text": "雨伞", "isAnswer": true },
+      { "image": "sunglasses", "text": "墨镜", "isAnswer": false },
+      { "image": "cup", "text": "水杯", "isAnswer": false },
+      { "image": "ice_cream", "text": "冰淇淋", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_002",
+    "title": "肚子饿了",
+    "prompt": "肚子咕咕叫，该吃什么呢？",
+    "question_image": "hungry_boy",
+    "result_image": "eating_boy",
+    "options": [
+      { "image": "burger", "text": "汉堡包", "isAnswer": true },
+      { "image": "ball", "text": "篮球", "isAnswer": false },
+      { "image": "brush", "text": "牙刷", "isAnswer": false },
+      { "image": "phone", "text": "手机", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_003",
+    "title": "天黑了",
+    "prompt": "天黑看不见了，该怎么办？",
+    "question_image": "dark_room",
+    "result_image": "turn_on_light",
+    "options": [
+      { "image": "light", "text": "开灯", "isAnswer": true },
+      { "image": "umbrella", "text": "打伞", "isAnswer": false },
+      { "image": "sunglasses", "text": "墨镜", "isAnswer": false },
+      { "image": "ball", "text": "玩球", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_004",
+    "title": "手脏了",
+    "prompt": "小手变脏了，该怎么办？",
+    "question_image": "dirty_hands",
+    "result_image": "wash_hands",
+    "options": [
+      { "image": "wash", "text": "洗手", "isAnswer": true },
+      { "image": "paint", "text": "画画", "isAnswer": false },
+      { "image": "eat", "text": "吃饭", "isAnswer": false },
+      { "image": "playtoy", "text": "玩玩具", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_005",
+    "title": "冷了",
+    "prompt": "天气很冷，该穿什么？",
+    "question_image": "cold_weather",
+    "result_image": "wear_coat",
+    "options": [
+      { "image": "coat", "text": "外套", "isAnswer": true },
+      { "image": "sandals", "text": "凉鞋", "isAnswer": false },
+      { "image": "bag", "text": "背包", "isAnswer": false },
+      { "image": "hat_sun", "text": "太阳帽", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_006",
+    "title": "书掉地上了",
+    "prompt": "书掉在地上了，该怎么做？",
+    "question_image": "book_on_floor",
+    "result_image": "pick_up_book",
+    "options": [
+      { "image": "pick_book", "text": "捡起来", "isAnswer": true },
+      { "image": "kick_book", "text": "踢开", "isAnswer": false },
+      { "image": "angry", "text": "生气", "isAnswer": false },
+      { "image": "sleep", "text": "去睡觉", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_007",
+    "title": "想画画",
+    "prompt": "小朋友想画画，她需要什么？",
+    "question_image": "want_draw",
+    "result_image": "draw_picture",
+    "options": [
+      { "image": "crayon", "text": "蜡笔", "isAnswer": true },
+      { "image": "spoon", "text": "勺子", "isAnswer": false },
+      { "image": "doll", "text": "玩偶", "isAnswer": false },
+      { "image": "shoe", "text": "鞋子", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_008",
+    "title": "太阳很大",
+    "prompt": "太阳很晒，该用什么？",
+    "question_image": "sunny_day",
+    "result_image": "wear_hat",
+    "options": [
+      { "image": "hat_sun", "text": "帽子", "isAnswer": true },
+      { "image": "coat", "text": "外套", "isAnswer": false },
+      { "image": "scarf", "text": "围巾", "isAnswer": false },
+      { "image": "gloves", "text": "手套", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_009",
+    "title": "要睡觉了",
+    "prompt": "要睡觉了，应该先做什么？",
+    "question_image": "sleep_time",
+    "result_image": "brush_teeth",
+    "options": [
+      { "image": "brush_teeth", "text": "刷牙", "isAnswer": true },
+      { "image": "sleepjump", "text": "跳一跳", "isAnswer": false },
+      { "image": "sleepphone", "text": "看手机", "isAnswer": false },
+      { "image": "sleepicecream", "text": "吃冰淇淋", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_010",
+    "title": "没带伞",
+    "prompt": "下雨天没带伞，会发生什么？",
+    "question_image": "no_umbrella_rain",
+    "result_image": "wet_clothes",
+    "options": [
+      { "image": "getcold", "text": "感冒发烧", "isAnswer": true },
+      { "image": "stay_dry", "text": "一点也不湿", "isAnswer": false },
+      { "image": "hungry", "text": "肚子饿", "isAnswer": false },
+      { "image": "duisnowman", "text": "堆雪人", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_011",
+    "title": "不吃饭",
+    "prompt": "如果不吃饭，可能会怎样？",
+    "question_image": "refuse_food",
+    "result_image": "hungry_later",
+    "options": [
+      { "image": "noeathungry", "text": "会饿肚子", "isAnswer": true },
+      { "image": "onakafull", "text": "变得很饱", "isAnswer": false },
+      { "image": "runfast", "text": "跑的很快", "isAnswer": false },
+      { "image": "noeatgrow_fast", "text": "马上长高", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_012",
+    "title": "忘记浇水",
+    "prompt": "植物很久不浇水，会怎样？",
+    "question_image": "dry_plant",
+    "result_image": "plant_wilt",
+    "options": [
+      { "image": "wilt", "text": "会枯萎", "isAnswer": true },
+      { "image": "flowergrow_fast", "text": "长更快", "isAnswer": false },
+      { "image": "flowerturn_blue", "text": "变成蓝色", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_013",
+    "title": "乱跑马路",
+    "prompt": "过马路不看车，会怎样？",
+    "question_image": "run_on_road",
+    "result_image": "danger_road",
+    "options": [
+      { "image": "danger", "text": "很危险", "isAnswer": true },
+      { "image": "safe_fun", "text": "很好玩", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_014",
+    "title": "不收玩具",
+    "prompt": "玩具乱放地上，会发生什么？",
+    "question_image": "toys_on_floor",
+    "result_image": "trip_over",
+    "options": [
+      { "image": "fall_down", "text": "可能摔倒", "isAnswer": true },
+      { "image": "new_toys", "text": "被夸奖", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_015",
+    "title": "摸热水",
+    "prompt": "直接摸很热的水，会怎样？",
+    "question_image": "hot_water",
+    "result_image": "hurt_hand",
+    "options": [
+      { "image": "hurt_hand", "text": "会烫到手", "isAnswer": true },
+      { "image": "feel_cold", "text": "觉得很冷", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_016",
+    "title": "玩具坏了",
+    "prompt": "玩具坏了，很生气时可以怎么做？",
+    "question_image": "broken_toy",
+    "result_image": "calm_down",
+    "options": [
+      { "image": "deep_breath", "text": "深呼吸冷静", "isAnswer": true },
+      { "image": "throw_toy", "text": "扔东西", "isAnswer": false },
+      { "image": "hit_table", "text": "用力拍桌子", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "ce_017",
+    "title": "和朋友争玩具",
+    "prompt": "抢玩具很生气时应该怎么做？",
+    "question_image": "toy_conflict",
+    "result_image": "share_toy",
+    "options": [
+      { "image": "talk_calmly", "text": "好好说话", "isAnswer": true },
+      { "image": "toycry", "text": "哭", "isAnswer": false },
+      { "image": "angry_loud", "text": "大喊大叫", "isAnswer": false }
+    ]
+  }
+]

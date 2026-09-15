@@ -1,0 +1,27 @@
+{
+  "title": "Thank you, doctor. 谢谢你，医生。",
+  "folderName": "lesson33",
+  "backgroundImage": "bg33",
+  "script": [
+    {
+      "textEN": "How's Jimmy today? ",
+      "textCN": "吉米今天怎么样？"
+    },
+    {
+      "textEN": "He's much better, thank you.",
+      "textCN": "他好多了，谢谢您。"
+    },
+    {
+      "textEN": "Don't let him get up yet. ",
+      "textCN": "还不要让他起床。"
+    },
+    {
+      "textEN": "You mustn't eat any rich food. ",
+      "textCN": "你不准吃油腻的食物。"
+    },
+    {
+      "textEN": "Take this medicine.",
+      "textCN": "服下这药。"
+    }
+  ]
+}

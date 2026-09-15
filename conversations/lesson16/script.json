@@ -1,0 +1,35 @@
+{
+  "title": "Feel 感觉",
+  "folderName": "lesson16",
+  "backgroundImage": "bg16",
+  "script": [
+    {
+      "textEN": "What's the matter?",
+      "textCN": "怎么了?"
+    },
+    {
+      "textEN": "I'm tired and thirsty",
+      "textCN": "我累了,渴了"
+    },
+    {
+      "textEN": "Sit down here.",
+      "textCN": "坐在这里"
+    },
+    {
+      "textEN": "Do you feel any better?",
+      "textCN": "你感觉好点了吗?"
+    },
+    {
+      "textEN": "Yes,I do",
+      "textCN": "是的,好点了"
+    },
+    {
+      "textEN": "Look! There's an ice cream man.",
+      "textCN": "看,那里有卖冰淇淋的叔叔"
+    },
+    {
+      "textEN": "Two ice creams, please.",
+      "textCN": "请给我两个冰淇淋"
+    }
+  ]
+}

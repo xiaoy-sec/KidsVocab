@@ -1,0 +1,27 @@
+{
+  "title": "Our village 我们的村庄",
+  "folderName": "lesson19",
+  "backgroundImage": "bg19",
+  "script": [
+    {
+      "textEN": "Our village is in a valley, between two hills.",
+      "textCN": "我们的村庄坐落在山谷中，位于两座小山之间。"
+    },
+    {
+      "textEN": "He is swimming across the river.",
+      "textCN": "他正游过河去。"
+    },
+    {
+      "textEN": "The school building is beside a park.",
+      "textCN": "校舍就在公园旁边。"
+    },
+    {
+      "textEN": "Some children are coming out of the building.",
+      "textCN": "一些孩子正从大楼里出来。"
+    },
+    {
+      "textEN": "Some of them are going into the park.",
+      "textCN": "他们中的一些人正走进公园。"
+    }
+  ]
+}

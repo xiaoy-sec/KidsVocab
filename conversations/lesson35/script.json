@@ -1,0 +1,31 @@
+{
+  "title": "The weekend 周末",
+  "folderName": "lesson35",
+  "backgroundImage": "bg35",
+  "script": [
+    {
+      "textEN": "Where were you on Friday? ",
+      "textCN": "上周五你在哪儿？"
+    },
+    {
+      "textEN": "We were at the school",
+      "textCN": "我们在学校"
+    },
+    {
+      "textEN": "Were you there on Saturday, too?",
+      "textCN": "周六你们也在那儿吗？"
+    },
+    {
+      "textEN": "No, we weren't.",
+      "textCN": "不，我们不在。"
+    },
+    {
+      "textEN": "Where were they? ",
+      "textCN": "他们在哪里？"
+    },
+    {
+      "textEN": "They were in the country on Sunday.",
+      "textCN": "他们周日在乡下。"
+    }
+  ]
+}

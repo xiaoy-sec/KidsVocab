@@ -1,0 +1,27 @@
+{
+  "title": "Not a baby 不是一个孩子",
+  "folderName": "lesson34",
+  "backgroundImage": "bg34",
+  "script": [
+    {
+      "textEN": "What's the matter, Jill? ",
+      "textCN": "怎么了，吉尔？"
+    },
+    {
+      "textEN": "I have a toothache.",
+      "textCN": "我牙痛。"
+    },
+    {
+      "textEN": "Is it a bad toothache? ",
+      "textCN": "牙很痛吗？"
+    },
+    {
+      "textEN": "Yes, it is. I'm very cold.",
+      "textCN": "牙很痛吗？是的。我很冷。"
+    },
+    {
+      "textEN": "Let's go to the hospital",
+      "textCN": "我们去医院吧"
+    }
+  ]
+}

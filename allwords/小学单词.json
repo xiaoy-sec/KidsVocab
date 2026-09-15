@@ -1,0 +1,2660 @@
+[
+  {
+    "w": "bad",
+    "zh": "坏的；严重的；劣质的",
+    "ex": "This is a bad apple.",
+    "exz": "这是一个坏苹果。"
+  },
+  {
+    "w": "cat",
+    "zh": "猫；猫科动物",
+    "ex": "The cat is cute.",
+    "exz": "猫很可爱。"
+  },
+  {
+    "w": "answer",
+    "zh": "符合；回答",
+    "ex": "Please answer the question.",
+    "exz": "请回答问题。"
+  },
+  {
+    "w": "all",
+    "zh": "全部的",
+    "ex": "All students are here.",
+    "exz": "所有学生都在这里。"
+  },
+  {
+    "w": "him",
+    "zh": "他（宾格）",
+    "ex": "I gave the book to him.",
+    "exz": "我把书给了他。"
+  },
+  {
+    "w": "next",
+    "zh": "其次；然后；下次",
+    "ex": "What is the next step?",
+    "exz": "下一步是什么？"
+  },
+  {
+    "w": "look",
+    "zh": "看；期待；注意；面向；看上去像",
+    "ex": "Please look at the picture.",
+    "exz": "请看图片。"
+  },
+  {
+    "w": "wear",
+    "zh": "穿着，戴；磨损",
+    "ex": "I wear a red coat.",
+    "exz": "我穿红色外套。"
+  },
+  {
+    "w": "see",
+    "zh": "看见；领会；理解",
+    "ex": "I can see the bird.",
+    "exz": "我能看见鸟。"
+  },
+  {
+    "w": "ruler",
+    "zh": "尺；划线板，划线的人；统治者",
+    "ex": "Please use a ruler.",
+    "exz": "请用尺子。"
+  },
+  {
+    "w": "please",
+    "zh": "使高兴，使满意；使喜欢",
+    "ex": "Please help me.",
+    "exz": "请帮助我。"
+  },
+  {
+    "w": "chair",
+    "zh": "椅子；（会议的）主席位；大学教授的职位；讲座",
+    "ex": "Please sit on the chair.",
+    "exz": "请坐在椅子上。"
+  },
+  {
+    "w": "library",
+    "zh": "图书馆，藏书室；文库",
+    "ex": "I go to the library.",
+    "exz": "我去图书馆。"
+  },
+  {
+    "w": "where",
+    "zh": "在哪里",
+    "ex": "Where do you live?",
+    "exz": "你住在哪里？"
+  },
+  {
+    "w": "from",
+    "zh": "来自，从；今后；由于",
+    "ex": "I come from China.",
+    "exz": "我来自中国。"
+  },
+  {
+    "w": "girl",
+    "zh": "女孩，姑娘；女儿；女朋友",
+    "ex": "The girl is happy.",
+    "exz": "女孩很开心。"
+  },
+  {
+    "w": "by",
+    "zh": "被；经由；在 … 之前；在附近；依据；通过",
+    "ex": "I go by bus.",
+    "exz": "我坐公交车去。"
+  },
+  {
+    "w": "mouth",
+    "zh": "口，嘴；河口",
+    "ex": "Open your mouth.",
+    "exz": "张开嘴。"
+  },
+  {
+    "w": "early",
+    "zh": "早期的；早熟的",
+    "ex": "I get up early.",
+    "exz": "我早起。"
+  },
+  {
+    "w": "know",
+    "zh": "知道；认识；懂得",
+    "ex": "I know the answer.",
+    "exz": "我知道答案。"
+  },
+  {
+    "w": "book",
+    "zh": "书籍；帐簿；卷；名册；工作簿",
+    "ex": "This is a good book.",
+    "exz": "这是一本好书。"
+  },
+  {
+    "w": "feel",
+    "zh": "感觉；试探；触摸；认为",
+    "ex": "I feel happy.",
+    "exz": "我感到开心。"
+  },
+  {
+    "w": "child",
+    "zh": "儿童，孩子；子孙；产物",
+    "ex": "The child is playing.",
+    "exz": "孩子在玩。"
+  },
+  {
+    "w": "grandfather",
+    "zh": "祖父；始祖",
+    "ex": "My grandfather is kind.",
+    "exz": "我的祖父很善良。"
+  },
+  {
+    "w": "brown",
+    "zh": "棕色的，褐色的；太阳晒黑的",
+    "ex": "The dog is brown.",
+    "exz": "狗是棕色的。"
+  },
+  {
+    "w": "his",
+    "zh": "他的",
+    "ex": "This is his book.",
+    "exz": "这是他的书。"
+  },
+  {
+    "w": "make",
+    "zh": "制造；构成；使得；获得；引起；进行；布置，准备，整理；认为；安排；形成",
+    "ex": "Please make a cake.",
+    "exz": "请做蛋糕。"
+  },
+  {
+    "w": "pig",
+    "zh": "猪肉；猪；警察",
+    "ex": "The pig is on the farm.",
+    "exz": "猪在农场。"
+  },
+  {
+    "w": "put",
+    "zh": "放；表达；移动；安置；赋予",
+    "ex": "Please put the book on the table.",
+    "exz": "请把书放在桌子上。"
+  },
+  {
+    "w": "night",
+    "zh": "夜晚，晚上；黑暗，黑夜",
+    "ex": "I sleep at night.",
+    "exz": "我晚上睡觉。"
+  },
+  {
+    "w": "clean",
+    "zh": "清洁的，干净的；清白的",
+    "ex": "Please keep the room clean.",
+    "exz": "请保持房间干净。"
+  },
+  {
+    "w": "evening",
+    "zh": "傍晚；晚上；后期；（联欢性的）晚会",
+    "ex": "I study in the evening.",
+    "exz": "我晚上学习。"
+  },
+  {
+    "w": "cream",
+    "zh": "奶油，乳脂；乳酪；精华；面霜",
+    "ex": "I like ice cream.",
+    "exz": "我喜欢冰淇淋。"
+  },
+  {
+    "w": "beside",
+    "zh": "在旁边；与 … 相比；和 … 无关",
+    "ex": "Sit beside me.",
+    "exz": "坐在我旁边。"
+  },
+  {
+    "w": "our",
+    "zh": "我们的",
+    "ex": "This is our school.",
+    "exz": "这是我们的学校。"
+  },
+  {
+    "w": "hand",
+    "zh": "手，手艺；指针；插手；帮助",
+    "ex": "Raise your hand.",
+    "exz": "举手。"
+  },
+  {
+    "w": "hot",
+    "zh": "热的；辣的；热情的；激动的；紧迫的",
+    "ex": "The weather is hot.",
+    "exz": "天气很热。"
+  },
+  {
+    "w": "stand",
+    "zh": "位于；站立；停滞",
+    "ex": "Please stand up.",
+    "exz": "请站起来。"
+  },
+  {
+    "w": "playground",
+    "zh": "运动场，操场",
+    "ex": "We play in the playground.",
+    "exz": "我们在操场玩。"
+  },
+  {
+    "w": "grass",
+    "zh": "草；草地，草坪",
+    "ex": "The grass is green.",
+    "exz": "草是绿色的。"
+  },
+  {
+    "w": "sun",
+    "zh": "太阳",
+    "ex": "The sun is bright.",
+    "exz": "太阳很亮。"
+  },
+  {
+    "w": "river",
+    "zh": "河，江",
+    "ex": "The river is long.",
+    "exz": "河很长。"
+  },
+  {
+    "w": "cry",
+    "zh": "叫喊；哭出；大声说",
+    "ex": "Don't cry.",
+    "exz": "不要哭。"
+  },
+  {
+    "w": "friend",
+    "zh": "朋友；赞助者；助手",
+    "ex": "He is my friend.",
+    "exz": "他是我的朋友。"
+  },
+  {
+    "w": "doctor",
+    "zh": "医生；博士",
+    "ex": "I go to see the doctor.",
+    "exz": "我去看医生。"
+  },
+  {
+    "w": "tired",
+    "zh": "疲倦的；厌倦的，厌烦的",
+    "ex": "I feel tired.",
+    "exz": "我感到疲倦。"
+  },
+  {
+    "w": "green",
+    "zh": "绿色的；青春的",
+    "ex": "The tree is green.",
+    "exz": "树是绿色的。"
+  },
+  {
+    "w": "sock",
+    "zh": "短袜；一击",
+    "ex": "I wear socks.",
+    "exz": "我穿袜子。"
+  },
+  {
+    "w": "get",
+    "zh": "获得；变成；使得；受到",
+    "ex": "I get a new book.",
+    "exz": "我得到一本新书。"
+  },
+  {
+    "w": "pencil",
+    "zh": "铅笔；笔状物",
+    "ex": "I write with a pencil.",
+    "exz": "我用铅笔写。"
+  },
+  {
+    "w": "many",
+    "zh": "许多；许多人",
+    "ex": "I have many books.",
+    "exz": "我有很多书。"
+  },
+  {
+    "w": "season",
+    "zh": "时期；季节；赛季； vt. 给 … 调味；使适应； vi. 变得成熟；变干燥",
+    "ex": "Spring is a nice season.",
+    "exz": "春天是好季节。"
+  },
+  {
+    "w": "for",
+    "zh": "为，为了；给；因为；对于；适合于；至于",
+    "ex": "This gift is for you.",
+    "exz": "这礼物是给你的。"
+  },
+  {
+    "w": "strong",
+    "zh": "强壮的；擅长的；坚强的；牢固的",
+    "ex": "He is strong.",
+    "exz": "他很强壮。"
+  },
+  {
+    "w": "man",
+    "zh": "雇工；男人；人；人类；丈夫",
+    "ex": "He is a kind man.",
+    "exz": "他是一个善良的人。"
+  },
+  {
+    "w": "no",
+    "zh": "不",
+    "ex": "No, I don't agree.",
+    "exz": "不，我不同意。"
+  },
+  {
+    "w": "rain",
+    "zh": "雨；雨天；雨季；下雨",
+    "ex": "It is raining.",
+    "exz": "在下雨。"
+  },
+  {
+    "w": "plant",
+    "zh": "工厂，车间；植物；庄稼；设备",
+    "ex": "I plant a flower.",
+    "exz": "我种一朵花。"
+  },
+  {
+    "w": "well",
+    "zh": "满意地；适当地；很好地；充分地",
+    "ex": "I sleep well.",
+    "exz": "我睡得好。"
+  },
+  {
+    "w": "busy",
+    "zh": "忙碌的；热闹的；正被占用的",
+    "ex": "I am busy today.",
+    "exz": "我今天很忙。"
+  },
+  {
+    "w": "idea",
+    "zh": "主意；概念；想法",
+    "ex": "I have a good idea.",
+    "exz": "我有一个好主意。"
+  },
+  {
+    "w": "pen",
+    "zh": "钢笔；围栏；作家",
+    "ex": "I write with a pen.",
+    "exz": "我用笔写。"
+  },
+  {
+    "w": "great",
+    "zh": "伟大的，重大的；极好的，好的；主要的",
+    "ex": "This is a great book.",
+    "exz": "这是一本伟大的书。"
+  },
+  {
+    "w": "supermarket",
+    "zh": "超级市场；自助售货商店",
+    "ex": "I go to the supermarket.",
+    "exz": "我去超市。"
+  },
+  {
+    "w": "toy",
+    "zh": "玩具；小装饰品；不值钱的东西",
+    "ex": "The child plays with a toy.",
+    "exz": "孩子玩玩具。"
+  },
+  {
+    "w": "them",
+    "zh": "他们；她们；它们",
+    "ex": "I give the books to them.",
+    "exz": "我把书给他们。"
+  },
+  {
+    "w": "thin",
+    "zh": "薄的；瘦的；稀薄的；微弱的",
+    "ex": "The paper is thin.",
+    "exz": "纸很薄。"
+  },
+  {
+    "w": "China",
+    "zh": "中国",
+    "ex": "I live in China.",
+    "exz": "我住在中国。"
+  },
+  {
+    "w": "cinema",
+    "zh": "电影院；电影；电影业，电影制作术",
+    "ex": "I go to the cinema.",
+    "exz": "我去电影院。"
+  },
+  {
+    "w": "cook",
+    "zh": "烹调，煮",
+    "ex": "I cook dinner.",
+    "exz": "我做晚饭。"
+  },
+  {
+    "w": "right",
+    "zh": "正确的；右方的；直接的",
+    "ex": "You are right.",
+    "exz": "你是对的。"
+  },
+  {
+    "w": "what",
+    "zh": "什么；多么；多少",
+    "ex": "What is your name?",
+    "exz": "你叫什么名字？"
+  },
+  {
+    "w": "people",
+    "zh": "人；人类；民族；公民",
+    "ex": "Many people come here.",
+    "exz": "许多人来这里。"
+  },
+  {
+    "w": "in",
+    "zh": "在 … 之内；从事于；按照（表示方式）",
+    "ex": "I am in the room.",
+    "exz": "我在房间里。"
+  },
+  {
+    "w": "banana",
+    "zh": "香蕉；喜剧演员；大鹰钩鼻",
+    "ex": "I like banana.",
+    "exz": "我喜欢香蕉。"
+  },
+  {
+    "w": "animal",
+    "zh": "动物",
+    "ex": "The dog is an animal.",
+    "exz": "狗是动物。"
+  },
+  {
+    "w": "who",
+    "zh": "谁",
+    "ex": "Who is that person?",
+    "exz": "那个人是谁？"
+  },
+  {
+    "w": "tell",
+    "zh": "告诉，说；吩咐；辨别；断定",
+    "ex": "Please tell me the story.",
+    "exz": "请告诉我故事。"
+  },
+  {
+    "w": "far",
+    "zh": "很；到很远的距离；遥远地；到很深的程度；久远地",
+    "ex": "The school is far from home.",
+    "exz": "学校离家很远。"
+  },
+  {
+    "w": "hear",
+    "zh": "审理；听说；听到，听",
+    "ex": "I can hear the music.",
+    "exz": "我能听见音乐。"
+  },
+  {
+    "w": "dog",
+    "zh": "狗；；丑女人；卑鄙的人；（俚）朋友； vt. 跟踪；尾随",
+    "ex": "The dog is friendly.",
+    "exz": "狗很友好。"
+  },
+  {
+    "w": "take",
+    "zh": "拿，取；接受；采取；吃",
+    "ex": "Please take the book.",
+    "exz": "请拿书。"
+  },
+  {
+    "w": "clothes",
+    "zh": "衣服",
+    "ex": "I wear clean clothes.",
+    "exz": "我穿干净衣服。"
+  },
+  {
+    "w": "talk",
+    "zh": "说；谈话；讨论",
+    "ex": "We talk every day.",
+    "exz": "我们每天谈话。"
+  },
+  {
+    "w": "eye",
+    "zh": "眼睛；视力；见解，观点；眼光",
+    "ex": "I open my eyes.",
+    "exz": "我睁开眼睛。"
+  },
+  {
+    "w": "very",
+    "zh": "十足的；恰好是，正是；甚至；特有的",
+    "ex": "I am very happy.",
+    "exz": "我很开心。"
+  },
+  {
+    "w": "give",
+    "zh": "给；授予；让步；产生；举办",
+    "ex": "Please give me the book.",
+    "exz": "请给我书。"
+  },
+  {
+    "w": "football",
+    "zh": "足球，橄榄球",
+    "ex": "I play football.",
+    "exz": "我踢足球。"
+  },
+  {
+    "w": "your",
+    "zh": "你的，你们的",
+    "ex": "Is this your book?",
+    "exz": "这是你的书吗？"
+  },
+  {
+    "w": "sheep",
+    "zh": "羊，绵羊；胆小鬼",
+    "ex": "The sheep is white.",
+    "exz": "羊是白色的。"
+  },
+  {
+    "w": "tea",
+    "zh": "茶叶；茶树；茶点",
+    "ex": "I drink tea.",
+    "exz": "我喝茶。"
+  },
+  {
+    "w": "skirt",
+    "zh": "裙子",
+    "ex": "She wears a skirt.",
+    "exz": "她穿裙子。"
+  },
+  {
+    "w": "her",
+    "zh": "她的；她",
+    "ex": "This is her book.",
+    "exz": "这是她的书。"
+  },
+  {
+    "w": "moon",
+    "zh": "月亮；月球；月光；卫星",
+    "ex": "The moon is bright.",
+    "exz": "月亮很亮。"
+  },
+  {
+    "w": "its",
+    "zh": "它的",
+    "ex": "The dog wags its tail.",
+    "exz": "狗摇尾巴。"
+  },
+  {
+    "w": "father",
+    "zh": "父亲，爸爸；神父；祖先；前辈",
+    "ex": "My father is kind.",
+    "exz": "我的父亲很善良。"
+  },
+  {
+    "w": "hour",
+    "zh": "小时；钟头；课时； … 点钟",
+    "ex": "There are 24 hours in a day.",
+    "exz": "一天有24小时。"
+  },
+  {
+    "w": "windy",
+    "zh": "多风的，有风的；腹胀的；吹牛的",
+    "ex": "It is windy today.",
+    "exz": "今天有风。"
+  },
+  {
+    "w": "tree",
+    "zh": "树；树状物；木料",
+    "ex": "The tree is tall.",
+    "exz": "树很高。"
+  },
+  {
+    "w": "am",
+    "zh": "调幅",
+    "ex": "I am a student.",
+    "exz": "我是学生。"
+  },
+  {
+    "w": "those",
+    "zh": "那些的",
+    "ex": "Those are my books.",
+    "exz": "那些是我的书。"
+  },
+  {
+    "w": "flower",
+    "zh": "花；精华；开花植物",
+    "ex": "The flower is beautiful.",
+    "exz": "花很漂亮。"
+  },
+  {
+    "w": "come",
+    "zh": "来；出现；到达；变成；开始；发生",
+    "ex": "Please come here.",
+    "exz": "请到这里来。"
+  },
+  {
+    "w": "near",
+    "zh": "近的；近似的；亲近的",
+    "ex": "The school is near my home.",
+    "exz": "学校在我家附近。"
+  },
+  {
+    "w": "TV",
+    "zh": "电视（ television ）",
+    "ex": "I watch TV in the evening.",
+    "exz": "我晚上看电视。"
+  },
+  {
+    "w": "bear",
+    "zh": "结果实；承受",
+    "ex": "The bear is big.",
+    "exz": "熊很大。"
+  },
+  {
+    "w": "bike",
+    "zh": "自行车；脚踏车",
+    "ex": "I ride a bike.",
+    "exz": "我骑自行车。"
+  },
+  {
+    "w": "water",
+    "zh": "水；雨水；海水；海域，大片的水",
+    "ex": "I drink water every day.",
+    "exz": "我每天喝水。"
+  },
+  {
+    "w": "boat",
+    "zh": "小船；轮船",
+    "ex": "We take a boat.",
+    "exz": "我们坐船。"
+  },
+  {
+    "w": "when",
+    "zh": "既然；当 … 时；考虑到",
+    "ex": "When do you go to school?",
+    "exz": "你什么时候去学校？"
+  },
+  {
+    "w": "men",
+    "zh": "man 的复数",
+    "ex": "The men are working.",
+    "exz": "男人们在工作。"
+  },
+  {
+    "w": "close",
+    "zh": "亲密的；亲近的；紧密的",
+    "ex": "Please close the door.",
+    "exz": "请关门。"
+  },
+  {
+    "w": "ill",
+    "zh": "坏的；生病的；邪恶的；不吉利的",
+    "ex": "I feel ill today.",
+    "exz": "我今天感到不舒服。"
+  },
+  {
+    "w": "is",
+    "zh": "是Iceland ,冰岛Internal Security,治安",
+    "ex": "He is a student.",
+    "exz": "他是学生。"
+  },
+  {
+    "w": "have",
+    "zh": "有；让；从事；允许；拿",
+    "ex": "I have a book.",
+    "exz": "我有一本书。"
+  },
+  {
+    "w": "week",
+    "zh": "周，星期",
+    "ex": "There are 7 days in a week.",
+    "exz": "一周有7天。"
+  },
+  {
+    "w": "Mrs",
+    "zh": "太太；夫人（用于已婚妇女姓名前的尊称）",
+    "ex": "Mrs. Smith is a teacher.",
+    "exz": "史密斯夫人是老师。"
+  },
+  {
+    "w": "coat",
+    "zh": "外套",
+    "ex": "I wear a coat.",
+    "exz": "我穿外套。"
+  },
+  {
+    "w": "like",
+    "zh": "喜欢；愿意；想",
+    "ex": "I like this book.",
+    "exz": "我喜欢这本书。"
+  },
+  {
+    "w": "here",
+    "zh": "在这里；此时",
+    "ex": "Please come here.",
+    "exz": "请到这里来。"
+  },
+  {
+    "w": "mother",
+    "zh": "母亲；大娘；女修道院院长",
+    "ex": "My mother is kind.",
+    "exz": "我的母亲很善良。"
+  },
+  {
+    "w": "listen",
+    "zh": "听，倾听；听从，听信",
+    "ex": "Please listen carefully.",
+    "exz": "请仔细听。"
+  },
+  {
+    "w": "room",
+    "zh": "房间；空间；机会；余地",
+    "ex": "This is my room.",
+    "exz": "这是我的房间。"
+  },
+  {
+    "w": "sport",
+    "zh": "运动；运动会；游戏；娱乐；玩笑",
+    "ex": "I like sport.",
+    "exz": "我喜欢运动。"
+  },
+  {
+    "w": "wait",
+    "zh": "等候；推迟；延缓",
+    "ex": "Please wait for me.",
+    "exz": "请等我。"
+  },
+  {
+    "w": "aunt",
+    "zh": "伯母；阿姨；舅妈；姑妈",
+    "ex": "My aunt is kind.",
+    "exz": "我的阿姨很善良。"
+  },
+  {
+    "w": "much",
+    "zh": "非常，很",
+    "ex": "I like it very much.",
+    "exz": "我非常喜欢它。"
+  },
+  {
+    "w": "police",
+    "zh": "警察，警方；治安",
+    "ex": "Call the police if needed.",
+    "exz": "需要时打电话给警察。"
+  },
+  {
+    "w": "boy",
+    "zh": "男孩；男人",
+    "ex": "The boy is playing.",
+    "exz": "男孩在玩。"
+  },
+  {
+    "w": "sister",
+    "zh": "姐妹；修女；护士",
+    "ex": "My sister is a teacher.",
+    "exz": "我的姐姐是老师。"
+  },
+  {
+    "w": "wrong",
+    "zh": "错误地；邪恶的，不正当地",
+    "ex": "This is wrong.",
+    "exz": "这是错的。"
+  },
+  {
+    "w": "cold",
+    "zh": "寒冷的；冷淡的，不热情的；失去知觉的",
+    "ex": "I feel cold.",
+    "exz": "我感到冷。"
+  },
+  {
+    "w": "song",
+    "zh": "歌曲；鸣声；歌唱；诗歌",
+    "ex": "I like this song.",
+    "exz": "我喜欢这首歌。"
+  },
+  {
+    "w": "kite",
+    "zh": "风筝",
+    "ex": "I fly a kite.",
+    "exz": "我放风筝。"
+  },
+  {
+    "w": "taxi",
+    "zh": "乘出租车；滑行",
+    "ex": "I take a taxi.",
+    "exz": "我坐出租车。"
+  },
+  {
+    "w": "are",
+    "zh": "是,在,公亩",
+    "ex": "You are my friend.",
+    "exz": "你是我的朋友。"
+  },
+  {
+    "w": "driver",
+    "zh": "驾驶员；驱动程序；起子；传动器",
+    "ex": "He is a bus driver.",
+    "exz": "他是公交车司机。"
+  },
+  {
+    "w": "heavy",
+    "zh": "沉重的；繁重的，巨大的；阴沉的",
+    "ex": "The box is heavy.",
+    "exz": "箱子很重。"
+  },
+  {
+    "w": "monkey",
+    "zh": "猴子；顽童",
+    "ex": "The monkey is funny.",
+    "exz": "猴子很有趣。"
+  },
+  {
+    "w": "colour",
+    "zh": "<英>(=color)颜色,气色,风格,外貌vt.把...涂颜色,粉饰,脸红,歪曲vi.变色",
+    "ex": "What is your favourite colour?",
+    "exz": "你最喜欢的颜色是什么？"
+  },
+  {
+    "w": "she",
+    "zh": "她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）",
+    "ex": "She is my sister.",
+    "exz": "她是我的姐姐。"
+  },
+  {
+    "w": "park",
+    "zh": "公园；停车场",
+    "ex": "I play in the park.",
+    "exz": "我在公园玩。"
+  },
+  {
+    "w": "bed",
+    "zh": "床；基础；河底， 海底",
+    "ex": "I sleep in the bed.",
+    "exz": "我在床上睡觉。"
+  },
+  {
+    "w": "walk",
+    "zh": "步行，走；散步",
+    "ex": "I walk to school.",
+    "exz": "我走路去学校。"
+  },
+  {
+    "w": "want",
+    "zh": "需要；缺少；应该；希望",
+    "ex": "I want a book.",
+    "exz": "我想要一本书。"
+  },
+  {
+    "w": "juice",
+    "zh": "果汁；（水果）汁，液",
+    "ex": "I drink orange juice.",
+    "exz": "我喝橙汁。"
+  },
+  {
+    "w": "way",
+    "zh": "道路；方法；方向；习惯；行业",
+    "ex": "This is the way to school.",
+    "exz": "这是去学校的路。"
+  },
+  {
+    "w": "a",
+    "zh": "一；任一；每一",
+    "ex": "I have a book.",
+    "exz": "我有一本书。"
+  },
+  {
+    "w": "window",
+    "zh": "窗；窗口；窗户",
+    "ex": "Please open the window.",
+    "exz": "请开窗。"
+  },
+  {
+    "w": "cool",
+    "zh": "冷静的；凉爽的；出色的",
+    "ex": "The weather is cool.",
+    "exz": "天气凉爽。"
+  },
+  {
+    "w": "yesterday",
+    "zh": "昨天；往昔",
+    "ex": "I saw him yesterday.",
+    "exz": "我昨天见到他。"
+  },
+  {
+    "w": "potato",
+    "zh": "土豆，马铃薯",
+    "ex": "I like potato.",
+    "exz": "我喜欢土豆。"
+  },
+  {
+    "w": "sweater",
+    "zh": "毛线衣，运动衫；大量出汗的人，发汗剂",
+    "ex": "I wear a sweater.",
+    "exz": "我穿毛衣。"
+  },
+  {
+    "w": "small",
+    "zh": "少的，小的；不重要的；几乎没有的；微弱的；幼小的",
+    "ex": "This is a small room.",
+    "exz": "这是一个小房间。"
+  },
+  {
+    "w": "meet",
+    "zh": "遇见；满足；对付",
+    "ex": "Nice to meet you.",
+    "exz": "很高兴见到你。"
+  },
+  {
+    "w": "visit",
+    "zh": "访问；参观；逗留",
+    "ex": "I visit my friend.",
+    "exz": "我拜访朋友。"
+  },
+  {
+    "w": "you",
+    "zh": "你；你们",
+    "ex": "How are you?",
+    "exz": "你好吗？"
+  },
+  {
+    "w": "face",
+    "zh": "脸；面容；表面；面子；威信；外观",
+    "ex": "Wash your face.",
+    "exz": "洗脸。"
+  },
+  {
+    "w": "dress",
+    "zh": "给 … 穿衣",
+    "ex": "She wears a dress.",
+    "exz": "她穿连衣裙。"
+  },
+  {
+    "w": "summer",
+    "zh": "夏季；全盛时期",
+    "ex": "I like summer.",
+    "exz": "我喜欢夏天。"
+  },
+  {
+    "w": "day",
+    "zh": "一天；白昼；时期",
+    "ex": "Today is a nice day.",
+    "exz": "今天是美好的一天。"
+  },
+  {
+    "w": "morning",
+    "zh": "早晨；初期；黎明",
+    "ex": "Good morning!",
+    "exz": "早上好！"
+  },
+  {
+    "w": "physical",
+    "zh": "身体的(physical labor)；物质的；物理的",
+    "ex": "I have a physical class.",
+    "exz": "我有体育课。"
+  },
+  {
+    "w": "with",
+    "zh": "用；支持；随着；和 … 在一起",
+    "ex": "I go with my friend.",
+    "exz": "我和朋友一起去。"
+  },
+  {
+    "w": "baby",
+    "zh": "婴儿，婴孩；孩子气的人",
+    "ex": "The baby is sleeping.",
+    "exz": "婴儿在睡觉。"
+  },
+  {
+    "w": "write",
+    "zh": "写，写字；写作，作曲；写信",
+    "ex": "I write a letter.",
+    "exz": "我写信。"
+  },
+  {
+    "w": "head",
+    "zh": "头；上端；最前的部分；头痛；理解力",
+    "ex": "My head hurts.",
+    "exz": "我头疼。"
+  },
+  {
+    "w": "story",
+    "zh": "故事；来历；新闻报道；小说；假话",
+    "ex": "I read a story.",
+    "exz": "我读故事。"
+  },
+  {
+    "w": "bread",
+    "zh": "生计；面包",
+    "ex": "I eat bread.",
+    "exz": "我吃面包。"
+  },
+  {
+    "w": "every",
+    "zh": "每一的，每个的；每隔 … 的",
+    "ex": "I go every day.",
+    "exz": "我每天去。"
+  },
+  {
+    "w": "swim",
+    "zh": "游泳；浸；漂浮；眩晕",
+    "ex": "I can swim.",
+    "exz": "我会游泳。"
+  },
+  {
+    "w": "red",
+    "zh": "红色，红颜料；赤字",
+    "ex": "The apple is red.",
+    "exz": "苹果是红色的。"
+  },
+  {
+    "w": "think",
+    "zh": "想；认为；想像；想起；打算",
+    "ex": "I think you are right.",
+    "exz": "我认为你是对的。"
+  },
+  {
+    "w": "fine",
+    "zh": "好的；优良的；晴朗的；健康的；细小的，精美的",
+    "ex": "I am fine.",
+    "exz": "我很好。"
+  },
+  {
+    "w": "teacher",
+    "zh": "教师；导师",
+    "ex": "My teacher is kind.",
+    "exz": "我的老师很善良。"
+  },
+  {
+    "w": "love",
+    "zh": "恋爱；酷爱；亲爱的；喜爱的事物",
+    "ex": "I love my family.",
+    "exz": "我爱我的家人。"
+  },
+  {
+    "w": "turn",
+    "zh": "转动，使旋转；转弯；兑换；翻过来",
+    "ex": "I learn the word turn.",
+    "exz": "我学习单词turn。"
+  },
+  {
+    "w": "woman",
+    "zh": "女性；妇女；成年女子",
+    "ex": "I learn the word woman.",
+    "exz": "我学习单词woman。"
+  },
+  {
+    "w": "shirt",
+    "zh": "衬衫；汗衫，内衣",
+    "ex": "I learn the word shirt.",
+    "exz": "我学习单词shirt。"
+  },
+  {
+    "w": "under",
+    "zh": "低于，少于；在 ... 之下",
+    "ex": "I learn the word under.",
+    "exz": "我学习单词under。"
+  },
+  {
+    "w": "thank",
+    "zh": "感谢",
+    "ex": "I learn the word thank.",
+    "exz": "我学习单词thank。"
+  },
+  {
+    "w": "any",
+    "zh": "任何的；所有的；丝毫",
+    "ex": "I learn the word any.",
+    "exz": "我学习单词any。"
+  },
+  {
+    "w": "study",
+    "zh": "学习，研究；学问；课题；书房",
+    "ex": "I learn the word study.",
+    "exz": "我学习单词study。"
+  },
+  {
+    "w": "duck",
+    "zh": "鸭子；鸭肉；（英）宝贝儿；零分",
+    "ex": "I learn the word duck.",
+    "exz": "我学习单词duck。"
+  },
+  {
+    "w": "before",
+    "zh": "在 … 之前，先于",
+    "ex": "I learn the word before.",
+    "exz": "我学习单词before。"
+  },
+  {
+    "w": "or",
+    "zh": "或，或者；还是",
+    "ex": "I learn the word or.",
+    "exz": "我学习单词or。"
+  },
+  {
+    "w": "noodle",
+    "zh": "面条；笨蛋",
+    "ex": "I learn the word noodle.",
+    "exz": "我学习单词noodle。"
+  },
+  {
+    "w": "fast",
+    "zh": "快速的，迅速的；紧的，稳固的",
+    "ex": "I learn the word fast.",
+    "exz": "我学习单词fast。"
+  },
+  {
+    "w": "about",
+    "zh": "关于；大约",
+    "ex": "I learn the word about.",
+    "exz": "我学习单词about。"
+  },
+  {
+    "w": "fly",
+    "zh": "飞；飘扬；驾驶飞机",
+    "ex": "I learn the word fly.",
+    "exz": "我学习单词fly。"
+  },
+  {
+    "w": "interesting",
+    "zh": "有趣的；引起兴趣的，令人关注的",
+    "ex": "I learn the word interesting.",
+    "exz": "我学习单词interesting。"
+  },
+  {
+    "w": "card",
+    "zh": "卡片；纸牌；明信片",
+    "ex": "I learn the word card.",
+    "exz": "我学习单词card。"
+  },
+  {
+    "w": "fish",
+    "zh": "捕鱼，钓鱼；用钩捞取",
+    "ex": "I learn the word fish.",
+    "exz": "我学习单词fish。"
+  },
+  {
+    "w": "weather",
+    "zh": "天气；气象；处境；气候",
+    "ex": "I learn the word weather.",
+    "exz": "我学习单词weather。"
+  },
+  {
+    "w": "favorite",
+    "zh": "幸运儿；喜欢的事物；特别喜欢的人",
+    "ex": "I learn the word favorite.",
+    "exz": "我学习单词favorite。"
+  },
+  {
+    "w": "grandma",
+    "zh": "奶奶；外婆",
+    "ex": "I learn the word grandma.",
+    "exz": "我学习单词grandma。"
+  },
+  {
+    "w": "use",
+    "zh": "使用；用途；发挥",
+    "ex": "I learn the word use.",
+    "exz": "我学习单词use。"
+  },
+  {
+    "w": "film",
+    "zh": "胶卷；电影；薄膜；轻烟",
+    "ex": "I learn the word film.",
+    "exz": "我学习单词film。"
+  },
+  {
+    "w": "ear",
+    "zh": "耳朵；听觉；倾听；穗",
+    "ex": "I learn the word ear.",
+    "exz": "我学习单词ear。"
+  },
+  {
+    "w": "basketball",
+    "zh": "篮球；篮球运动",
+    "ex": "I learn the word basketball.",
+    "exz": "我学习单词basketball。"
+  },
+  {
+    "w": "bye",
+    "zh": "再见",
+    "ex": "I learn the word bye.",
+    "exz": "我学习单词bye。"
+  },
+  {
+    "w": "foot",
+    "zh": "脚；英尺；末尾；步调",
+    "ex": "I learn the word foot.",
+    "exz": "我学习单词foot。"
+  },
+  {
+    "w": "run",
+    "zh": "奔跑；运转；经营",
+    "ex": "I learn the word run.",
+    "exz": "我学习单词run。"
+  },
+  {
+    "w": "that",
+    "zh": "那；那个",
+    "ex": "I learn the word that.",
+    "exz": "我学习单词that。"
+  },
+  {
+    "w": "their",
+    "zh": "他们的，她们的；它们的",
+    "ex": "I learn the word their.",
+    "exz": "我学习单词their。"
+  },
+  {
+    "w": "star",
+    "zh": "星，恒星；明星；星形物",
+    "ex": "I learn the word star.",
+    "exz": "我学习单词star。"
+  },
+  {
+    "w": "tall",
+    "zh": "高的；长的；夸大的；过分的",
+    "ex": "I learn the word tall.",
+    "exz": "我学习单词tall。"
+  },
+  {
+    "w": "afraid",
+    "zh": "害怕的；担心的；恐怕",
+    "ex": "I learn the word afraid.",
+    "exz": "我学习单词afraid。"
+  },
+  {
+    "w": "uncle",
+    "zh": "伯父；姨丈；叔叔；舅父；姑父；伯伯",
+    "ex": "I learn the word uncle.",
+    "exz": "我学习单词uncle。"
+  },
+  {
+    "w": "young",
+    "zh": "年轻的；初期的；没有经验的",
+    "ex": "I learn the word young.",
+    "exz": "我学习单词young。"
+  },
+  {
+    "w": "apple",
+    "zh": "苹果；家伙",
+    "ex": "I learn the word apple.",
+    "exz": "我学习单词apple。"
+  },
+  {
+    "w": "long",
+    "zh": "长时间；长音节",
+    "ex": "I learn the word long.",
+    "exz": "我学习单词long。"
+  },
+  {
+    "w": "tomorrow",
+    "zh": "明天；未来",
+    "ex": "I learn the word tomorrow.",
+    "exz": "我学习单词tomorrow。"
+  },
+  {
+    "w": "on",
+    "zh": "向前地；继续着；作用中，行动中",
+    "ex": "I learn the word on.",
+    "exz": "我学习单词on。"
+  },
+  {
+    "w": "breakfast",
+    "zh": "早餐；早饭",
+    "ex": "I learn the word breakfast.",
+    "exz": "我学习单词breakfast。"
+  },
+  {
+    "w": "also",
+    "zh": "也；同样；而且",
+    "ex": "I learn the word also.",
+    "exz": "我学习单词also。"
+  },
+  {
+    "w": "then",
+    "zh": "当时；然后；那么；于是；此外",
+    "ex": "I learn the word then.",
+    "exz": "我学习单词then。"
+  },
+  {
+    "w": "toilet",
+    "zh": "厕所，盥洗室；梳妆，打扮",
+    "ex": "I learn the word toilet.",
+    "exz": "我学习单词toilet。"
+  },
+  {
+    "w": "crayon",
+    "zh": "蜡笔，有色粉笔",
+    "ex": "I learn the word crayon.",
+    "exz": "我学习单词crayon。"
+  },
+  {
+    "w": "dinner",
+    "zh": "宴会；正餐；晚餐，晚宴",
+    "ex": "I learn the word dinner.",
+    "exz": "我学习单词dinner。"
+  },
+  {
+    "w": "dance",
+    "zh": "舞蹈；舞曲；舞会",
+    "ex": "I learn the word dance.",
+    "exz": "我学习单词dance。"
+  },
+  {
+    "w": "leg",
+    "zh": "腿；支柱",
+    "ex": "I learn the word leg.",
+    "exz": "我学习单词leg。"
+  },
+  {
+    "w": "how",
+    "zh": "多么；多少；如何",
+    "ex": "I learn the word how.",
+    "exz": "我学习单词how。"
+  },
+  {
+    "w": "holiday",
+    "zh": "假日；节日；休息日",
+    "ex": "I learn the word holiday.",
+    "exz": "我学习单词holiday。"
+  },
+  {
+    "w": "email",
+    "zh": "电子信函",
+    "ex": "I learn the word email.",
+    "exz": "我学习单词email。"
+  },
+  {
+    "w": "often",
+    "zh": "常常，时常",
+    "ex": "I learn the word often.",
+    "exz": "我学习单词often。"
+  },
+  {
+    "w": "work",
+    "zh": "工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作；功",
+    "ex": "I learn the word work.",
+    "exz": "我学习单词work。"
+  },
+  {
+    "w": "tiger",
+    "zh": "老虎；凶暴的人",
+    "ex": "I learn the word tiger.",
+    "exz": "我学习单词tiger。"
+  },
+  {
+    "w": "travel",
+    "zh": "旅行；步行；行进；交往",
+    "ex": "I learn the word travel.",
+    "exz": "我学习单词travel。"
+  },
+  {
+    "w": "cap",
+    "zh": "帽子；盖",
+    "ex": "I learn the word cap.",
+    "exz": "我学习单词cap。"
+  },
+  {
+    "w": "jump",
+    "zh": "跳跃；暴涨；惊跳",
+    "ex": "I learn the word jump.",
+    "exz": "我学习单词jump。"
+  },
+  {
+    "w": "time",
+    "zh": "时间；次数；时代；节拍；倍数",
+    "ex": "I learn the word time.",
+    "exz": "我学习单词time。"
+  },
+  {
+    "w": "maths",
+    "zh": "数学",
+    "ex": "I learn the word maths.",
+    "exz": "我学习单词maths。"
+  },
+  {
+    "w": "farm",
+    "zh": "种田，务农；经营农场",
+    "ex": "I learn the word farm.",
+    "exz": "我学习单词farm。"
+  },
+  {
+    "w": "egg",
+    "zh": "蛋；卵子；家伙",
+    "ex": "I learn the word egg.",
+    "exz": "我学习单词egg。"
+  },
+  {
+    "w": "begin",
+    "zh": "开始",
+    "ex": "I learn the word begin.",
+    "exz": "我学习单词begin。"
+  },
+  {
+    "w": "house",
+    "zh": "住宅；家庭；某种用途的建筑物；机构；议会",
+    "ex": "I learn the word house.",
+    "exz": "我学习单词house。"
+  },
+  {
+    "w": "grandpa",
+    "zh": "爷爷；外公",
+    "ex": "I learn the word grandpa.",
+    "exz": "我学习单词grandpa。"
+  },
+  {
+    "w": "always",
+    "zh": "总是；永远，一直；常常",
+    "ex": "I learn the word always.",
+    "exz": "我学习单词always。"
+  },
+  {
+    "w": "behind",
+    "zh": "支持；落后于；晚于",
+    "ex": "I learn the word behind.",
+    "exz": "我学习单词behind。"
+  },
+  {
+    "w": "snow",
+    "zh": "雪，积雪；下雪",
+    "ex": "I learn the word snow.",
+    "exz": "我学习单词snow。"
+  },
+  {
+    "w": "brother",
+    "zh": "兄弟；战友；同事",
+    "ex": "I learn the word brother.",
+    "exz": "我学习单词brother。"
+  },
+  {
+    "w": "us",
+    "zh": "我们",
+    "ex": "I learn the word us.",
+    "exz": "我学习单词us。"
+  },
+  {
+    "w": "cow",
+    "zh": "奶牛，母牛；母兽",
+    "ex": "I learn the word cow.",
+    "exz": "我学习单词cow。"
+  },
+  {
+    "w": "old",
+    "zh": "年老的；陈旧的，古老的",
+    "ex": "I learn the word old.",
+    "exz": "我学习单词old。"
+  },
+  {
+    "w": "speak",
+    "zh": "说话；演讲；陈述；表明",
+    "ex": "I learn the word speak.",
+    "exz": "我学习单词speak。"
+  },
+  {
+    "w": "clever",
+    "zh": "聪明的；机灵的；熟练的",
+    "ex": "I learn the word clever.",
+    "exz": "我学习单词clever。"
+  },
+  {
+    "w": "feet",
+    "zh": "脚(pl.),(foot的复数),英尺,韵脚",
+    "ex": "I learn the word feet.",
+    "exz": "我学习单词feet。"
+  },
+  {
+    "w": "autumn",
+    "zh": "秋天；成熟期；渐衰期，凋落期",
+    "ex": "I learn the word autumn.",
+    "exz": "我学习单词autumn。"
+  },
+  {
+    "w": "miss",
+    "zh": "漏掉；错过；想念",
+    "ex": "I learn the word miss.",
+    "exz": "我学习单词miss。"
+  },
+  {
+    "w": "whose",
+    "zh": "谁的（疑问代词）",
+    "ex": "I learn the word whose.",
+    "exz": "我学习单词whose。"
+  },
+  {
+    "w": "the",
+    "zh": "这；那； adv. 更加（用于比较级，最高级前）",
+    "ex": "I learn the word the.",
+    "exz": "我学习单词the。"
+  },
+  {
+    "w": "watch",
+    "zh": "注视；观察；看守；警戒",
+    "ex": "I learn the word watch.",
+    "exz": "我学习单词watch。"
+  },
+  {
+    "w": "kid",
+    "zh": "小孩；小山羊",
+    "ex": "I learn the word kid.",
+    "exz": "我学习单词kid。"
+  },
+  {
+    "w": "half",
+    "zh": "一半；半场；半学年",
+    "ex": "I learn the word half.",
+    "exz": "我学习单词half。"
+  },
+  {
+    "w": "women",
+    "zh": "女人",
+    "ex": "I learn the word women.",
+    "exz": "我学习单词women。"
+  },
+  {
+    "w": "sometimes",
+    "zh": "有时，间或",
+    "ex": "I learn the word sometimes.",
+    "exz": "我学习单词sometimes。"
+  },
+  {
+    "w": "dad",
+    "zh": "爸爸；爹爹",
+    "ex": "I learn the word dad.",
+    "exz": "我学习单词dad。"
+  },
+  {
+    "w": "there",
+    "zh": "在那里；在那点上；在那边",
+    "ex": "I learn the word there.",
+    "exz": "我学习单词there。"
+  },
+  {
+    "w": "warm",
+    "zh": "温暖的；热情的",
+    "ex": "I learn the word warm.",
+    "exz": "我学习单词warm。"
+  },
+  {
+    "w": "try",
+    "zh": "试验；审判；考验；试图，努力",
+    "ex": "I learn the word try.",
+    "exz": "我学习单词try。"
+  },
+  {
+    "w": "lake",
+    "zh": "湖；深红色颜料；胭脂红",
+    "ex": "I learn the word lake.",
+    "exz": "我学习单词lake。"
+  },
+  {
+    "w": "arm",
+    "zh": "手臂；袖子；武器；装备",
+    "ex": "I learn the word arm.",
+    "exz": "我学习单词arm。"
+  },
+  {
+    "w": "panda",
+    "zh": "熊猫；猫熊",
+    "ex": "I learn the word panda.",
+    "exz": "我学习单词panda。"
+  },
+  {
+    "w": "favourite",
+    "zh": "特别受喜爱的",
+    "ex": "I learn the word favourite.",
+    "exz": "我学习单词favourite。"
+  },
+  {
+    "w": "hello",
+    "zh": "喂；哈罗",
+    "ex": "I learn the word hello.",
+    "exz": "我学习单词hello。"
+  },
+  {
+    "w": "city",
+    "zh": "城市，都市",
+    "ex": "I learn the word city.",
+    "exz": "我学习单词city。"
+  },
+  {
+    "w": "pupil",
+    "zh": "学生；瞳孔；未成年人",
+    "ex": "I learn the word pupil.",
+    "exz": "我学习单词pupil。"
+  },
+  {
+    "w": "dirty",
+    "zh": "污秽的；下流的，卑鄙的；恶劣的；暗淡的",
+    "ex": "I learn the word dirty.",
+    "exz": "我学习单词dirty。"
+  },
+  {
+    "w": "new",
+    "zh": "新的，新鲜的；更新的；初见的",
+    "ex": "This is a new book.",
+    "exz": "这是一本新书。"
+  },
+  {
+    "w": "dear",
+    "zh": "亲爱的；昂贵的；尊敬的",
+    "ex": "Dear friend, how are you?",
+    "exz": "亲爱的朋友，你好吗？"
+  },
+  {
+    "w": "art",
+    "zh": "艺术；美术；艺术品",
+    "ex": "I like art.",
+    "exz": "我喜欢艺术。"
+  },
+  {
+    "w": "nurse",
+    "zh": "看护，护理；培养；照顾；给 … 喂奶",
+    "ex": "The nurse helps the patients.",
+    "exz": "护士帮助病人。"
+  },
+  {
+    "w": "zoo",
+    "zh": "动物园",
+    "ex": "I go to the zoo.",
+    "exz": "我去动物园。"
+  },
+  {
+    "w": "music",
+    "zh": "音乐，乐曲",
+    "ex": "I like music.",
+    "exz": "我喜欢音乐。"
+  },
+  {
+    "w": "call",
+    "zh": "呼叫；拜访；叫牌",
+    "ex": "Please call me.",
+    "exz": "请打电话给我。"
+  },
+  {
+    "w": "month",
+    "zh": "月，一个月的时间",
+    "ex": "There are 12 months in a year.",
+    "exz": "一年有12个月。"
+  },
+  {
+    "w": "candy",
+    "zh": "用糖煮；使结晶为砂糖；美化",
+    "ex": "I like candy.",
+    "exz": "我喜欢糖果。"
+  },
+  {
+    "w": "lesson",
+    "zh": "课；教训",
+    "ex": "I have an English lesson.",
+    "exz": "我有英语课。"
+  },
+  {
+    "w": "be",
+    "zh": "在，存在；是",
+    "ex": "I want to be a teacher.",
+    "exz": "我想成为老师。"
+  },
+  {
+    "w": "these",
+    "zh": "这些",
+    "ex": "These are my books.",
+    "exz": "这些是我的书。"
+  },
+  {
+    "w": "white",
+    "zh": "白色的；白种的；纯洁的",
+    "ex": "The paper is white.",
+    "exz": "纸是白色的。"
+  },
+  {
+    "w": "too",
+    "zh": "也；太；非常；还；过度；很",
+    "ex": "I like it too.",
+    "exz": "我也喜欢它。"
+  },
+  {
+    "w": "blackboard",
+    "zh": "黑板",
+    "ex": "Please look at the blackboard.",
+    "exz": "请看黑板。"
+  },
+  {
+    "w": "English",
+    "zh": "英国人的；英国的；英文的",
+    "ex": "I study English.",
+    "exz": "我学习英语。"
+  },
+  {
+    "w": "worry",
+    "zh": "烦恼；担心；撕咬 v. (使)担心",
+    "ex": "Don't worry.",
+    "exz": "不要担心。"
+  },
+  {
+    "w": "help",
+    "zh": "帮助；治疗；促进；补救",
+    "ex": "Please help me.",
+    "exz": "请帮助我。"
+  },
+  {
+    "w": "school",
+    "zh": "学校；学派；学院；鱼群",
+    "ex": "I go to school every day.",
+    "exz": "我每天去学校。"
+  },
+  {
+    "w": "cloudy",
+    "zh": "多云的；阴天的；愁容满面的",
+    "ex": "It is cloudy today.",
+    "exz": "今天多云。"
+  },
+  {
+    "w": "bus",
+    "zh": "公共汽车",
+    "ex": "I take the bus.",
+    "exz": "我坐公交车。"
+  },
+  {
+    "w": "body",
+    "zh": "身体；主体；团体；主要部分；大量",
+    "ex": "Wash your body.",
+    "exz": "洗身体。"
+  },
+  {
+    "w": "I",
+    "zh": "我",
+    "ex": "I am a student.",
+    "exz": "我是学生。"
+  },
+  {
+    "w": "hair",
+    "zh": "头发；毛发；些微",
+    "ex": "I wash my hair.",
+    "exz": "我洗头发。"
+  },
+  {
+    "w": "why",
+    "zh": "哎呀！什么？",
+    "ex": "Why are you late?",
+    "exz": "你为什么迟到？"
+  },
+  {
+    "w": "train",
+    "zh": "火车；行列；长队；裙裾",
+    "ex": "I take the train.",
+    "exz": "我坐火车。"
+  },
+  {
+    "w": "milk",
+    "zh": "牛奶；乳状物",
+    "ex": "I drink milk.",
+    "exz": "我喝牛奶。"
+  },
+  {
+    "w": "down",
+    "zh": "向下，下去；在下面",
+    "ex": "Please sit down.",
+    "exz": "请坐下。"
+  },
+  {
+    "w": "vegetable",
+    "zh": "蔬菜；植物；植物人",
+    "ex": "I eat vegetables.",
+    "exz": "我吃蔬菜。"
+  },
+  {
+    "w": "read",
+    "zh": "阅读；读懂，理解",
+    "ex": "I read a book.",
+    "exz": "我读一本书。"
+  },
+  {
+    "w": "table",
+    "zh": "桌子；表格；平地层",
+    "ex": "The book is on the table.",
+    "exz": "书在桌子上。"
+  },
+  {
+    "w": "beautiful",
+    "zh": "美丽的",
+    "ex": "The flower is beautiful.",
+    "exz": "花很漂亮。"
+  },
+  {
+    "w": "sunny",
+    "zh": "阳光充足的，和煦的；快活的；性情开朗的",
+    "ex": "It is sunny today.",
+    "exz": "今天阳光明媚。"
+  },
+  {
+    "w": "shop",
+    "zh": "商店；店铺",
+    "ex": "I go to the shop.",
+    "exz": "我去商店。"
+  },
+  {
+    "w": "welcome",
+    "zh": "受欢迎的",
+    "ex": "Welcome to our school.",
+    "exz": "欢迎来到我们学校。"
+  },
+  {
+    "w": "plane",
+    "zh": "平面；飞机；程度，水平",
+    "ex": "I take a plane.",
+    "exz": "我坐飞机。"
+  },
+  {
+    "w": "big",
+    "zh": "大的；重要的；量大的",
+    "ex": "This is a big house.",
+    "exz": "这是大房子。"
+  },
+  {
+    "w": "bring",
+    "zh": "带来；引起；促使；使某人处于某种情况或境地",
+    "ex": "Please bring the book.",
+    "exz": "请带书。"
+  },
+  {
+    "w": "family",
+    "zh": "家庭；家族；家属；亲属；子女；僚属",
+    "ex": "I love my family.",
+    "exz": "我爱我的家人。"
+  },
+  {
+    "w": "clock",
+    "zh": "时钟；计时器",
+    "ex": "Look at the clock.",
+    "exz": "看时钟。"
+  },
+  {
+    "w": "hungry",
+    "zh": "饥饿的；渴望的；荒年的；不毛的",
+    "ex": "I am hungry.",
+    "exz": "我饿了。"
+  },
+  {
+    "w": "soup",
+    "zh": "汤，羹；马力",
+    "ex": "I eat soup.",
+    "exz": "我喝汤。"
+  },
+  {
+    "w": "party",
+    "zh": "聚会，派对；政党，党派；当事人",
+    "ex": "I go to a party.",
+    "exz": "我去参加派对。"
+  },
+  {
+    "w": "some",
+    "zh": "一些；大约；某一",
+    "ex": "I want some water.",
+    "exz": "我想要一些水。"
+  },
+  {
+    "w": "game",
+    "zh": "游戏；比赛",
+    "ex": "We play a game.",
+    "exz": "我们玩游戏。"
+  },
+  {
+    "w": "has",
+    "zh": "have 的第三人称单数现在式",
+    "ex": "He has a book.",
+    "exz": "他有一本书。"
+  },
+  {
+    "w": "yellow",
+    "zh": "黄色的；黄皮肤的",
+    "ex": "The banana is yellow.",
+    "exz": "香蕉是黄色的。"
+  },
+  {
+    "w": "play",
+    "zh": "演奏；播放；游戏；扮演；同 … 比赛",
+    "ex": "I play football.",
+    "exz": "我踢足球。"
+  },
+  {
+    "w": "lunch",
+    "zh": "午餐",
+    "ex": "I have lunch at school.",
+    "exz": "我在学校吃午饭。"
+  },
+  {
+    "w": "left",
+    "zh": "左边；左派",
+    "ex": "Turn left.",
+    "exz": "向左转。"
+  },
+  {
+    "w": "photo",
+    "zh": "照片",
+    "ex": "This is a nice photo.",
+    "exz": "这是一张漂亮的照片。"
+  },
+  {
+    "w": "short",
+    "zh": "短的；不足的；急速的；唐突的",
+    "ex": "The pencil is short.",
+    "exz": "铅笔很短。"
+  },
+  {
+    "w": "do",
+    "zh": "要求；规定； C 大调音阶中的第一音",
+    "ex": "What do you do?",
+    "exz": "你做什么？"
+  },
+  {
+    "w": "Hi",
+    "zh": "嗨！（表示问候或用以唤起注意）",
+    "ex": "Hi, how are you?",
+    "exz": "嗨，你好吗？"
+  },
+  {
+    "w": "nose",
+    "zh": "鼻子；嗅觉；突出的部分；探问",
+    "ex": "I touch my nose.",
+    "exz": "我碰鼻子。"
+  },
+  {
+    "w": "let",
+    "zh": "允许，让；出租；假设；妨碍",
+    "ex": "Please let me help.",
+    "exz": "请让我帮忙。"
+  },
+  {
+    "w": "to",
+    "zh": "向前；（门等）关上",
+    "ex": "I go to school.",
+    "exz": "我去学校。"
+  },
+  {
+    "w": "elephant",
+    "zh": "象；大号图画纸",
+    "ex": "The elephant is big.",
+    "exz": "大象很大。"
+  },
+  {
+    "w": "shorts",
+    "zh": "短裤",
+    "ex": "I wear shorts in summer.",
+    "exz": "我夏天穿短裤。"
+  },
+  {
+    "w": "difficult",
+    "zh": "困难的；不随和的；执拗的",
+    "ex": "This is a difficult question.",
+    "exz": "这是一个难题。"
+  },
+  {
+    "w": "goodbye",
+    "zh": "再见",
+    "ex": "Goodbye!",
+    "exz": "再见！"
+  },
+  {
+    "w": "minute",
+    "zh": "片刻，一会儿；分，分钟；备忘录，笔记；会议记录",
+    "ex": "Wait a minute.",
+    "exz": "等一分钟。"
+  },
+  {
+    "w": "after",
+    "zh": "后来，以后",
+    "ex": "I go home after school.",
+    "exz": "我放学后回家。"
+  },
+  {
+    "w": "me",
+    "zh": "我（宾格）",
+    "ex": "Please help me.",
+    "exz": "请帮助我。"
+  },
+  {
+    "w": "mum",
+    "zh": "沉默的",
+    "ex": "I love my mum.",
+    "exz": "我爱我的妈妈。"
+  },
+  {
+    "w": "back",
+    "zh": "背部；后面；靠背；足球等的后卫；书报等的末尾",
+    "ex": "Please come back.",
+    "exz": "请回来。"
+  },
+  {
+    "w": "sit",
+    "zh": "坐；位于",
+    "ex": "Please sit down.",
+    "exz": "请坐下。"
+  },
+  {
+    "w": "bird",
+    "zh": "鸟；家伙；羽毛球",
+    "ex": "The bird is flying.",
+    "exz": "鸟在飞。"
+  },
+  {
+    "w": "science",
+    "zh": "科学；理科；技术；学科",
+    "ex": "I like science.",
+    "exz": "我喜欢科学。"
+  },
+  {
+    "w": "hospital",
+    "zh": "医院",
+    "ex": "I go to the hospital.",
+    "exz": "我去医院。"
+  },
+  {
+    "w": "say",
+    "zh": "讲；说明；指明；假设；例如；声称",
+    "ex": "Please say it again.",
+    "exz": "请再说一遍。"
+  },
+  {
+    "w": "word",
+    "zh": "单词；话语；消息；诺言；命令",
+    "ex": "This is a new word.",
+    "exz": "这是一个新单词。"
+  },
+  {
+    "w": "sorry",
+    "zh": "对不起的，抱歉的；遗憾的",
+    "ex": "I am sorry.",
+    "exz": "对不起。"
+  },
+  {
+    "w": "not",
+    "zh": "不（用于否定句）",
+    "ex": "I am not tired.",
+    "exz": "我不累。"
+  },
+  {
+    "w": "farmer",
+    "zh": "农夫，农民",
+    "ex": "The farmer works in the field.",
+    "exz": "农民在田里工作。"
+  },
+  {
+    "w": "blue",
+    "zh": "蓝色的；忧郁的，沮丧的；下流的",
+    "ex": "The sky is blue.",
+    "exz": "天空是蓝色的。"
+  },
+  {
+    "w": "rice",
+    "zh": "稻；米饭",
+    "ex": "I eat rice.",
+    "exz": "我吃米饭。"
+  },
+  {
+    "w": "sleep",
+    "zh": "睡，睡觉",
+    "ex": "I sleep eight hours.",
+    "exz": "我睡八小时。"
+  },
+  {
+    "w": "high",
+    "zh": "高的；高级的；高音调的；崇高的",
+    "ex": "The mountain is high.",
+    "exz": "山很高。"
+  },
+  {
+    "w": "ask",
+    "zh": "问，询问；邀请；要求；需要；讨价",
+    "ex": "Please ask a question.",
+    "exz": "请问问题。"
+  },
+  {
+    "w": "name",
+    "zh": "名称，名字；姓名；名誉",
+    "ex": "What is your name?",
+    "exz": "你叫什么名字？"
+  },
+  {
+    "w": "worker",
+    "zh": "工人；劳动者；职蚁",
+    "ex": "He is a hard worker.",
+    "exz": "他是勤奋的工人。"
+  },
+  {
+    "w": "children",
+    "zh": "儿童，小孩；子女",
+    "ex": "The children are playing.",
+    "exz": "孩子们在玩。"
+  },
+  {
+    "w": "bag",
+    "zh": "袋；猎获物；（俚）一瓶啤酒； vt. 猎获；把 … 装入袋中；占据，私吞；使膨大； vi. 松垂",
+    "ex": "I carry a bag.",
+    "exz": "我提着包。"
+  },
+  {
+    "w": "bicycle",
+    "zh": "自行车",
+    "ex": "I ride a bicycle.",
+    "exz": "我骑自行车。"
+  },
+  {
+    "w": "yes",
+    "zh": "是",
+    "ex": "Yes, I agree.",
+    "exz": "是的，我同意。"
+  },
+  {
+    "w": "stop",
+    "zh": "堵塞；停止；断绝",
+    "ex": "Please stop talking.",
+    "exz": "请停止说话。"
+  },
+  {
+    "w": "now",
+    "zh": "现在；立刻；如今",
+    "ex": "I am busy now.",
+    "exz": "我现在很忙。"
+  },
+  {
+    "w": "trousers",
+    "zh": "裤子，长裤",
+    "ex": "I wear trousers.",
+    "exz": "我穿裤子。"
+  },
+  {
+    "w": "mom",
+    "zh": "妈妈",
+    "ex": "I love my mom.",
+    "exz": "我爱我的妈妈。"
+  },
+  {
+    "w": "color",
+    "zh": "颜色；脸色；肤色；颜料",
+    "ex": "What is your favourite color?",
+    "exz": "你最喜欢的颜色是什么？"
+  },
+  {
+    "w": "it",
+    "zh": "它",
+    "ex": "It is a book.",
+    "exz": "它是一本书。"
+  },
+  {
+    "w": "black",
+    "zh": "黑色的；黑人的；邪恶的",
+    "ex": "The dog is black.",
+    "exz": "狗是黑色的。"
+  },
+  {
+    "w": "and",
+    "zh": "和，与；而且；然后；就；但是",
+    "ex": "I like tea and coffee.",
+    "exz": "我喜欢茶和咖啡。"
+  },
+  {
+    "w": "desk",
+    "zh": "办公桌；服务台；编辑部；（美）讲道台；乐谱架",
+    "ex": "The book is on the desk.",
+    "exz": "书在桌子上。"
+  },
+  {
+    "w": "good",
+    "zh": "愉快的；好的；虔诚的；优良的",
+    "ex": "This is a good book.",
+    "exz": "这是一本好书。"
+  },
+  {
+    "w": "subject",
+    "zh": "主题；科目；国民；主语",
+    "ex": "English is my favourite subject.",
+    "exz": "英语是我最喜欢的科目。"
+  },
+  {
+    "w": "wash",
+    "zh": "洗涤；洗的衣服；冲积物；化妆水",
+    "ex": "Please wash your hands.",
+    "exz": "请洗手。"
+  },
+  {
+    "w": "again",
+    "zh": "再一次；又，此外",
+    "ex": "Please say it again.",
+    "exz": "请再说一遍。"
+  },
+  {
+    "w": "PE",
+    "zh": "Peru,秘鲁;Product Engineering,产品工程 体育课,体能训练 PE(physical education)",
+    "ex": "I have PE class today.",
+    "exz": "我今天有体育课。"
+  },
+  {
+    "w": "sad",
+    "zh": "悲哀的，令人悲痛的；难过的；凄惨的，阴郁的（形容颜色）",
+    "ex": "I feel sad.",
+    "exz": "我感到悲伤。"
+  },
+  {
+    "w": "tomato",
+    "zh": "番茄，西红柿",
+    "ex": "I like tomato.",
+    "exz": "我喜欢番茄。"
+  },
+  {
+    "w": "picture",
+    "zh": "照片，图画；景色；影片；化身",
+    "ex": "This is a nice picture.",
+    "exz": "这是一张漂亮的图片。"
+  },
+  {
+    "w": "cousin",
+    "zh": "堂兄弟姊妹；表兄弟姊妹",
+    "ex": "He is my cousin.",
+    "exz": "他是我的堂兄弟。"
+  },
+  {
+    "w": "healthy",
+    "zh": "健康的，健全的；有益于健康的",
+    "ex": "I want to be healthy.",
+    "exz": "我想健康。"
+  },
+  {
+    "w": "orange",
+    "zh": "橘色的；橙色的",
+    "ex": "The orange is sweet.",
+    "exz": "橙子很甜。"
+  },
+  {
+    "w": "of",
+    "zh": "属于；关于； … 的；由 … 组成的",
+    "ex": "This is a book of mine.",
+    "exz": "这是我的一本书。"
+  },
+  {
+    "w": "sing",
+    "zh": "唱歌；鸣叫；歌颂；呼号",
+    "ex": "I like to sing.",
+    "exz": "我喜欢唱歌。"
+  },
+  {
+    "w": "easy",
+    "zh": "容易的；舒适的",
+    "ex": "This is an easy question.",
+    "exz": "这是一个简单问题。"
+  },
+  {
+    "w": "shoe",
+    "zh": "鞋；蹄铁；外胎",
+    "ex": "I wear shoes.",
+    "exz": "我穿鞋。"
+  },
+  {
+    "w": "kind",
+    "zh": "种类；性质",
+    "ex": "She is a kind person.",
+    "exz": "她是善良的人。"
+  },
+  {
+    "w": "winter",
+    "zh": "冬季；年岁；萧条期",
+    "ex": "Winter is cold.",
+    "exz": "冬天很冷。"
+  },
+  {
+    "w": "floor",
+    "zh": "地板，地面；楼层；基底；议员席",
+    "ex": "The floor is clean.",
+    "exz": "地板很干净。"
+  },
+  {
+    "w": "but",
+    "zh": "但是；然而；而是",
+    "ex": "I like tea but not coffee.",
+    "exz": "我喜欢茶但不喜欢咖啡。"
+  },
+  {
+    "w": "today",
+    "zh": "今天；现今",
+    "ex": "I am busy today.",
+    "exz": "我今天很忙。"
+  },
+  {
+    "w": "year",
+    "zh": "年；历年；年度",
+    "ex": "There are 12 months in a year.",
+    "exz": "一年有12个月。"
+  },
+  {
+    "w": "draw",
+    "zh": "画；拉；吸引",
+    "ex": "I draw a picture.",
+    "exz": "我画一幅画。"
+  },
+  {
+    "w": "wonderful",
+    "zh": "奇妙的；极好的",
+    "ex": "This is a wonderful day.",
+    "exz": "这是美好的一天。"
+  },
+  {
+    "w": "at",
+    "zh": "在（表示存在或出现的地点、场所、位置、空间）；向；朝；因为；忙于；以（某种价格、速度等）",
+    "ex": "I am at school.",
+    "exz": "我在学校。"
+  },
+  {
+    "w": "cake",
+    "zh": "蛋糕；块状物；利益总额",
+    "ex": "I like cake.",
+    "exz": "我喜欢蛋糕。"
+  },
+  {
+    "w": "schoolbag",
+    "zh": "书包",
+    "ex": "I carry a schoolbag.",
+    "exz": "我提着书包。"
+  },
+  {
+    "w": "late",
+    "zh": "迟的；晚的；已故的；最近的",
+    "ex": "Don't be late.",
+    "exz": "不要迟到。"
+  },
+  {
+    "w": "live",
+    "zh": "活的；实况转播的；精力充沛的；生动的",
+    "ex": "I live in Beijing.",
+    "exz": "我住在北京。"
+  },
+  {
+    "w": "ball",
+    "zh": "球；舞会",
+    "ex": "I play with a ball.",
+    "exz": "我玩球。"
+  },
+  {
+    "w": "an",
+    "zh": "一(在元音字母前代替不定代词a)Netherlands Antilles ,荷兰属地",
+    "ex": "I have an apple.",
+    "exz": "我有一个苹果。"
+  },
+  {
+    "w": "car",
+    "zh": "汽车；车厢",
+    "ex": "I have a car.",
+    "exz": "我有一辆车。"
+  },
+  {
+    "w": "they",
+    "zh": "他们；她们；它们",
+    "ex": "They are my friends.",
+    "exz": "他们是我的朋友。"
+  },
+  {
+    "w": "ice",
+    "zh": "冰；冰淇淋；矜持；（俚）钻石； vt. 冰镇；结冰； vi. 结冰； adj. 冰的",
+    "ex": "I like ice cream.",
+    "exz": "我喜欢冰淇淋。"
+  },
+  {
+    "w": "we",
+    "zh": "我们（主格）；朕，寡人；笔者，本人（作者或演讲人使用）",
+    "ex": "We are students.",
+    "exz": "我们是学生。"
+  },
+  {
+    "w": "Chinese",
+    "zh": "中文，汉语；中国人",
+    "ex": "I speak Chinese.",
+    "exz": "我说中文。"
+  },
+  {
+    "w": "fan",
+    "zh": "煽动；吹拂；刺激",
+    "ex": "I am a football fan.",
+    "exz": "我是足球迷。"
+  },
+  {
+    "w": "he",
+    "zh": "它（雄性动物）；男孩，男人",
+    "ex": "He is my brother.",
+    "exz": "他是我的兄弟。"
+  },
+  {
+    "w": "ship",
+    "zh": "运送，乘船；以船运送",
+    "ex": "The ship is big.",
+    "exz": "船很大。"
+  },
+  {
+    "w": "door",
+    "zh": "门；家，户；门口；通道",
+    "ex": "Please open the door.",
+    "exz": "请开门。"
+  },
+  {
+    "w": "horse",
+    "zh": "马；骑兵；脚架；海洛因",
+    "ex": "The horse is strong.",
+    "exz": "马很强壮。"
+  },
+  {
+    "w": "afternoon",
+    "zh": "午后，下午",
+    "ex": "I study in the afternoon.",
+    "exz": "我下午学习。"
+  },
+  {
+    "w": "nice",
+    "zh": "精密的；美好的；细微的；和蔼的",
+    "ex": "This is a nice day.",
+    "exz": "这是美好的一天。"
+  },
+  {
+    "w": "home",
+    "zh": "家，住宅；家乡；产地；避难所",
+    "ex": "I go home after school.",
+    "exz": "我放学后回家。"
+  },
+  {
+    "w": "map",
+    "zh": "绘制地图；映射；计划；确定基因在染色体中的位置",
+    "ex": "Please look at the map.",
+    "exz": "请看地图。"
+  },
+  {
+    "w": "kitchen",
+    "zh": "炊具；厨房；炊事人员",
+    "ex": "I cook in the kitchen.",
+    "exz": "我在厨房做饭。"
+  },
+  {
+    "w": "computer",
+    "zh": "电脑；计算机；电子计算机",
+    "ex": "I use a computer.",
+    "exz": "我使用电脑。"
+  },
+  {
+    "w": "light",
+    "zh": "光，光亮；灯",
+    "ex": "Please turn on the light.",
+    "exz": "请开灯。"
+  },
+  {
+    "w": "go",
+    "zh": "走；趋于；达到；运转",
+    "ex": "I go to school every day.",
+    "exz": "我每天去学校。"
+  },
+  {
+    "w": "little",
+    "zh": "小的；短暂的；很少的；小巧可爱的",
+    "ex": "I have a little dog.",
+    "exz": "我有一只小狗。"
+  },
+  {
+    "w": "box",
+    "zh": "箱，盒子；包厢；一拳",
+    "ex": "Put the books in the box.",
+    "exz": "把书放在盒子里。"
+  },
+  {
+    "w": "happy",
+    "zh": "高兴的；幸福的；巧妙的",
+    "ex": "I am happy.",
+    "exz": "我很开心。"
+  },
+  {
+    "w": "Ms",
+    "zh": "Montserrat,蒙塞拉特岛;Military Standard,军标;  手稿 MS(manuscript)",
+    "ex": "Ms. Smith is a teacher.",
+    "exz": "史密斯女士是老师。"
+  },
+  {
+    "w": "birthday",
+    "zh": "生日，诞辰；诞生的日子",
+    "ex": "Happy birthday!",
+    "exz": "生日快乐！"
+  },
+  {
+    "w": "between",
+    "zh": "在 … 之间",
+    "ex": "Sit between us.",
+    "exz": "坐在我们中间。"
+  },
+  {
+    "w": "can",
+    "zh": "罐头，一罐；金属容器",
+    "ex": "I can swim.",
+    "exz": "我会游泳。"
+  },
+  {
+    "w": "open",
+    "zh": "营业着的；敞开的；空旷的；公开的；坦率的",
+    "ex": "Please open the door.",
+    "exz": "请开门。"
+  },
+  {
+    "w": "this",
+    "zh": "这；这个；这里",
+    "ex": "This is my book.",
+    "exz": "这是我的书。"
+  },
+  {
+    "w": "street",
+    "zh": "街道",
+    "ex": "I walk on the street.",
+    "exz": "我在街上走。"
+  },
+  {
+    "w": "class",
+    "zh": "班级；阶级；种类",
+    "ex": "I have an English class.",
+    "exz": "我有英语课。"
+  },
+  {
+    "w": "spring",
+    "zh": "春天；弹簧；泉水；跳跃；活力",
+    "ex": "Spring is a nice season.",
+    "exz": "春天是好季节。"
+  },
+  {
+    "w": "my",
+    "zh": "我的",
+    "ex": "This is my book.",
+    "exz": "这是我的书。"
+  },
+  {
+    "w": "food",
+    "zh": "食物；养料",
+    "ex": "I like Chinese food.",
+    "exz": "我喜欢中国食物。"
+  },
+  {
+    "w": "place",
+    "zh": "地方；住所；座位",
+    "ex": "This is a nice place.",
+    "exz": "这是一个好地方。"
+  },
+  {
+    "w": "exercise",
+    "zh": "练习；运动；运用；操练；典礼；礼拜",
+    "ex": "I do exercise every day.",
+    "exz": "我每天锻炼。"
+  },
+  {
+    "w": "education",
+    "zh": "教育；教育学；培养",
+    "ex": "Education is important.",
+    "exz": "教育很重要。"
+  },
+  {
+    "w": "grandmother",
+    "zh": "祖母；女祖先",
+    "ex": "My grandmother is kind.",
+    "exz": "我的祖母很善良。"
+  },
+  {
+    "w": "umbrella",
+    "zh": "雨伞；庇护；保护伞；伞形结构",
+    "ex": "I take an umbrella.",
+    "exz": "我带伞。"
+  },
+  {
+    "w": "parent",
+    "zh": "父母亲；父亲（或母亲）；根源",
+    "ex": "My parent is kind.",
+    "exz": "我的父母很善良。"
+  },
+  {
+    "w": "drink",
+    "zh": "喝，饮；吸收；举杯庆贺",
+    "ex": "I drink water.",
+    "exz": "我喝水。"
+  },
+  {
+    "w": "slow",
+    "zh": "慢的；减速的；迟钝的",
+    "ex": "Please drive slow.",
+    "exz": "请开慢一点。"
+  },
+  {
+    "w": "math",
+    "zh": "数学（等于 mathematics ）",
+    "ex": "I like math.",
+    "exz": "我喜欢数学。"
+  },
+  {
+    "w": "fruit",
+    "zh": "水果；产物",
+    "ex": "I eat fruit every day.",
+    "exz": "我每天吃水果。"
+  },
+  {
+    "w": "Mr",
+    "zh": "先生（ Mister ）",
+    "ex": "Mr. Smith is a teacher.",
+    "exz": "史密斯先生是老师。"
+  },
+  {
+    "w": "up",
+    "zh": "向上；上涨；起来",
+    "ex": "Please stand up.",
+    "exz": "请站起来。"
+  },
+  {
+    "w": "buy",
+    "zh": "购买；获得；贿赂",
+    "ex": "I buy a book.",
+    "exz": "我买一本书。"
+  },
+  {
+    "w": "eat",
+    "zh": "吃，喝；腐蚀；烦扰",
+    "ex": "I eat breakfast every day.",
+    "exz": "我每天吃早餐。"
+  },
+  {
+    "w": "angry",
+    "zh": "生气的；愤怒的；狂暴的；（伤口等）发炎的",
+    "ex": "Don't be angry.",
+    "exz": "不要生气。"
+  },
+  {
+    "w": "find",
+    "zh": "发现；认为；感到；获得",
+    "ex": "I find the key.",
+    "exz": "我找到钥匙。"
+  },
+  {
+    "w": "chicken",
+    "zh": "小鸡；鸡肉；胆小鬼，懦夫",
+    "ex": "I like chicken.",
+    "exz": "我喜欢鸡肉。"
+  }
+]

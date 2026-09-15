@@ -1,0 +1,39 @@
+{
+  "title": "A bad cold 重感冒",
+  "folderName": "lesson32",
+  "backgroundImage": "bg32",
+  "script": [
+    {
+      "textEN": "Where's Jimmy? ",
+      "textCN": "吉米在哪儿？"
+    },
+    {
+      "textEN": "He's in bed. He's got a bad cold.",
+      "textCN": "他卧床休息呢。他得了重感冒。"
+    },
+    {
+      "textEN": "What's the matter with him? ",
+      "textCN": "他怎么了？"
+    },
+    {
+      "textEN": "He has a headache.",
+      "textCN": "他头痛。"
+    },
+    {
+      "textEN": "He mustn't get up. ",
+      "textCN": "他不能起床"
+    },
+    {
+      "textEN": "He must stay in bed.",
+      "textCN": "他必须卧床休息。"
+    },
+    {
+      "textEN": "Can you call the doctor? ",
+      "textCN": "你能叫下医生吗？"
+    },
+    {
+      "textEN": "Yes, I'll call him now.",
+      "textCN": "好的，我现在就叫。"
+    }
+  ]
+}

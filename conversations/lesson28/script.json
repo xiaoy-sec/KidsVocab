@@ -1,0 +1,27 @@
+{
+  "title": "An interesting weather 有趣的气候",
+  "folderName": "lesson28",
+  "backgroundImage": "bg28",
+  "script": [
+    {
+      "textEN": "What's the weather like in spring? ",
+      "textCN": "春天天气怎么样？"
+    },
+    {
+      "textEN": "It's often windy.",
+      "textCN": "经常刮风。"
+    },
+    {
+      "textEN": "It's always warm in summer, but it's sometimes too hot.",
+      "textCN": "夏天总是很暖和，但有时太热了。"
+    },
+    {
+      "textEN": "It rains sometimes in autumn.",
+      "textCN": "秋天有时下雨"
+    },
+    {
+      "textEN": "It's often cold in winter.",
+      "textCN": "冬天经常很冷。"
+    }
+  ]
+}

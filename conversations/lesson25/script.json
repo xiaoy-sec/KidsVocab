@@ -1,0 +1,47 @@
+{
+  "title": "A cup of coffee 一杯咖啡",
+  "folderName": "lesson25",
+  "backgroundImage": "bg25",
+  "script": [
+    {
+      "textEN": "Do you like coffee?",
+      "textCN": "你喜欢咖啡吗？"
+    },
+    {
+      "textEN": "Yes, I do.",
+      "textCN": "是的，我喜欢。"
+    },
+    {
+      "textEN": "Do you want a cup?",
+      "textCN": "你想要一杯吗？"
+    },
+    {
+      "textEN": "Yes, please.",
+      "textCN": "是的，谢谢。"
+    },
+    {
+      "textEN": "Do you want any sugar? ",
+      "textCN": "你要放糖吗？"
+    },
+    {
+      "textEN": "Yes, please.",
+      "textCN": "是的，请放点。"
+    },
+    {
+      "textEN": "Do you want any milk? ",
+      "textCN": "你要放牛奶吗？"
+    },
+    {
+      "textEN": "No, thank you",
+      "textCN": "不，谢谢。"
+    },
+    {
+      "textEN": "Do you like cookies? ",
+      "textCN": "你喜欢饼干吗？"
+    },
+    {
+      "textEN": "Yes, I do. Do you want one?",
+      "textCN": "是的。你要来一块吗？"
+    }
+  ]
+}

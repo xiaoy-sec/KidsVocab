@@ -1,0 +1,27 @@
+{
+  "title": "At the Supermarket 在超市",
+  "folderName": "lesson26",
+  "backgroundImage": "bg26",
+  "script": [
+    {
+      "textEN": "I want some meat please",
+      "textCN": "我想要些肉"
+    },
+    {
+      "textEN": "Do you want beef or lamb?",
+      "textCN": "您要牛肉还是羔羊肉？"
+    },
+    {
+      "textEN": "This lamb is very good. I'll have some please.",
+      "textCN": "这块羔羊肉很好。请给我来一些。"
+    },
+    {
+      "textEN": "What about some steak? This steak is very nice.",
+      "textCN": "再来点牛排怎么样？这块牛排非常好。"
+    },
+    {
+      "textEN": "He likes lamb, but he doesn't like steak.",
+      "textCN": "他喜欢羔羊肉，但不喜欢牛排。"
+    }
+  ]
+}

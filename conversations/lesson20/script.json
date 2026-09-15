@@ -1,0 +1,31 @@
+{
+  "title": "Making a bookcase 做书架",
+  "folderName": "lesson20",
+  "backgroundImage": "bg20",
+  "script": [
+    {
+      "textEN": "You're working hard. What are you doing?",
+      "textCN": "你干得真辛苦。你在做什么？"
+    },
+    {
+      "textEN": "Give me that hammer please. The big one.",
+      "textCN": "请把那把锤子给我。那把大的。"
+    },
+    {
+      "textEN": "What are you going to do now? ",
+      "textCN": "你现在准备做什么？"
+    },
+    {
+      "textEN": "I'm going to paint it.",
+      "textCN": "我准备把它漆一下。"
+    },
+    {
+      "textEN": "What colour are you going to paint it? Pink.",
+      "textCN": "你准备把它漆成什么颜色？粉红色。"
+    },
+    {
+      "textEN": "This bookcase is for my daughter. It's her favourite colour.",
+      "textCN": "这个书架是给我女儿做的。这是她最喜欢的颜色。"
+    }
+  ]
+}

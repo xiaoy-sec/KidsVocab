@@ -1,0 +1,4683 @@
+{
+  "categories": [
+    {
+      "id": "shape",
+      "title": "Shape 形状",
+      "icon": "shape_icon.webp",
+      "items": [
+        {
+          "en": "triangle",
+          "cn": "三角形",
+          "image": "shape/triangle_三角形.webp",
+          "audio": "triangle.mp3"
+        },
+        {
+          "en": "hexagon",
+          "cn": "六边形",
+          "image": "shape/hexagon_六边形.webp",
+          "audio": "hexagon.mp3"
+        },
+        {
+          "en": "rectangle",
+          "cn": "长方形",
+          "image": "shape/rectangle_长方形.webp",
+          "audio": "rectangle.mp3"
+        },
+        {
+          "en": "circle",
+          "cn": "圆形",
+          "image": "shape/circle_圆形.webp",
+          "audio": "circle.mp3"
+        },
+        {
+          "en": "diamond",
+          "cn": "菱形",
+          "image": "shape/diamond_菱形.webp",
+          "audio": "diamond.mp3"
+        },
+        {
+          "en": "oval",
+          "cn": "椭圆形",
+          "image": "shape/oval_椭圆形.webp",
+          "audio": "oval.mp3"
+        },
+        {
+          "en": "square",
+          "cn": "正方形",
+          "image": "shape/square_正方形.webp",
+          "audio": "square.mp3"
+        },
+        {
+          "en": "star",
+          "cn": "五角星",
+          "image": "shape/star_五角星.webp",
+          "audio": "star.mp3"
+        },
+        {
+          "en": "heart",
+          "cn": "心形",
+          "image": "shape/heart_心形.webp",
+          "audio": "heart.mp3"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "title": "Fruit 水果",
+      "icon": "fruit_icon.webp",
+      "items": [
+        {
+          "en": "peach",
+          "cn": "桃子",
+          "image": "fruit/peach_桃子.webp",
+          "audio": "peach.mp3"
+        },
+        {
+          "en": "cherry",
+          "cn": "樱桃",
+          "image": "fruit/cherry_樱桃.webp",
+          "audio": "cherry.mp3"
+        },
+        {
+          "en": "litchi",
+          "cn": "荔枝",
+          "image": "fruit/litchi_荔枝.webp",
+          "audio": "litchi.mp3"
+        },
+        {
+          "en": "banana",
+          "cn": "香蕉",
+          "image": "fruit/banana_香蕉.webp",
+          "audio": "banana.mp3"
+        },
+        {
+          "en": "mango",
+          "cn": "芒果",
+          "image": "fruit/mango_芒果.webp",
+          "audio": "mango.mp3"
+        },
+        {
+          "en": "dragon fruit",
+          "cn": "火龙果",
+          "image": "fruit/dragon fruit_火龙果.webp",
+          "audio": "dragon fruit.mp3"
+        },
+        {
+          "en": "orange",
+          "cn": "橙子",
+          "image": "fruit/orange_橙子.webp",
+          "audio": "orange.mp3"
+        },
+        {
+          "en": "plum",
+          "cn": "李子",
+          "image": "fruit/plum_李子.webp",
+          "audio": "plum.mp3"
+        },
+        {
+          "en": "mulberry",
+          "cn": "桑葚",
+          "image": "fruit/mulberry_桑葚.webp",
+          "audio": "mulberry.mp3"
+        },
+        {
+          "en": "watermelon",
+          "cn": "西瓜",
+          "image": "fruit/watermelon_西瓜.webp",
+          "audio": "watermelon.mp3"
+        },
+        {
+          "en": "pear",
+          "cn": "梨",
+          "image": "fruit/pear_梨.webp",
+          "audio": "pear.mp3"
+        },
+        {
+          "en": "kiwi",
+          "cn": "猕猴桃",
+          "image": "fruit/kiwi_猕猴桃.webp",
+          "audio": "kiwi.mp3"
+        },
+        {
+          "en": "lemon",
+          "cn": "柠檬",
+          "image": "fruit/lemon_柠檬.webp",
+          "audio": "lemon.mp3"
+        },
+        {
+          "en": "grape",
+          "cn": "葡萄",
+          "image": "fruit/grape_葡萄.webp",
+          "audio": "grape.mp3"
+        },
+        {
+          "en": "apple",
+          "cn": "苹果",
+          "image": "fruit/apple_苹果.webp",
+          "audio": "apple.mp3"
+        },
+        {
+          "en": "blueberry",
+          "cn": "蓝莓",
+          "image": "fruit/blueberry_蓝莓.webp",
+          "audio": "blueberry.mp3"
+        },
+        {
+          "en": "strawberry",
+          "cn": "草莓",
+          "image": "fruit/strawberry_草莓.webp",
+          "audio": "strawberry.mp3"
+        },
+        {
+          "en": "bayberry",
+          "cn": "杨梅",
+          "image": "fruit/bayberry_杨梅.webp",
+          "audio": "bayberry.mp3"
+        },
+        {
+          "en": "pineapple",
+          "cn": "菠萝",
+          "image": "fruit/pineapple_菠萝.webp",
+          "audio": "pineapple.mp3"
+        }
+      ]
+    },
+    {
+      "id": "need",
+      "title": "Need 需求",
+      "icon": "need_icon.webp",
+      "items": [
+        {
+          "en": "I am hungry",
+          "cn": "我饿了",
+          "image": "need/I am hungry_我饿了.webp",
+          "audio": "I am hungry.mp3"
+        },
+        {
+          "en": "Give me an apple",
+          "cn": "给我一个苹果",
+          "image": "need/Give me an apple_给我一个苹果.webp",
+          "audio": "Give me an apple.mp3"
+        },
+        {
+          "en": "I like apples",
+          "cn": "我喜欢苹果",
+          "image": "need/I like apples_我喜欢苹果.webp",
+          "audio": "I like apples.mp3"
+        },
+        {
+          "en": "I am thirsty",
+          "cn": "我渴了",
+          "image": "need/I am thirsty_我渴了.webp",
+          "audio": "I am thirsty.mp3"
+        },
+        {
+          "en": "I want to play",
+          "cn": "我想玩",
+          "image": "need/I want to play_我想玩.webp",
+          "audio": "I want to play.mp3"
+        },
+        {
+          "en": "I am sleepy",
+          "cn": "我困了",
+          "image": "need/I am sleepy_我困了.webp",
+          "audio": "I am sleepy.mp3"
+        },
+        {
+          "en": "i want water",
+          "cn": "我想要水",
+          "image": "need/i want water_我想要水.webp",
+          "audio": "i want water.mp3"
+        },
+        {
+          "en": "I am tired",
+          "cn": "我累了",
+          "image": "need/I am tired_我累了.webp",
+          "audio": "I am tired.mp3"
+        },
+        {
+          "en": "I want to eat",
+          "cn": "我想吃",
+          "image": "need/I want to eat_我想吃.webp",
+          "audio": "I want to eat.mp3"
+        },
+        {
+          "en": "I want to go home",
+          "cn": "我想回家",
+          "image": "need/I want to go home_我想回家.webp",
+          "audio": "I want to go home.mp3"
+        },
+        {
+          "en": "Give me a candy please",
+          "cn": "请给我糖果",
+          "image": "need/Give me a candy please_请给我糖果.webp",
+          "audio": "Give me a candy please.mp3"
+        },
+        {
+          "en": "i do not want it",
+          "cn": "我不想要它",
+          "image": "need/i do not want it_我不想要它.webp",
+          "audio": "i do not want it.mp3"
+        }
+      ]
+    },
+    {
+      "id": "KidsVocab",
+      "title": "Kidsvocab ",
+      "icon": "KidsVocab_icon.webp",
+      "items": []
+    },
+    {
+      "id": "greeting",
+      "title": "Greeting 问候",
+      "icon": "greeting_icon.webp",
+      "items": [
+        {
+          "en": "Good evening",
+          "cn": "晚上好",
+          "image": "greeting/Good evening_晚上好.webp",
+          "audio": "Good evening.mp3"
+        },
+        {
+          "en": "that is cool",
+          "cn": "太棒了",
+          "image": "greeting/that is cool_太棒了.webp",
+          "audio": "that is cool.mp3"
+        },
+        {
+          "en": "My shoes and my umbrella please",
+          "cn": "请给我鞋子和我的雨伞",
+          "image": "greeting/My shoes and my umbrella please_请给我鞋子和我的雨伞.webp",
+          "audio": "My shoes and my umbrella please.mp3"
+        },
+        {
+          "en": "I am good thank you and you",
+          "cn": "我很好谢谢你呢",
+          "image": "greeting/I am good thank you and you_我很好谢谢你呢.webp",
+          "audio": "I am good thank you and you.mp3"
+        },
+        {
+          "en": "I am sorry",
+          "cn": "我很抱歉",
+          "image": "greeting/I am sorry_我很抱歉.webp",
+          "audio": "I am sorry.mp3"
+        },
+        {
+          "en": "is this your book",
+          "cn": "这是你的书吗",
+          "image": "greeting/is this your book_这是你的书吗.webp",
+          "audio": "is this your book.mp3"
+        },
+        {
+          "en": "This is my new friend",
+          "cn": "这是我的新朋友",
+          "image": "greeting/This is my new friend_这是我的新朋友.webp",
+          "audio": "This is my new friend.mp3"
+        },
+        {
+          "en": "my name is Bella",
+          "cn": "我的名字是贝拉",
+          "image": "greeting/my name is Bella_我的名字是贝拉.webp",
+          "audio": "my name is Bella.mp3"
+        },
+        {
+          "en": "Whose book is that",
+          "cn": "这是谁的书",
+          "image": "greeting/Whose book is that_这是谁的书.webp",
+          "audio": "Whose book is that.mp3"
+        },
+        {
+          "en": "Get up",
+          "cn": "起床",
+          "image": "greeting/Get up_起床.webp",
+          "audio": "Get up.mp3"
+        },
+        {
+          "en": "I get it",
+          "cn": "我明白了",
+          "image": "greeting/I get it_我明白了.webp",
+          "audio": "I get it.mp3"
+        },
+        {
+          "en": "What color is your new dress",
+          "cn": "你的新裙子是什么颜色",
+          "image": "greeting/What color is your new dress_你的新裙子是什么颜色.webp",
+          "audio": "What color is your new dress.mp3"
+        },
+        {
+          "en": "wait for me",
+          "cn": "等等我",
+          "image": "greeting/wait for me_等等我.webp",
+          "audio": "wait for me.mp3"
+        },
+        {
+          "en": "This is not my pen",
+          "cn": "这个不是我的笔",
+          "image": "greeting/This is not my pen_这个不是我的笔.webp",
+          "audio": "This is not my pen.mp3"
+        },
+        {
+          "en": "Maybe",
+          "cn": "可能吧",
+          "image": "greeting/Maybe_可能吧.webp",
+          "audio": "Maybe.mp3"
+        },
+        {
+          "en": "How are you today",
+          "cn": "你今天好吗",
+          "image": "greeting/How are you today_你今天好吗.webp",
+          "audio": "How are you today.mp3"
+        },
+        {
+          "en": "try this",
+          "cn": "试一下这个",
+          "image": "greeting/try this_试一下这个.webp",
+          "audio": "try this.mp3"
+        },
+        {
+          "en": "Are you ok",
+          "cn": "你还好吗",
+          "image": "greeting/Are you ok_你还好吗.webp",
+          "audio": "Are you ok.mp3"
+        },
+        {
+          "en": "Where are you from",
+          "cn": "你来自哪里",
+          "image": "greeting/Where are you from_你来自哪里.webp",
+          "audio": "Where are you from.mp3"
+        },
+        {
+          "en": "have a good time",
+          "cn": "玩的开心",
+          "image": "greeting/have a good time_玩的开心.webp",
+          "audio": "have a good time.mp3"
+        },
+        {
+          "en": "This is Mario he is my friend",
+          "cn": "这是马里奥他是我的朋友",
+          "image": "greeting/This is Mario he is my friend_这是马里奥他是我的朋友.webp",
+          "audio": "This is Mario he is my friend.mp3"
+        },
+        {
+          "en": "Everyone look at me",
+          "cn": "大家请看我",
+          "image": "greeting/Everyone look at me_大家请看我.webp",
+          "audio": "Everyone look at me.mp3"
+        },
+        {
+          "en": "be careful",
+          "cn": "小心",
+          "image": "greeting/be careful_小心.webp",
+          "audio": "be careful.mp3"
+        },
+        {
+          "en": "happy birthday",
+          "cn": "生日快乐",
+          "image": "greeting/happy birthday_生日快乐.webp",
+          "audio": "happy birthday.mp3"
+        },
+        {
+          "en": "I think so",
+          "cn": "我也这么认为",
+          "image": "greeting/I think so_我也这么认为.webp",
+          "audio": "I think so.mp3"
+        },
+        {
+          "en": "i am full",
+          "cn": "我饱了",
+          "image": "greeting/i am full_我饱了.webp",
+          "audio": "i am full.mp3"
+        },
+        {
+          "en": "It is OK",
+          "cn": "没关系",
+          "image": "greeting/It is OK_没关系.webp",
+          "audio": "It is OK.mp3"
+        },
+        {
+          "en": "take your time",
+          "cn": "慢慢来",
+          "image": "greeting/take your time_慢慢来.webp",
+          "audio": "take your time.mp3"
+        },
+        {
+          "en": "happy new year",
+          "cn": "新年快乐",
+          "image": "greeting/happy new year_新年快乐.webp",
+          "audio": "happy new year.mp3"
+        },
+        {
+          "en": "Thank you",
+          "cn": "谢谢",
+          "image": "greeting/Thank you_谢谢.webp",
+          "audio": "Thank you.mp3"
+        },
+        {
+          "en": "That is a cool book",
+          "cn": "这是一本很酷的书",
+          "image": "greeting/That is a cool book_这是一本很酷的书.webp",
+          "audio": "That is a cool book.mp3"
+        },
+        {
+          "en": "Perhaps",
+          "cn": "也许吧",
+          "image": "greeting/Perhaps_也许吧.webp",
+          "audio": "Perhaps.mp3"
+        },
+        {
+          "en": "pardon",
+          "cn": "你说什么",
+          "image": "greeting/pardon_你说什么.webp",
+          "audio": "pardon.mp3"
+        },
+        {
+          "en": "I am a student",
+          "cn": "我是一个学生",
+          "image": "greeting/I am a student_我是一个学生.webp",
+          "audio": "I am a student.mp3"
+        },
+        {
+          "en": "it is raining day",
+          "cn": "是个雨天",
+          "image": "greeting/it is raining day_是个雨天.webp",
+          "audio": "it is raining day.mp3"
+        },
+        {
+          "en": "be quiet",
+          "cn": "请安静",
+          "image": "greeting/be quiet_请安静.webp",
+          "audio": "be quiet.mp3"
+        },
+        {
+          "en": "have a party",
+          "cn": "举办聚会",
+          "image": "greeting/have a party_举办聚会.webp",
+          "audio": "have a party.mp3"
+        },
+        {
+          "en": "take a break",
+          "cn": "休息一下",
+          "image": "greeting/take a break_休息一下.webp",
+          "audio": "take a break.mp3"
+        },
+        {
+          "en": "i am ready",
+          "cn": "我准备好了",
+          "image": "greeting/i am ready_我准备好了.webp",
+          "audio": "i am ready.mp3"
+        },
+        {
+          "en": "keep it up",
+          "cn": "加油",
+          "image": "greeting/keep it up_加油.webp",
+          "audio": "keep it up.mp3"
+        },
+        {
+          "en": "what is the time",
+          "cn": "几点了",
+          "image": "greeting/what is the time_几点了.webp",
+          "audio": "what is the time.mp3"
+        },
+        {
+          "en": "over there",
+          "cn": "在那边",
+          "image": "greeting/over there_在那边.webp",
+          "audio": "over there.mp3"
+        },
+        {
+          "en": "follow me",
+          "cn": "跟我来",
+          "image": "greeting/follow me_跟我来.webp",
+          "audio": "follow me.mp3"
+        },
+        {
+          "en": "no problem",
+          "cn": "没问题",
+          "image": "greeting/no problem_没问题.webp",
+          "audio": "no problem.mp3"
+        },
+        {
+          "en": "Look",
+          "cn": "看",
+          "image": "greeting/Look_看.webp",
+          "audio": "Look.mp3"
+        },
+        {
+          "en": "after you",
+          "cn": "请你先",
+          "image": "greeting/after you_请你先.webp",
+          "audio": "after you.mp3"
+        },
+        {
+          "en": "Sit down please",
+          "cn": "请坐下",
+          "image": "greeting/Sit down please_请坐下.webp",
+          "audio": "Sit down please.mp3"
+        },
+        {
+          "en": "This is my friend",
+          "cn": "这是我的朋友",
+          "image": "greeting/This is my friend_这是我的朋友.webp",
+          "audio": "This is my friend.mp3"
+        },
+        {
+          "en": "yes",
+          "cn": "是的",
+          "image": "greeting/yes_是的.webp",
+          "audio": "yes.mp3"
+        },
+        {
+          "en": "listen up",
+          "cn": "听好了",
+          "image": "greeting/listen up_听好了.webp",
+          "audio": "listen up.mp3"
+        },
+        {
+          "en": "Are you a teacher",
+          "cn": "你是老师吗",
+          "image": "greeting/Are you a teacher_你是老师吗.webp",
+          "audio": "Are you a teacher.mp3"
+        },
+        {
+          "en": "how much",
+          "cn": "多少钱",
+          "image": "greeting/how much_多少钱.webp",
+          "audio": "how much.mp3"
+        },
+        {
+          "en": "party",
+          "cn": "聚会",
+          "image": "greeting/party_聚会.webp",
+          "audio": "party.mp3"
+        },
+        {
+          "en": "It is for you",
+          "cn": "这是给你的",
+          "image": "greeting/It is for you_这是给你的.webp",
+          "audio": "It is for you.mp3"
+        },
+        {
+          "en": "Here you are",
+          "cn": "给你",
+          "image": "greeting/Here you are_给你.webp",
+          "audio": "Here you are.mp3"
+        },
+        {
+          "en": "I am five years old",
+          "cn": "我五岁了",
+          "image": "greeting/I am five years old_我五岁了.webp",
+          "audio": "I am five years old.mp3"
+        },
+        {
+          "en": "I am Chinese i am from China",
+          "cn": "我是中国人我来自中国",
+          "image": "greeting/I am Chinese i am from China_我是中国人我来自中国.webp",
+          "audio": "I am Chinese i am from China.mp3"
+        },
+        {
+          "en": "I beg your pardon",
+          "cn": "请再说一次",
+          "image": "greeting/I beg your pardon_请再说一次.webp",
+          "audio": "I beg your pardon.mp3"
+        },
+        {
+          "en": "You are welcome",
+          "cn": "不客气",
+          "image": "greeting/You are welcome_不客气.webp",
+          "audio": "You are welcome.mp3"
+        },
+        {
+          "en": "Good afternoon",
+          "cn": "下午好",
+          "image": "greeting/Good afternoon_下午好.webp",
+          "audio": "Good afternoon.mp3"
+        },
+        {
+          "en": "Thank you very much",
+          "cn": "非常感谢你",
+          "image": "greeting/Thank you very much_非常感谢你.webp",
+          "audio": "Thank you very much.mp3"
+        },
+        {
+          "en": "be brave",
+          "cn": "勇敢点",
+          "image": "greeting/be brave_勇敢点.webp",
+          "audio": "be brave.mp3"
+        },
+        {
+          "en": "Excuse me",
+          "cn": "打扰一下",
+          "image": "greeting/Excuse me_打扰一下.webp",
+          "audio": "Excuse me.mp3"
+        },
+        {
+          "en": "Good morning",
+          "cn": "早上好",
+          "image": "greeting/Good morning_早上好.webp",
+          "audio": "Good morning.mp3"
+        },
+        {
+          "en": "wait a moment",
+          "cn": "稍等一下",
+          "image": "greeting/wait a moment_稍等一下.webp",
+          "audio": "wait a moment.mp3"
+        },
+        {
+          "en": "best wishes",
+          "cn": "祝你好运",
+          "image": "greeting/best wishes_祝你好运.webp",
+          "audio": "best wishes.mp3"
+        },
+        {
+          "en": "i understand",
+          "cn": "我懂了",
+          "image": "greeting/i understand_我懂了.webp",
+          "audio": "i understand.mp3"
+        },
+        {
+          "en": "slow down",
+          "cn": "慢点",
+          "image": "greeting/slow down_慢点.webp",
+          "audio": "slow down.mp3"
+        },
+        {
+          "en": "let is eat",
+          "cn": "我们吃饭吧",
+          "image": "greeting/let is eat_我们吃饭吧.webp",
+          "audio": "let is eat.mp3"
+        },
+        {
+          "en": "do not run",
+          "cn": "别跑",
+          "image": "greeting/do not run_别跑.webp",
+          "audio": "do not run.mp3"
+        },
+        {
+          "en": "Good night",
+          "cn": "晚安",
+          "image": "greeting/Good night_晚安.webp",
+          "audio": "Good night.mp3"
+        },
+        {
+          "en": "take a rest",
+          "cn": "休息一下",
+          "image": "greeting/take a rest_休息一下.webp",
+          "audio": "take a rest.mp3"
+        },
+        {
+          "en": "it is  eight o clock",
+          "cn": "八点了",
+          "image": "greeting/it is  eight o clock_八点了.webp",
+          "audio": "it is  eight o clock.mp3"
+        },
+        {
+          "en": "Stand up please",
+          "cn": "请站起来",
+          "image": "greeting/Stand up please_请站起来.webp",
+          "audio": "Stand up please.mp3"
+        },
+        {
+          "en": "don not do that",
+          "cn": "别这么做",
+          "image": "greeting/don not do that_别这么做.webp",
+          "audio": "don not do that.mp3"
+        },
+        {
+          "en": "See you later",
+          "cn": "再见",
+          "image": "greeting/See you later_再见.webp",
+          "audio": "See you later.mp3"
+        },
+        {
+          "en": "what is the matter",
+          "cn": "怎么了",
+          "image": "greeting/what is the matter_怎么了.webp",
+          "audio": "what is the matter.mp3"
+        },
+        {
+          "en": "Here is your pen",
+          "cn": "你的笔在这",
+          "image": "greeting/Here is your pen_你的笔在这.webp",
+          "audio": "Here is your pen.mp3"
+        },
+        {
+          "en": "What is your job",
+          "cn": "你的工作是什么",
+          "image": "greeting/What is your job_你的工作是什么.webp",
+          "audio": "What is your job.mp3"
+        },
+        {
+          "en": "yes it is",
+          "cn": "是的没错",
+          "image": "greeting/yes it is_是的没错.webp",
+          "audio": "yes it is.mp3"
+        },
+        {
+          "en": "that is right",
+          "cn": "没错",
+          "image": "greeting/that is right_没错.webp",
+          "audio": "that is right.mp3"
+        },
+        {
+          "en": "try again",
+          "cn": "再试一次",
+          "image": "greeting/try again_再试一次.webp",
+          "audio": "try again.mp3"
+        },
+        {
+          "en": "Come in please",
+          "cn": "请进",
+          "image": "greeting/Come in please_请进.webp",
+          "audio": "Come in please.mp3"
+        }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes 衣服",
+      "icon": "clothes_icon.webp",
+      "items": [
+        {
+          "en": "pants",
+          "cn": "裤子",
+          "image": "clothes/pants_裤子.webp",
+          "audio": "pants.mp3"
+        },
+        {
+          "en": "dress",
+          "cn": "连衣裙",
+          "image": "clothes/dress_连衣裙.webp",
+          "audio": "dress.mp3"
+        },
+        {
+          "en": "jacket",
+          "cn": "夹克衫",
+          "image": "clothes/jacket_夹克衫.webp",
+          "audio": "jacket.mp3"
+        },
+        {
+          "en": "hat",
+          "cn": "帽子",
+          "image": "clothes/hat_帽子.webp",
+          "audio": "hat.mp3"
+        },
+        {
+          "en": "clothes",
+          "cn": "衣服",
+          "image": "clothes/clothes_衣服.webp",
+          "audio": "clothes.mp3"
+        },
+        {
+          "en": "sweater",
+          "cn": "毛衣",
+          "image": "clothes/sweater_毛衣.webp",
+          "audio": "sweater.mp3"
+        },
+        {
+          "en": "t shirt",
+          "cn": "短袖",
+          "image": "clothes/t shirt_短袖.webp",
+          "audio": "t shirt.mp3"
+        },
+        {
+          "en": "gloves",
+          "cn": "手套",
+          "image": "clothes/gloves_手套.webp",
+          "audio": "gloves.mp3"
+        },
+        {
+          "en": "socks",
+          "cn": "袜子",
+          "image": "clothes/socks_袜子.webp",
+          "audio": "socks.mp3"
+        },
+        {
+          "en": "glasses",
+          "cn": "眼镜",
+          "image": "clothes/glasses_眼镜.webp",
+          "audio": "glasses.mp3"
+        },
+        {
+          "en": "shorts",
+          "cn": "短裤",
+          "image": "clothes/shorts_短裤.webp",
+          "audio": "shorts.mp3"
+        },
+        {
+          "en": "shoes",
+          "cn": "鞋子",
+          "image": "clothes/shoes_鞋子.webp",
+          "audio": "shoes.mp3"
+        }
+      ]
+    },
+    {
+      "id": "vegetable",
+      "title": "Vegetable 蔬菜",
+      "icon": "vegetable_icon.webp",
+      "items": [
+        {
+          "en": "pea",
+          "cn": "豌豆",
+          "image": "vegetable/pea_豌豆.webp",
+          "audio": "pea.mp3"
+        },
+        {
+          "en": "potato",
+          "cn": "土豆",
+          "image": "vegetable/potato_土豆.webp",
+          "audio": "potato.mp3"
+        },
+        {
+          "en": "ginger",
+          "cn": "生姜",
+          "image": "vegetable/ginger_生姜.webp",
+          "audio": "ginger.mp3"
+        },
+        {
+          "en": "pepper",
+          "cn": "辣椒",
+          "image": "vegetable/pepper_辣椒.webp",
+          "audio": "pepper.mp3"
+        },
+        {
+          "en": "tomato",
+          "cn": "西红柿",
+          "image": "vegetable/tomato_西红柿.webp",
+          "audio": "tomato.mp3"
+        },
+        {
+          "en": "bean",
+          "cn": "豆",
+          "image": "vegetable/bean_豆.webp",
+          "audio": "bean.mp3"
+        },
+        {
+          "en": "pumpkin",
+          "cn": "南瓜",
+          "image": "vegetable/pumpkin_南瓜.webp",
+          "audio": "pumpkin.mp3"
+        },
+        {
+          "en": "eggplant",
+          "cn": "茄子",
+          "image": "vegetable/eggplant_茄子.webp",
+          "audio": "eggplant.mp3"
+        },
+        {
+          "en": "onion",
+          "cn": "洋葱",
+          "image": "vegetable/onion_洋葱.webp",
+          "audio": "onion.mp3"
+        },
+        {
+          "en": "broccoli",
+          "cn": "西兰花",
+          "image": "vegetable/broccoli_西兰花.webp",
+          "audio": "broccoli.mp3"
+        },
+        {
+          "en": "greenonion",
+          "cn": "葱",
+          "image": "vegetable/greenonion_葱.webp",
+          "audio": "greenonion.mp3"
+        },
+        {
+          "en": "cucumber",
+          "cn": "黄瓜",
+          "image": "vegetable/cucumber_黄瓜.webp",
+          "audio": "cucumber.mp3"
+        },
+        {
+          "en": "peanut",
+          "cn": "花生",
+          "image": "vegetable/peanut_花生.webp",
+          "audio": "peanut.mp3"
+        },
+        {
+          "en": "bell pepper",
+          "cn": "彩椒",
+          "image": "vegetable/bell pepper_彩椒.webp",
+          "audio": "bell pepper.mp3"
+        },
+        {
+          "en": "corn",
+          "cn": "玉米",
+          "image": "vegetable/corn_玉米.webp",
+          "audio": "corn.mp3"
+        },
+        {
+          "en": "sweet potato",
+          "cn": "红薯",
+          "image": "vegetable/sweet potato_红薯.webp",
+          "audio": "sweet potato.mp3"
+        },
+        {
+          "en": "mushroom",
+          "cn": "蘑菇",
+          "image": "vegetable/mushroom_蘑菇.webp",
+          "audio": "mushroom.mp3"
+        },
+        {
+          "en": "garlic",
+          "cn": "大蒜",
+          "image": "vegetable/garlic_大蒜.webp",
+          "audio": "garlic.mp3"
+        },
+        {
+          "en": "white radish",
+          "cn": "白萝卜",
+          "image": "vegetable/white radish_白萝卜.webp",
+          "audio": "white radish.mp3"
+        },
+        {
+          "en": "carrot",
+          "cn": "胡萝卜",
+          "image": "vegetable/carrot_胡萝卜.webp",
+          "audio": "carrot.mp3"
+        },
+        {
+          "en": "edamame",
+          "cn": "毛豆",
+          "image": "vegetable/edamame_毛豆.webp",
+          "audio": "edamame.mp3"
+        }
+      ]
+    },
+    {
+      "id": "KidsVocab.xcodeproj",
+      "title": "Kidsvocab.xcodeproj ",
+      "icon": "KidsVocab.xcodeproj_icon.webp",
+      "items": []
+    },
+    {
+      "id": "KidsVocabUITests",
+      "title": "Kidsvocabuitests ",
+      "icon": "KidsVocabUITests_icon.webp",
+      "items": []
+    },
+    {
+      "id": "color",
+      "title": "Color 颜色",
+      "icon": "color_icon.webp",
+      "items": [
+        {
+          "en": "green",
+          "cn": "绿色",
+          "image": "color/green_绿色.webp",
+          "audio": "green.mp3"
+        },
+        {
+          "en": "orange",
+          "cn": "橙色",
+          "image": "color/orange_橙色.webp",
+          "audio": "orange.mp3"
+        },
+        {
+          "en": "yellow",
+          "cn": "黄色",
+          "image": "color/yellow_黄色.webp",
+          "audio": "yellow.mp3"
+        },
+        {
+          "en": "blue",
+          "cn": "蓝色",
+          "image": "color/blue_蓝色.webp",
+          "audio": "blue.mp3"
+        },
+        {
+          "en": "red",
+          "cn": "红色",
+          "image": "color/red_红色.webp",
+          "audio": "red.mp3"
+        },
+        {
+          "en": "brown",
+          "cn": "棕色",
+          "image": "color/brown_棕色.webp",
+          "audio": "brown.mp3"
+        },
+        {
+          "en": "pink",
+          "cn": "粉色",
+          "image": "color/pink_粉色.webp",
+          "audio": "pink.mp3"
+        },
+        {
+          "en": "purple",
+          "cn": "紫色",
+          "image": "color/purple_紫色.webp",
+          "audio": "purple.mp3"
+        },
+        {
+          "en": "grey",
+          "cn": "灰色",
+          "image": "color/grey_灰色.webp",
+          "audio": "grey.mp3"
+        },
+        {
+          "en": "black",
+          "cn": "黑色",
+          "image": "color/black_黑色.webp",
+          "audio": "black.mp3"
+        },
+        {
+          "en": "white",
+          "cn": "白色",
+          "image": "color/white_白色.webp",
+          "audio": "white.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "Nature 自然",
+      "icon": "nature_icon.webp",
+      "items": [
+        {
+          "en": "branch",
+          "cn": "树枝",
+          "image": "nature/branch_树枝.webp",
+          "audio": "branch.mp3"
+        },
+        {
+          "en": "sun",
+          "cn": "太阳",
+          "image": "nature/sun_太阳.webp",
+          "audio": "sun.mp3"
+        },
+        {
+          "en": "river",
+          "cn": "河流",
+          "image": "nature/river_河流.webp",
+          "audio": "river.mp3"
+        },
+        {
+          "en": "grassland",
+          "cn": "草原",
+          "image": "nature/grassland_草原.webp",
+          "audio": "grassland.mp3"
+        },
+        {
+          "en": "moon",
+          "cn": "月亮",
+          "image": "nature/moon_月亮.webp",
+          "audio": "moon.mp3"
+        },
+        {
+          "en": "leaves",
+          "cn": "树叶",
+          "image": "nature/leaves_树叶.webp",
+          "audio": "leaves.mp3"
+        },
+        {
+          "en": "lake",
+          "cn": "湖泊",
+          "image": "nature/lake_湖泊.webp",
+          "audio": "lake.mp3"
+        },
+        {
+          "en": "beach",
+          "cn": "海滩",
+          "image": "nature/beach_海滩.webp",
+          "audio": "beach.mp3"
+        },
+        {
+          "en": "sunshine",
+          "cn": "阳光",
+          "image": "nature/sunshine_阳光.webp",
+          "audio": "sunshine.mp3"
+        },
+        {
+          "en": "maple",
+          "cn": "枫叶",
+          "image": "nature/maple_枫叶.webp",
+          "audio": "maple.mp3"
+        },
+        {
+          "en": "hill",
+          "cn": "山丘",
+          "image": "nature/hill_山丘.webp",
+          "audio": "hill.mp3"
+        },
+        {
+          "en": "earth",
+          "cn": "地球",
+          "image": "nature/earth_地球.webp",
+          "audio": "earth.mp3"
+        },
+        {
+          "en": "pollution",
+          "cn": "污染",
+          "image": "nature/pollution_污染.webp",
+          "audio": "pollution.mp3"
+        },
+        {
+          "en": "waterfall",
+          "cn": "瀑布",
+          "image": "nature/waterfall_瀑布.webp",
+          "audio": "waterfall.mp3"
+        },
+        {
+          "en": "sand",
+          "cn": "沙土",
+          "image": "nature/sand_沙土.webp",
+          "audio": "sand.mp3"
+        },
+        {
+          "en": "sea",
+          "cn": "海",
+          "image": "nature/sea_海.webp",
+          "audio": "sea.mp3"
+        },
+        {
+          "en": "summer",
+          "cn": "夏天",
+          "image": "nature/summer_夏天.webp",
+          "audio": "summer.mp3"
+        },
+        {
+          "en": "rock",
+          "cn": "石头",
+          "image": "nature/rock_石头.webp",
+          "audio": "rock.mp3"
+        },
+        {
+          "en": "wind",
+          "cn": "刮风",
+          "image": "nature/wind_刮风.webp",
+          "audio": "wind.mp3"
+        },
+        {
+          "en": "leaf",
+          "cn": "一片树叶",
+          "image": "nature/leaf_一片树叶.webp",
+          "audio": "leaf.mp3"
+        },
+        {
+          "en": "ocean",
+          "cn": "海洋",
+          "image": "nature/ocean_海洋.webp",
+          "audio": "ocean.mp3"
+        },
+        {
+          "en": "snow",
+          "cn": "雪",
+          "image": "nature/snow_雪.webp",
+          "audio": "snow.mp3"
+        },
+        {
+          "en": "desert",
+          "cn": "沙漠",
+          "image": "nature/desert_沙漠.webp",
+          "audio": "desert.mp3"
+        },
+        {
+          "en": "tree",
+          "cn": "树",
+          "image": "nature/tree_树.webp",
+          "audio": "tree.mp3"
+        },
+        {
+          "en": "recycling",
+          "cn": "回收利用",
+          "image": "nature/recycling_回收利用.webp",
+          "audio": "recycling.mp3"
+        },
+        {
+          "en": "rainbow",
+          "cn": "彩虹",
+          "image": "nature/rainbow_彩虹.webp",
+          "audio": "rainbow.mp3"
+        },
+        {
+          "en": "autumn",
+          "cn": "秋天",
+          "image": "nature/autumn_秋天.webp",
+          "audio": "autumn.mp3"
+        },
+        {
+          "en": "road",
+          "cn": "道路",
+          "image": "nature/road_道路.webp",
+          "audio": "road.mp3"
+        },
+        {
+          "en": "spring",
+          "cn": "春天",
+          "image": "nature/spring_春天.webp",
+          "audio": "spring.mp3"
+        },
+        {
+          "en": "mountain",
+          "cn": "山",
+          "image": "nature/mountain_山.webp",
+          "audio": "mountain.mp3"
+        },
+        {
+          "en": "star",
+          "cn": "星星",
+          "image": "nature/star_星星.webp",
+          "audio": "star.mp3"
+        },
+        {
+          "en": "sunflower",
+          "cn": "向日葵",
+          "image": "nature/sunflower_向日葵.webp",
+          "audio": "sunflower.mp3"
+        },
+        {
+          "en": "sky",
+          "cn": "天空",
+          "image": "nature/sky_天空.webp",
+          "audio": "sky.mp3"
+        },
+        {
+          "en": "grass",
+          "cn": "草",
+          "image": "nature/grass_草.webp",
+          "audio": "grass.mp3"
+        },
+        {
+          "en": "nest",
+          "cn": "鸟窝",
+          "image": "nature/nest_鸟窝.webp",
+          "audio": "nest.mp3"
+        },
+        {
+          "en": "hail",
+          "cn": "冰雹",
+          "image": "nature/hail_冰雹.webp",
+          "audio": "hail.mp3"
+        },
+        {
+          "en": "winter",
+          "cn": "冬天",
+          "image": "nature/winter_冬天.webp",
+          "audio": "winter.mp3"
+        },
+        {
+          "en": "storm",
+          "cn": "暴风雨",
+          "image": "nature/storm_暴风雨.webp",
+          "audio": "storm.mp3"
+        },
+        {
+          "en": "island",
+          "cn": "岛屿",
+          "image": "nature/island_岛屿.webp",
+          "audio": "island.mp3"
+        },
+        {
+          "en": "moss",
+          "cn": "青苔",
+          "image": "nature/moss_青苔.webp",
+          "audio": "moss.mp3"
+        },
+        {
+          "en": "lightning",
+          "cn": "闪电",
+          "image": "nature/lightning_闪电.webp",
+          "audio": "lightning.mp3"
+        },
+        {
+          "en": "rose",
+          "cn": "玫瑰花",
+          "image": "nature/rose_玫瑰花.webp",
+          "audio": "rose.mp3"
+        },
+        {
+          "en": "forest",
+          "cn": "森林",
+          "image": "nature/forest_森林.webp",
+          "audio": "forest.mp3"
+        },
+        {
+          "en": "flower",
+          "cn": "花朵",
+          "image": "nature/flower_花朵.webp",
+          "audio": "flower.mp3"
+        },
+        {
+          "en": "rain",
+          "cn": "下雨",
+          "image": "nature/rain_下雨.webp",
+          "audio": "rain.mp3"
+        },
+        {
+          "en": "village",
+          "cn": "农村",
+          "image": "nature/village_农村.webp",
+          "audio": "village.mp3"
+        },
+        {
+          "en": "cloud",
+          "cn": "云朵",
+          "image": "nature/cloud_云朵.webp",
+          "audio": "cloud.mp3"
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "title": "Question 疑问",
+      "icon": "question_icon.webp",
+      "items": [
+        {
+          "en": "who",
+          "cn": "是谁",
+          "image": "question/who_是谁.webp",
+          "audio": "who.mp3"
+        },
+        {
+          "en": "Can I play",
+          "cn": "我可以玩吗",
+          "image": "question/Can I play_我可以玩吗.webp",
+          "audio": "Can I play.mp3"
+        },
+        {
+          "en": "who are they",
+          "cn": "他们是谁",
+          "image": "question/who are they_他们是谁.webp",
+          "audio": "who are they.mp3"
+        },
+        {
+          "en": "which",
+          "cn": "哪一个",
+          "image": "question/which_哪一个.webp",
+          "audio": "which.mp3"
+        },
+        {
+          "en": "why",
+          "cn": "为什么",
+          "image": "question/why_为什么.webp",
+          "audio": "why.mp3"
+        },
+        {
+          "en": "how many apples",
+          "cn": "多少个苹果",
+          "image": "question/how many apples_多少个苹果.webp",
+          "audio": "how many apples.mp3"
+        },
+        {
+          "en": "where are we going",
+          "cn": "我们要去哪",
+          "image": "question/where are we going_我们要去哪.webp",
+          "audio": "where are we going.mp3"
+        },
+        {
+          "en": "how much is it",
+          "cn": "这个多少钱",
+          "image": "question/how much is it_这个多少钱.webp",
+          "audio": "how much is it.mp3"
+        },
+        {
+          "en": "Which one is mine",
+          "cn": "哪个是我的",
+          "image": "question/Which one is mine_哪个是我的.webp",
+          "audio": "Which one is mine.mp3"
+        },
+        {
+          "en": "can you help me",
+          "cn": "你可以帮我一下吗",
+          "image": "question/can you help me_你可以帮我一下吗.webp",
+          "audio": "can you help me.mp3"
+        },
+        {
+          "en": "what is this",
+          "cn": "这是什么",
+          "image": "question/what is this_这是什么.webp",
+          "audio": "what is this.mp3"
+        },
+        {
+          "en": "who are you",
+          "cn": "你是谁",
+          "image": "question/who are you_你是谁.webp",
+          "audio": "who are you.mp3"
+        },
+        {
+          "en": "are you ready",
+          "cn": "准备好了吗",
+          "image": "question/are you ready_准备好了吗.webp",
+          "audio": "are you ready.mp3"
+        },
+        {
+          "en": "who is he",
+          "cn": "他是谁",
+          "image": "question/who is he_他是谁.webp",
+          "audio": "who is he.mp3"
+        },
+        {
+          "en": "How old are you",
+          "cn": "你几岁了",
+          "image": "question/How old are you_你几岁了.webp",
+          "audio": "How old are you.mp3"
+        },
+        {
+          "en": "Can I go",
+          "cn": "我可以走了吗",
+          "image": "question/Can I go_我可以走了吗.webp",
+          "audio": "Can I go.mp3"
+        },
+        {
+          "en": "how are you",
+          "cn": "你好吗",
+          "image": "question/how are you_你好吗.webp",
+          "audio": "how are you.mp3"
+        },
+        {
+          "en": "whose",
+          "cn": "谁的",
+          "image": "question/whose_谁的.webp",
+          "audio": "whose.mp3"
+        },
+        {
+          "en": "what color is it",
+          "cn": "这是什么颜色",
+          "image": "question/what color is it_这是什么颜色.webp",
+          "audio": "what color is it.mp3"
+        },
+        {
+          "en": "Can I have some water",
+          "cn": "可以给我水吗",
+          "image": "question/Can I have some water_可以给我水吗.webp",
+          "audio": "Can I have some water.mp3"
+        },
+        {
+          "en": "where is my toy",
+          "cn": "我的玩具在哪",
+          "image": "question/where is my toy_我的玩具在哪.webp",
+          "audio": "where is my toy.mp3"
+        },
+        {
+          "en": "what",
+          "cn": "什么",
+          "image": "question/what_什么.webp",
+          "audio": "what.mp3"
+        },
+        {
+          "en": "who is she",
+          "cn": "她是谁",
+          "image": "question/who is she_她是谁.webp",
+          "audio": "who is she.mp3"
+        },
+        {
+          "en": "what is that",
+          "cn": "那个是什么",
+          "image": "question/what is that_那个是什么.webp",
+          "audio": "what is that.mp3"
+        },
+        {
+          "en": "where",
+          "cn": "哪里",
+          "image": "question/where_哪里.webp",
+          "audio": "where.mp3"
+        },
+        {
+          "en": "what is your name",
+          "cn": "你叫什么名字",
+          "image": "question/what is your name_你叫什么名字.webp",
+          "audio": "what is your name.mp3"
+        },
+        {
+          "en": "what are you doing",
+          "cn": "你在干什么",
+          "image": "question/what are you doing_你在干什么.webp",
+          "audio": "what are you doing.mp3"
+        },
+        {
+          "en": "what is happening",
+          "cn": "发生了什么",
+          "image": "question/what is happening_发生了什么.webp",
+          "audio": "what is happening.mp3"
+        },
+        {
+          "en": "when",
+          "cn": "什么时候",
+          "image": "question/when_什么时候.webp",
+          "audio": "when.mp3"
+        }
+      ]
+    },
+    {
+      "id": "number",
+      "title": "Number 数字",
+      "icon": "number_icon.webp",
+      "items": [
+        {
+          "en": "ten",
+          "cn": "十",
+          "image": "number/ten_十.webp",
+          "audio": "ten.mp3"
+        },
+        {
+          "en": "twelve",
+          "cn": "十二",
+          "image": "number/twelve_十二.webp",
+          "audio": "twelve.mp3"
+        },
+        {
+          "en": "eleven",
+          "cn": "十一",
+          "image": "number/eleven_十一.webp",
+          "audio": "eleven.mp3"
+        },
+        {
+          "en": "one",
+          "cn": "一",
+          "image": "number/one_一.webp",
+          "audio": "one.mp3"
+        },
+        {
+          "en": "zero",
+          "cn": "零",
+          "image": "number/zero_零.webp",
+          "audio": "zero.mp3"
+        },
+        {
+          "en": "seventy",
+          "cn": "七十",
+          "image": "number/seventy_七十.webp",
+          "audio": "seventy.mp3"
+        },
+        {
+          "en": "eight",
+          "cn": "八",
+          "image": "number/eight_八.webp",
+          "audio": "eight.mp3"
+        },
+        {
+          "en": "four",
+          "cn": "四",
+          "image": "number/four_四.webp",
+          "audio": "four.mp3"
+        },
+        {
+          "en": "nine",
+          "cn": "九",
+          "image": "number/nine_九.webp",
+          "audio": "nine.mp3"
+        },
+        {
+          "en": "one hundred",
+          "cn": "一百",
+          "image": "number/one hundred_一百.webp",
+          "audio": "one hundred.mp3"
+        },
+        {
+          "en": "five",
+          "cn": "五",
+          "image": "number/five_五.webp",
+          "audio": "five.mp3"
+        },
+        {
+          "en": "thirteen",
+          "cn": "十三",
+          "image": "number/thirteen_十三.webp",
+          "audio": "thirteen.mp3"
+        },
+        {
+          "en": "one thousand",
+          "cn": "一千",
+          "image": "number/one thousand_一千.webp",
+          "audio": "one thousand.mp3"
+        },
+        {
+          "en": "eighteen",
+          "cn": "十八",
+          "image": "number/eighteen_十八.webp",
+          "audio": "eighteen.mp3"
+        },
+        {
+          "en": "three",
+          "cn": "三",
+          "image": "number/three_三.webp",
+          "audio": "three.mp3"
+        },
+        {
+          "en": "sixty",
+          "cn": "六十",
+          "image": "number/sixty_六十.webp",
+          "audio": "sixty.mp3"
+        },
+        {
+          "en": "sixteen",
+          "cn": "十六",
+          "image": "number/sixteen_十六.webp",
+          "audio": "sixteen.mp3"
+        },
+        {
+          "en": "eighty",
+          "cn": "八十",
+          "image": "number/eighty_八十.webp",
+          "audio": "eighty.mp3"
+        },
+        {
+          "en": "fifteen",
+          "cn": "十五",
+          "image": "number/fifteen_十五.webp",
+          "audio": "fifteen.mp3"
+        },
+        {
+          "en": "seven",
+          "cn": "七",
+          "image": "number/seven_七.webp",
+          "audio": "seven.mp3"
+        },
+        {
+          "en": "two hundred",
+          "cn": "二百",
+          "image": "number/two hundred_二百.webp",
+          "audio": "two hundred.mp3"
+        },
+        {
+          "en": "fifty",
+          "cn": "五十",
+          "image": "number/fifty_五十.webp",
+          "audio": "fifty.mp3"
+        },
+        {
+          "en": "forty",
+          "cn": "四十",
+          "image": "number/forty_四十.webp",
+          "audio": "forty.mp3"
+        },
+        {
+          "en": "seventeen",
+          "cn": "十七",
+          "image": "number/seventeen_十七.webp",
+          "audio": "seventeen.mp3"
+        },
+        {
+          "en": "twenty",
+          "cn": "二十",
+          "image": "number/twenty_二十.webp",
+          "audio": "twenty.mp3"
+        },
+        {
+          "en": "two",
+          "cn": "二",
+          "image": "number/two_二.webp",
+          "audio": "two.mp3"
+        },
+        {
+          "en": "thirty",
+          "cn": "三十",
+          "image": "number/thirty_三十.webp",
+          "audio": "thirty.mp3"
+        },
+        {
+          "en": "six",
+          "cn": "六",
+          "image": "number/six_六.webp",
+          "audio": "six.mp3"
+        },
+        {
+          "en": "ninety",
+          "cn": "九十",
+          "image": "number/ninety_九十.webp",
+          "audio": "ninety.mp3"
+        },
+        {
+          "en": "fourteen",
+          "cn": "十四",
+          "image": "number/fourteen_十四.webp",
+          "audio": "fourteen.mp3"
+        },
+        {
+          "en": "nineteen",
+          "cn": "十九",
+          "image": "number/nineteen_十九.webp",
+          "audio": "nineteen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Action 动作",
+      "icon": "action_icon.webp",
+      "items": [
+        {
+          "en": "I win",
+          "cn": "我赢啦",
+          "image": "action/I win_我赢啦.webp",
+          "audio": "I win.mp3"
+        },
+        {
+          "en": "I am playing",
+          "cn": "我正在玩",
+          "image": "action/I am playing_我正在玩.webp",
+          "audio": "I am playing.mp3"
+        },
+        {
+          "en": "I am doing homework",
+          "cn": "我正在写作业",
+          "image": "action/I am doing homework_我正在写作业.webp",
+          "audio": "I am doing homework.mp3"
+        },
+        {
+          "en": "I am drawing",
+          "cn": "我正在画画",
+          "image": "action/I am drawing_我正在画画.webp",
+          "audio": "I am drawing.mp3"
+        },
+        {
+          "en": "I am reading",
+          "cn": "我正在读书",
+          "image": "action/I am reading_我正在读书.webp",
+          "audio": "I am reading.mp3"
+        },
+        {
+          "en": "I am drinking",
+          "cn": "我正在喝",
+          "image": "action/I am drinking_我正在喝.webp",
+          "audio": "I am drinking.mp3"
+        },
+        {
+          "en": "I can run fast",
+          "cn": "我可以跑的很快",
+          "image": "action/I can run fast_我可以跑的很快.webp",
+          "audio": "I can run fast.mp3"
+        },
+        {
+          "en": "I am brushing my teeth",
+          "cn": "我正在刷牙",
+          "image": "action/I am brushing my teeth_我正在刷牙.webp",
+          "audio": "I am brushing my teeth.mp3"
+        },
+        {
+          "en": "I can jump",
+          "cn": "我会跳",
+          "image": "action/I can jump_我会跳.webp",
+          "audio": "I can jump.mp3"
+        },
+        {
+          "en": "Catch me",
+          "cn": "来抓我",
+          "image": "action/Catch me_来抓我.webp",
+          "audio": "Catch me.mp3"
+        },
+        {
+          "en": "Please wait",
+          "cn": "请等一下",
+          "image": "action/Please wait_请等一下.webp",
+          "audio": "Please wait.mp3"
+        },
+        {
+          "en": "That is fun",
+          "cn": "真有趣",
+          "image": "action/That is fun_真有趣.webp",
+          "audio": "That is fun.mp3"
+        },
+        {
+          "en": "Look at me",
+          "cn": "看着我",
+          "image": "action/Look at me_看着我.webp",
+          "audio": "Look at me.mp3"
+        },
+        {
+          "en": "I am getting dressed",
+          "cn": "我正在穿衣服",
+          "image": "action/I am getting dressed_我正在穿衣服.webp",
+          "audio": "I am getting dressed.mp3"
+        },
+        {
+          "en": "Let is go",
+          "cn": "出发吧",
+          "image": "action/Let is go_出发吧.webp",
+          "audio": "Let is go.mp3"
+        },
+        {
+          "en": "I am putting on my shoes",
+          "cn": "我正在穿鞋",
+          "image": "action/I am putting on my shoes_我正在穿鞋.webp",
+          "audio": "I am putting on my shoes.mp3"
+        },
+        {
+          "en": "I am washing my hands",
+          "cn": "我正在洗手",
+          "image": "action/I am washing my hands_我正在洗手.webp",
+          "audio": "I am washing my hands.mp3"
+        },
+        {
+          "en": "Take off your shoes",
+          "cn": "脱鞋",
+          "image": "action/Take off your shoes_脱鞋.webp",
+          "audio": "Take off your shoes.mp3"
+        },
+        {
+          "en": "I am eating",
+          "cn": "我正在吃饭",
+          "image": "action/I am eating_我正在吃饭.webp",
+          "audio": "I am eating.mp3"
+        },
+        {
+          "en": "Put on the coat",
+          "cn": "穿衣服",
+          "image": "action/Put on the coat_穿衣服.webp",
+          "audio": "Put on the coat.mp3"
+        },
+        {
+          "en": "I am running",
+          "cn": "我正在跑",
+          "image": "action/I am running_我正在跑.webp",
+          "audio": "I am running.mp3"
+        },
+        {
+          "en": "Come here",
+          "cn": "来我这",
+          "image": "action/Come here_来我这.webp",
+          "audio": "Come here.mp3"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "People 人物",
+      "icon": "people_icon.webp",
+      "items": [
+        {
+          "en": "hairdresser",
+          "cn": "理发师",
+          "image": "people/hairdresser_理发师.webp",
+          "audio": "hairdresser.mp3"
+        },
+        {
+          "en": "father",
+          "cn": "爸爸",
+          "image": "people/father_爸爸.webp",
+          "audio": "father.mp3"
+        },
+        {
+          "en": "sister",
+          "cn": "姐妹",
+          "image": "people/sister_姐妹.webp",
+          "audio": "sister.mp3"
+        },
+        {
+          "en": "police officer",
+          "cn": "警察",
+          "image": "people/police officer_警察.webp",
+          "audio": "police officer.mp3"
+        },
+        {
+          "en": "scientist",
+          "cn": "科学家",
+          "image": "people/scientist_科学家.webp",
+          "audio": "scientist.mp3"
+        },
+        {
+          "en": "son",
+          "cn": "儿子",
+          "image": "people/son_儿子.webp",
+          "audio": "son.mp3"
+        },
+        {
+          "en": "programmer",
+          "cn": "程序员",
+          "image": "people/programmer_程序员.webp",
+          "audio": "programmer.mp3"
+        },
+        {
+          "en": "firefighter",
+          "cn": "消防员",
+          "image": "people/firefighter_消防员.webp",
+          "audio": "firefighter.mp3"
+        },
+        {
+          "en": "thief",
+          "cn": "小偷",
+          "image": "people/thief_小偷.webp",
+          "audio": "thief.mp3"
+        },
+        {
+          "en": "baby",
+          "cn": "婴儿",
+          "image": "people/baby_婴儿.webp",
+          "audio": "baby.mp3"
+        },
+        {
+          "en": "enemy",
+          "cn": "敌人",
+          "image": "people/enemy_敌人.webp",
+          "audio": "enemy.mp3"
+        },
+        {
+          "en": "singer",
+          "cn": "歌手",
+          "image": "people/singer_歌手.webp",
+          "audio": "singer.mp3"
+        },
+        {
+          "en": "teenager",
+          "cn": "青少年",
+          "image": "people/teenager_青少年.webp",
+          "audio": "teenager.mp3"
+        },
+        {
+          "en": "doctor",
+          "cn": "医生",
+          "image": "people/doctor_医生.webp",
+          "audio": "doctor.mp3"
+        },
+        {
+          "en": "children",
+          "cn": "儿童们",
+          "image": "people/children_儿童们.webp",
+          "audio": "children.mp3"
+        },
+        {
+          "en": "friend",
+          "cn": "朋友",
+          "image": "people/friend_朋友.webp",
+          "audio": "friend.mp3"
+        },
+        {
+          "en": "person",
+          "cn": "人",
+          "image": "people/person_人.webp",
+          "audio": "person.mp3"
+        },
+        {
+          "en": "girl",
+          "cn": "女孩",
+          "image": "people/girl_女孩.webp",
+          "audio": "girl.mp3"
+        },
+        {
+          "en": "nurse",
+          "cn": "护士",
+          "image": "people/nurse_护士.webp",
+          "audio": "nurse.mp3"
+        },
+        {
+          "en": "family",
+          "cn": "家庭",
+          "image": "people/family_家庭.webp",
+          "audio": "family.mp3"
+        },
+        {
+          "en": "student",
+          "cn": "学生",
+          "image": "people/student_学生.webp",
+          "audio": "student.mp3"
+        },
+        {
+          "en": "farmer",
+          "cn": "农民",
+          "image": "people/farmer_农民.webp",
+          "audio": "farmer.mp3"
+        },
+        {
+          "en": "brother",
+          "cn": "兄弟",
+          "image": "people/brother_兄弟.webp",
+          "audio": "brother.mp3"
+        },
+        {
+          "en": "boy",
+          "cn": "男孩",
+          "image": "people/boy_男孩.webp",
+          "audio": "boy.mp3"
+        },
+        {
+          "en": "soldier",
+          "cn": "军人",
+          "image": "people/soldier_军人.webp",
+          "audio": "soldier.mp3"
+        },
+        {
+          "en": "engineer",
+          "cn": "工程师",
+          "image": "people/engineer_工程师.webp",
+          "audio": "engineer.mp3"
+        },
+        {
+          "en": "woman",
+          "cn": "女人",
+          "image": "people/woman_女人.webp",
+          "audio": "woman.mp3"
+        },
+        {
+          "en": "parent",
+          "cn": "父母",
+          "image": "people/parent_父母.webp",
+          "audio": "parent.mp3"
+        },
+        {
+          "en": "dancer",
+          "cn": "舞蹈演员",
+          "image": "people/dancer_舞蹈演员.webp",
+          "audio": "dancer.mp3"
+        },
+        {
+          "en": "teacher",
+          "cn": "老师",
+          "image": "people/teacher_老师.webp",
+          "audio": "teacher.mp3"
+        },
+        {
+          "en": "man",
+          "cn": "男人",
+          "image": "people/man_男人.webp",
+          "audio": "man.mp3"
+        },
+        {
+          "en": "mother",
+          "cn": "妈妈",
+          "image": "people/mother_妈妈.webp",
+          "audio": "mother.mp3"
+        },
+        {
+          "en": "people",
+          "cn": "人",
+          "image": "people/people_人.webp",
+          "audio": "people.mp3"
+        },
+        {
+          "en": "taxi driver",
+          "cn": "出租车司机",
+          "image": "people/taxi driver_出租车司机.webp",
+          "audio": "taxi driver.mp3"
+        },
+        {
+          "en": "milkman",
+          "cn": "送奶工",
+          "image": "people/milkman_送奶工.webp",
+          "audio": "milkman.mp3"
+        },
+        {
+          "en": "grandpa",
+          "cn": "爷爷",
+          "image": "people/grandpa_爷爷.webp",
+          "audio": "grandpa.mp3"
+        },
+        {
+          "en": "daughter",
+          "cn": "女儿",
+          "image": "people/daughter_女儿.webp",
+          "audio": "daughter.mp3"
+        },
+        {
+          "en": "postman",
+          "cn": "邮递员",
+          "image": "people/postman_邮递员.webp",
+          "audio": "postman.mp3"
+        },
+        {
+          "en": "grandma",
+          "cn": "奶奶",
+          "image": "people/grandma_奶奶.webp",
+          "audio": "grandma.mp3"
+        },
+        {
+          "en": "child",
+          "cn": "儿童",
+          "image": "people/child_儿童.webp",
+          "audio": "child.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Food 食物",
+      "icon": "food_icon.webp",
+      "items": [
+        {
+          "en": "honey",
+          "cn": "蜂蜜",
+          "image": "food/honey_蜂蜜.webp",
+          "audio": "honey.mp3"
+        },
+        {
+          "en": "milk",
+          "cn": "牛奶",
+          "image": "food/milk_牛奶.webp",
+          "audio": "milk.mp3"
+        },
+        {
+          "en": "delicious",
+          "cn": "美味的",
+          "image": "food/delicious_美味的.webp",
+          "audio": "delicious.mp3"
+        },
+        {
+          "en": "sandwich",
+          "cn": "三明治",
+          "image": "food/sandwich_三明治.webp",
+          "audio": "sandwich.mp3"
+        },
+        {
+          "en": "egg",
+          "cn": "鸡蛋",
+          "image": "food/egg_鸡蛋.webp",
+          "audio": "egg.mp3"
+        },
+        {
+          "en": "barbecue",
+          "cn": "烤肉",
+          "image": "food/barbecue_烤肉.webp",
+          "audio": "barbecue.mp3"
+        },
+        {
+          "en": "birthday",
+          "cn": "生日",
+          "image": "food/birthday_生日.webp",
+          "audio": "birthday.mp3"
+        },
+        {
+          "en": "pork",
+          "cn": "猪肉",
+          "image": "food/pork_猪肉.webp",
+          "audio": "pork.mp3"
+        },
+        {
+          "en": "fried rice",
+          "cn": "炒饭",
+          "image": "food/fried rice_炒饭.webp",
+          "audio": "fried rice.mp3"
+        },
+        {
+          "en": "water",
+          "cn": "水",
+          "image": "food/water_水.webp",
+          "audio": "water.mp3"
+        },
+        {
+          "en": "hotpot",
+          "cn": "火锅",
+          "image": "food/hotpot_火锅.webp",
+          "audio": "hotpot.mp3"
+        },
+        {
+          "en": "banana peel",
+          "cn": "香蕉皮",
+          "image": "food/banana peel_香蕉皮.webp",
+          "audio": "banana peel.mp3"
+        },
+        {
+          "en": "bacon",
+          "cn": "培根",
+          "image": "food/bacon_培根.webp",
+          "audio": "bacon.mp3"
+        },
+        {
+          "en": "brown sugar",
+          "cn": "红糖",
+          "image": "food/brown sugar_红糖.webp",
+          "audio": "brown sugar.mp3"
+        },
+        {
+          "en": "cookie",
+          "cn": "饼干",
+          "image": "food/cookie_饼干.webp",
+          "audio": "cookie.mp3"
+        },
+        {
+          "en": "cake",
+          "cn": "蛋糕",
+          "image": "food/cake_蛋糕.webp",
+          "audio": "cake.mp3"
+        },
+        {
+          "en": "curry",
+          "cn": "咖喱",
+          "image": "food/curry_咖喱.webp",
+          "audio": "curry.mp3"
+        },
+        {
+          "en": "soup",
+          "cn": "汤",
+          "image": "food/soup_汤.webp",
+          "audio": "soup.mp3"
+        },
+        {
+          "en": "toast",
+          "cn": "吐司面包",
+          "image": "food/toast_吐司面包.webp",
+          "audio": "toast.mp3"
+        },
+        {
+          "en": "sugar",
+          "cn": "白砂糖",
+          "image": "food/sugar_白砂糖.webp",
+          "audio": "sugar.mp3"
+        },
+        {
+          "en": "sickly",
+          "cn": "恶心的",
+          "image": "food/sickly_恶心的.webp",
+          "audio": "sickly.mp3"
+        },
+        {
+          "en": "spicy",
+          "cn": "辣的",
+          "image": "food/spicy_辣的.webp",
+          "audio": "spicy.mp3"
+        },
+        {
+          "en": "orange juice",
+          "cn": "橙汁",
+          "image": "food/orange juice_橙汁.webp",
+          "audio": "orange juice.mp3"
+        },
+        {
+          "en": "sushi",
+          "cn": "寿司",
+          "image": "food/sushi_寿司.webp",
+          "audio": "sushi.mp3"
+        },
+        {
+          "en": "chocolate",
+          "cn": "巧克力",
+          "image": "food/chocolate_巧克力.webp",
+          "audio": "chocolate.mp3"
+        },
+        {
+          "en": "jam",
+          "cn": "果酱",
+          "image": "food/jam_果酱.webp",
+          "audio": "jam.mp3"
+        },
+        {
+          "en": "coffee",
+          "cn": "咖啡",
+          "image": "food/coffee_咖啡.webp",
+          "audio": "coffee.mp3"
+        },
+        {
+          "en": "hamburger",
+          "cn": "汉堡",
+          "image": "food/hamburger_汉堡.webp",
+          "audio": "hamburger.mp3"
+        },
+        {
+          "en": "ice cream",
+          "cn": "冰淇淋",
+          "image": "food/ice cream_冰淇淋.webp",
+          "audio": "ice cream.mp3"
+        },
+        {
+          "en": "ice",
+          "cn": "冰",
+          "image": "food/ice_冰.webp",
+          "audio": "ice.mp3"
+        },
+        {
+          "en": "pasta",
+          "cn": "意大利面",
+          "image": "food/pasta_意大利面.webp",
+          "audio": "pasta.mp3"
+        },
+        {
+          "en": "tea",
+          "cn": "茶",
+          "image": "food/tea_茶.webp",
+          "audio": "tea.mp3"
+        },
+        {
+          "en": "lunch",
+          "cn": "午餐",
+          "image": "food/lunch_午餐.webp",
+          "audio": "lunch.mp3"
+        },
+        {
+          "en": "beef",
+          "cn": "牛肉",
+          "image": "food/beef_牛肉.webp",
+          "audio": "beef.mp3"
+        },
+        {
+          "en": "horrible",
+          "cn": "难吃的",
+          "image": "food/horrible_难吃的.webp",
+          "audio": "horrible.mp3"
+        },
+        {
+          "en": "salad",
+          "cn": "沙拉",
+          "image": "food/salad_沙拉.webp",
+          "audio": "salad.mp3"
+        },
+        {
+          "en": "donut",
+          "cn": "甜甜圈",
+          "image": "food/donut_甜甜圈.webp",
+          "audio": "donut.mp3"
+        },
+        {
+          "en": "salami",
+          "cn": "肉肠",
+          "image": "food/salami_肉肠.webp",
+          "audio": "salami.mp3"
+        },
+        {
+          "en": "cola",
+          "cn": "可乐",
+          "image": "food/cola_可乐.webp",
+          "audio": "cola.mp3"
+        },
+        {
+          "en": "butter",
+          "cn": "黄油",
+          "image": "food/butter_黄油.webp",
+          "audio": "butter.mp3"
+        },
+        {
+          "en": "soda",
+          "cn": "苏打水",
+          "image": "food/soda_苏打水.webp",
+          "audio": "soda.mp3"
+        },
+        {
+          "en": "dinner",
+          "cn": "晚餐",
+          "image": "food/dinner_晚餐.webp",
+          "audio": "dinner.mp3"
+        },
+        {
+          "en": "salt",
+          "cn": "盐",
+          "image": "food/salt_盐.webp",
+          "audio": "salt.mp3"
+        },
+        {
+          "en": "dumpling",
+          "cn": "饺子",
+          "image": "food/dumpling_饺子.webp",
+          "audio": "dumpling.mp3"
+        },
+        {
+          "en": "cheese",
+          "cn": "奶酪",
+          "image": "food/cheese_奶酪.webp",
+          "audio": "cheese.mp3"
+        },
+        {
+          "en": "beer",
+          "cn": "啤酒",
+          "image": "food/beer_啤酒.webp",
+          "audio": "beer.mp3"
+        },
+        {
+          "en": "chips",
+          "cn": "薯条",
+          "image": "food/chips_薯条.webp",
+          "audio": "chips.mp3"
+        },
+        {
+          "en": "rice",
+          "cn": "米饭",
+          "image": "food/rice_米饭.webp",
+          "audio": "rice.mp3"
+        },
+        {
+          "en": "pizza",
+          "cn": "披萨",
+          "image": "food/pizza_披萨.webp",
+          "audio": "pizza.mp3"
+        },
+        {
+          "en": "bun",
+          "cn": "包子",
+          "image": "food/bun_包子.webp",
+          "audio": "bun.mp3"
+        },
+        {
+          "en": "salmon",
+          "cn": "三文鱼",
+          "image": "food/salmon_三文鱼.webp",
+          "audio": "salmon.mp3"
+        },
+        {
+          "en": "ketchup",
+          "cn": "蕃茄酱",
+          "image": "food/ketchup_蕃茄酱.webp",
+          "audio": "ketchup.mp3"
+        },
+        {
+          "en": "flour",
+          "cn": "面粉",
+          "image": "food/flour_面粉.webp",
+          "audio": "flour.mp3"
+        },
+        {
+          "en": "pancake",
+          "cn": "煎饼",
+          "image": "food/pancake_煎饼.webp",
+          "audio": "pancake.mp3"
+        },
+        {
+          "en": "noodles",
+          "cn": "面条",
+          "image": "food/noodles_面条.webp",
+          "audio": "noodles.mp3"
+        },
+        {
+          "en": "wine",
+          "cn": "红酒",
+          "image": "food/wine_红酒.webp",
+          "audio": "wine.mp3"
+        },
+        {
+          "en": "breakfast",
+          "cn": "早餐",
+          "image": "food/breakfast_早餐.webp",
+          "audio": "breakfast.mp3"
+        },
+        {
+          "en": "candy",
+          "cn": "糖果",
+          "image": "food/candy_糖果.webp",
+          "audio": "candy.mp3"
+        },
+        {
+          "en": "bread",
+          "cn": "面包",
+          "image": "food/bread_面包.webp",
+          "audio": "bread.mp3"
+        },
+        {
+          "en": "waffle",
+          "cn": "华夫饼",
+          "image": "food/waffle_华夫饼.webp",
+          "audio": "waffle.mp3"
+        }
+      ]
+    },
+    {
+      "id": "house",
+      "title": "House 房子",
+      "icon": "house_icon.webp",
+      "items": [
+        {
+          "en": "refrigerator",
+          "cn": "冰箱",
+          "image": "house/refrigerator_冰箱.webp",
+          "audio": "refrigerator.mp3"
+        },
+        {
+          "en": "teapot",
+          "cn": "茶壶",
+          "image": "house/teapot_茶壶.webp",
+          "audio": "teapot.mp3"
+        },
+        {
+          "en": "switch",
+          "cn": "开关",
+          "image": "house/switch_开关.webp",
+          "audio": "switch.mp3"
+        },
+        {
+          "en": "bathroom",
+          "cn": "浴室",
+          "image": "house/bathroom_浴室.webp",
+          "audio": "bathroom.mp3"
+        },
+        {
+          "en": "door",
+          "cn": "门",
+          "image": "house/door_门.webp",
+          "audio": "door.mp3"
+        },
+        {
+          "en": "key",
+          "cn": "钥匙",
+          "image": "house/key_钥匙.webp",
+          "audio": "key.mp3"
+        },
+        {
+          "en": "boil water",
+          "cn": "沸腾",
+          "image": "house/boil water_沸腾.webp",
+          "audio": "boil water.mp3"
+        },
+        {
+          "en": "scissors",
+          "cn": "剪刀",
+          "image": "house/scissors_剪刀.webp",
+          "audio": "scissors.mp3"
+        },
+        {
+          "en": "paint",
+          "cn": "画",
+          "image": "house/paint_画.webp",
+          "audio": "paint.mp3"
+        },
+        {
+          "en": "handle",
+          "cn": "把手",
+          "image": "house/handle_把手.webp",
+          "audio": "handle.mp3"
+        },
+        {
+          "en": "roof",
+          "cn": "屋顶",
+          "image": "house/roof_屋顶.webp",
+          "audio": "roof.mp3"
+        },
+        {
+          "en": "towel",
+          "cn": "毛巾",
+          "image": "house/towel_毛巾.webp",
+          "audio": "towel.mp3"
+        },
+        {
+          "en": "toothbrush",
+          "cn": "牙刷",
+          "image": "house/toothbrush_牙刷.webp",
+          "audio": "toothbrush.mp3"
+        },
+        {
+          "en": "blocks",
+          "cn": "积木",
+          "image": "house/blocks_积木.webp",
+          "audio": "blocks.mp3"
+        },
+        {
+          "en": "ring",
+          "cn": "戒指",
+          "image": "house/ring_戒指.webp",
+          "audio": "ring.mp3"
+        },
+        {
+          "en": "between the boxes",
+          "cn": "在盒子之间",
+          "image": "house/between the boxes_在盒子之间.webp",
+          "audio": "between the boxes.mp3"
+        },
+        {
+          "en": "newspaper",
+          "cn": "报纸",
+          "image": "house/newspaper_报纸.webp",
+          "audio": "newspaper.mp3"
+        },
+        {
+          "en": "watch",
+          "cn": "手表",
+          "image": "house/watch_手表.webp",
+          "audio": "watch.mp3"
+        },
+        {
+          "en": "in front of the box",
+          "cn": "在盒子前面",
+          "image": "house/in front of the box_在盒子前面.webp",
+          "audio": "in front of the box.mp3"
+        },
+        {
+          "en": "computer mouse",
+          "cn": "鼠标",
+          "image": "house/computer mouse_鼠标.webp",
+          "audio": "computer mouse.mp3"
+        },
+        {
+          "en": "vase",
+          "cn": "花瓶",
+          "image": "house/vase_花瓶.webp",
+          "audio": "vase.mp3"
+        },
+        {
+          "en": "umbrella",
+          "cn": "雨伞",
+          "image": "house/umbrella_雨伞.webp",
+          "audio": "umbrella.mp3"
+        },
+        {
+          "en": "passport",
+          "cn": "护照",
+          "image": "house/passport_护照.webp",
+          "audio": "passport.mp3"
+        },
+        {
+          "en": "glass",
+          "cn": "玻璃杯",
+          "image": "house/glass_玻璃杯.webp",
+          "audio": "glass.mp3"
+        },
+        {
+          "en": "behind the box",
+          "cn": "在盒子后面",
+          "image": "house/behind the box_在盒子后面.webp",
+          "audio": "behind the box.mp3"
+        },
+        {
+          "en": "pencil",
+          "cn": "铅笔",
+          "image": "house/pencil_铅笔.webp",
+          "audio": "pencil.mp3"
+        },
+        {
+          "en": "paper",
+          "cn": "纸",
+          "image": "house/paper_纸.webp",
+          "audio": "paper.mp3"
+        },
+        {
+          "en": "mobile phone",
+          "cn": "手机",
+          "image": "house/mobile phone_手机.webp",
+          "audio": "mobile phone.mp3"
+        },
+        {
+          "en": "window",
+          "cn": "窗户",
+          "image": "house/window_窗户.webp",
+          "audio": "window.mp3"
+        },
+        {
+          "en": "soap",
+          "cn": "肥皂",
+          "image": "house/soap_肥皂.webp",
+          "audio": "soap.mp3"
+        },
+        {
+          "en": "floor",
+          "cn": "地板",
+          "image": "house/floor_地板.webp",
+          "audio": "floor.mp3"
+        },
+        {
+          "en": "guitar",
+          "cn": "吉他",
+          "image": "house/guitar_吉他.webp",
+          "audio": "guitar.mp3"
+        },
+        {
+          "en": "spoon",
+          "cn": "勺子",
+          "image": "house/spoon_勺子.webp",
+          "audio": "spoon.mp3"
+        },
+        {
+          "en": "under the box",
+          "cn": "在盒子下面",
+          "image": "house/under the box_在盒子下面.webp",
+          "audio": "under the box.mp3"
+        },
+        {
+          "en": "toothpaste",
+          "cn": "牙膏",
+          "image": "house/toothpaste_牙膏.webp",
+          "audio": "toothpaste.mp3"
+        },
+        {
+          "en": "chair",
+          "cn": "椅子",
+          "image": "house/chair_椅子.webp",
+          "audio": "chair.mp3"
+        },
+        {
+          "en": "on the box",
+          "cn": "在盒子上面",
+          "image": "house/on the box_在盒子上面.webp",
+          "audio": "on the box.mp3"
+        },
+        {
+          "en": "remote control",
+          "cn": "遥控器",
+          "image": "house/remote control_遥控器.webp",
+          "audio": "remote control.mp3"
+        },
+        {
+          "en": "lock",
+          "cn": "锁头",
+          "image": "house/lock_锁头.webp",
+          "audio": "lock.mp3"
+        },
+        {
+          "en": "television",
+          "cn": "电视",
+          "image": "house/television_电视.webp",
+          "audio": "television.mp3"
+        },
+        {
+          "en": "plate",
+          "cn": "盘子",
+          "image": "house/plate_盘子.webp",
+          "audio": "plate.mp3"
+        },
+        {
+          "en": "robot",
+          "cn": "机器人",
+          "image": "house/robot_机器人.webp",
+          "audio": "robot.mp3"
+        },
+        {
+          "en": "box",
+          "cn": "盒子",
+          "image": "house/box_盒子.webp",
+          "audio": "box.mp3"
+        },
+        {
+          "en": "story",
+          "cn": "故事",
+          "image": "house/story_故事.webp",
+          "audio": "story.mp3"
+        },
+        {
+          "en": "table",
+          "cn": "桌子",
+          "image": "house/table_桌子.webp",
+          "audio": "table.mp3"
+        },
+        {
+          "en": "book",
+          "cn": "书本",
+          "image": "house/book_书本.webp",
+          "audio": "book.mp3"
+        },
+        {
+          "en": "plug",
+          "cn": "插头",
+          "image": "house/plug_插头.webp",
+          "audio": "plug.mp3"
+        },
+        {
+          "en": "curtain",
+          "cn": "窗帘",
+          "image": "house/curtain_窗帘.webp",
+          "audio": "curtain.mp3"
+        },
+        {
+          "en": "candle",
+          "cn": "蜡烛",
+          "image": "house/candle_蜡烛.webp",
+          "audio": "candle.mp3"
+        },
+        {
+          "en": "king",
+          "cn": "国王",
+          "image": "house/king_国王.webp",
+          "audio": "king.mp3"
+        },
+        {
+          "en": "gate",
+          "cn": "大门",
+          "image": "house/gate_大门.webp",
+          "audio": "gate.mp3"
+        },
+        {
+          "en": "picture",
+          "cn": "图片",
+          "image": "house/picture_图片.webp",
+          "audio": "picture.mp3"
+        },
+        {
+          "en": "bedroom",
+          "cn": "卧室",
+          "image": "house/bedroom_卧室.webp",
+          "audio": "bedroom.mp3"
+        },
+        {
+          "en": "hammer",
+          "cn": "锤子",
+          "image": "house/hammer_锤子.webp",
+          "audio": "hammer.mp3"
+        },
+        {
+          "en": "pen",
+          "cn": "钢笔",
+          "image": "house/pen_钢笔.webp",
+          "audio": "pen.mp3"
+        },
+        {
+          "en": "queen",
+          "cn": "王后",
+          "image": "house/queen_王后.webp",
+          "audio": "queen.mp3"
+        },
+        {
+          "en": "toilet",
+          "cn": "马桶",
+          "image": "house/toilet_马桶.webp",
+          "audio": "toilet.mp3"
+        },
+        {
+          "en": "cup",
+          "cn": "杯子",
+          "image": "house/cup_杯子.webp",
+          "audio": "cup.mp3"
+        },
+        {
+          "en": "prince",
+          "cn": "王子",
+          "image": "house/prince_王子.webp",
+          "audio": "prince.mp3"
+        },
+        {
+          "en": "photo",
+          "cn": "照片",
+          "image": "house/photo_照片.webp",
+          "audio": "photo.mp3"
+        },
+        {
+          "en": "in the box",
+          "cn": "在盒子里里面",
+          "image": "house/in the box_在盒子里里面.webp",
+          "audio": "in the box.mp3"
+        },
+        {
+          "en": "shower",
+          "cn": "洗澡",
+          "image": "house/shower_洗澡.webp",
+          "audio": "shower.mp3"
+        },
+        {
+          "en": "pillow",
+          "cn": "枕头",
+          "image": "house/pillow_枕头.webp",
+          "audio": "pillow.mp3"
+        },
+        {
+          "en": "suitcase",
+          "cn": "行李箱",
+          "image": "house/suitcase_行李箱.webp",
+          "audio": "suitcase.mp3"
+        },
+        {
+          "en": "brush",
+          "cn": "刷子",
+          "image": "house/brush_刷子.webp",
+          "audio": "brush.mp3"
+        },
+        {
+          "en": "bed",
+          "cn": "床",
+          "image": "house/bed_床.webp",
+          "audio": "bed.mp3"
+        },
+        {
+          "en": "living room",
+          "cn": "客厅",
+          "image": "house/living room_客厅.webp",
+          "audio": "living room.mp3"
+        },
+        {
+          "en": "keyboard",
+          "cn": "键盘",
+          "image": "house/keyboard_键盘.webp",
+          "audio": "keyboard.mp3"
+        },
+        {
+          "en": "bench",
+          "cn": "长椅",
+          "image": "house/bench_长椅.webp",
+          "audio": "bench.mp3"
+        },
+        {
+          "en": "shelf",
+          "cn": "架子",
+          "image": "house/shelf_架子.webp",
+          "audio": "shelf.mp3"
+        },
+        {
+          "en": "knife",
+          "cn": "刀",
+          "image": "house/knife_刀.webp",
+          "audio": "knife.mp3"
+        },
+        {
+          "en": "bottle",
+          "cn": "瓶子",
+          "image": "house/bottle_瓶子.webp",
+          "audio": "bottle.mp3"
+        },
+        {
+          "en": "princess",
+          "cn": "公主",
+          "image": "house/princess_公主.webp",
+          "audio": "princess.mp3"
+        },
+        {
+          "en": "computer",
+          "cn": "电脑",
+          "image": "house/computer_电脑.webp",
+          "audio": "computer.mp3"
+        },
+        {
+          "en": "doll",
+          "cn": "玩偶",
+          "image": "house/doll_玩偶.webp",
+          "audio": "doll.mp3"
+        },
+        {
+          "en": "light",
+          "cn": "灯",
+          "image": "house/light_灯.webp",
+          "audio": "light.mp3"
+        },
+        {
+          "en": "bag",
+          "cn": "包",
+          "image": "house/bag_包.webp",
+          "audio": "bag.mp3"
+        },
+        {
+          "en": "tap",
+          "cn": "水龙头",
+          "image": "house/tap_水龙头.webp",
+          "audio": "tap.mp3"
+        },
+        {
+          "en": "comb",
+          "cn": "梳子",
+          "image": "house/comb_梳子.webp",
+          "audio": "comb.mp3"
+        },
+        {
+          "en": "button",
+          "cn": "按钮",
+          "image": "house/button_按钮.webp",
+          "audio": "button.mp3"
+        },
+        {
+          "en": "kitchen",
+          "cn": "厨房",
+          "image": "house/kitchen_厨房.webp",
+          "audio": "kitchen.mp3"
+        },
+        {
+          "en": "sofa",
+          "cn": "沙发",
+          "image": "house/sofa_沙发.webp",
+          "audio": "sofa.mp3"
+        },
+        {
+          "en": "piano",
+          "cn": "钢琴",
+          "image": "house/piano_钢琴.webp",
+          "audio": "piano.mp3"
+        },
+        {
+          "en": "lamp",
+          "cn": "台灯",
+          "image": "house/lamp_台灯.webp",
+          "audio": "lamp.mp3"
+        },
+        {
+          "en": "house",
+          "cn": "房子",
+          "image": "house/house_房子.webp",
+          "audio": "house.mp3"
+        },
+        {
+          "en": "kettle",
+          "cn": "水壶",
+          "image": "house/kettle_水壶.webp",
+          "audio": "kettle.mp3"
+        },
+        {
+          "en": "basket",
+          "cn": "篮子",
+          "image": "house/basket_篮子.webp",
+          "audio": "basket.mp3"
+        },
+        {
+          "en": "clock",
+          "cn": "钟表",
+          "image": "house/clock_钟表.webp",
+          "audio": "clock.mp3"
+        },
+        {
+          "en": "puzzle",
+          "cn": "拼图",
+          "image": "house/puzzle_拼图.webp",
+          "audio": "puzzle.mp3"
+        },
+        {
+          "en": "fork",
+          "cn": "叉子",
+          "image": "house/fork_叉子.webp",
+          "audio": "fork.mp3"
+        }
+      ]
+    },
+    {
+      "id": "feel",
+      "title": "Feel 感觉",
+      "icon": "feel_icon.webp",
+      "items": [
+        {
+          "en": "stand",
+          "cn": "站着的",
+          "image": "feel/stand_站着的.webp",
+          "audio": "stand.mp3"
+        },
+        {
+          "en": "catch",
+          "cn": "抓住",
+          "image": "feel/catch_抓住.webp",
+          "audio": "catch.mp3"
+        },
+        {
+          "en": "next",
+          "cn": "接下来",
+          "image": "feel/next_接下来.webp",
+          "audio": "next.mp3"
+        },
+        {
+          "en": "watch out",
+          "cn": "小心啊",
+          "image": "feel/watch out_小心啊.webp",
+          "audio": "watch out.mp3"
+        },
+        {
+          "en": "cool",
+          "cn": "凉爽",
+          "image": "feel/cool_凉爽.webp",
+          "audio": "cool.mp3"
+        },
+        {
+          "en": "shy",
+          "cn": "害羞",
+          "image": "feel/shy_害羞.webp",
+          "audio": "shy.mp3"
+        },
+        {
+          "en": "late",
+          "cn": "晚了的",
+          "image": "feel/late_晚了的.webp",
+          "audio": "late.mp3"
+        },
+        {
+          "en": "walk",
+          "cn": "走路",
+          "image": "feel/walk_走路.webp",
+          "audio": "walk.mp3"
+        },
+        {
+          "en": "outside",
+          "cn": "外面",
+          "image": "feel/outside_外面.webp",
+          "audio": "outside.mp3"
+        },
+        {
+          "en": "loud",
+          "cn": "大声的",
+          "image": "feel/loud_大声的.webp",
+          "audio": "loud.mp3"
+        },
+        {
+          "en": "pull",
+          "cn": "拉",
+          "image": "feel/pull_拉.webp",
+          "audio": "pull.mp3"
+        },
+        {
+          "en": "sleepy",
+          "cn": "困了的",
+          "image": "feel/sleepy_困了的.webp",
+          "audio": "sleepy.mp3"
+        },
+        {
+          "en": "perfect",
+          "cn": "完美的",
+          "image": "feel/perfect_完美的.webp",
+          "audio": "perfect.mp3"
+        },
+        {
+          "en": "beside",
+          "cn": "旁边",
+          "image": "feel/beside_旁边.webp",
+          "audio": "beside.mp3"
+        },
+        {
+          "en": "hold",
+          "cn": "拿住",
+          "image": "feel/hold_拿住.webp",
+          "audio": "hold.mp3"
+        },
+        {
+          "en": "bored",
+          "cn": "无聊的",
+          "image": "feel/bored_无聊的.webp",
+          "audio": "bored.mp3"
+        },
+        {
+          "en": "shout",
+          "cn": "大喊",
+          "image": "feel/shout_大喊.webp",
+          "audio": "shout.mp3"
+        },
+        {
+          "en": "I miss you",
+          "cn": "我想你",
+          "image": "feel/I miss you_我想你.webp",
+          "audio": "I miss you.mp3"
+        },
+        {
+          "en": "north",
+          "cn": "北方",
+          "image": "feel/north_北方.webp",
+          "audio": "north.mp3"
+        },
+        {
+          "en": "clean",
+          "cn": "打扫",
+          "image": "feel/clean_打扫.webp",
+          "audio": "clean.mp3"
+        },
+        {
+          "en": "dangerous",
+          "cn": "危险的",
+          "image": "feel/dangerous_危险的.webp",
+          "audio": "dangerous.mp3"
+        },
+        {
+          "en": "sleep",
+          "cn": "睡觉",
+          "image": "feel/sleep_睡觉.webp",
+          "audio": "sleep.mp3"
+        },
+        {
+          "en": "quiet",
+          "cn": "安静的",
+          "image": "feel/quiet_安静的.webp",
+          "audio": "quiet.mp3"
+        },
+        {
+          "en": "Do not cry",
+          "cn": "别哭了",
+          "image": "feel/Do not cry_别哭了.webp",
+          "audio": "Do not cry.mp3"
+        },
+        {
+          "en": "cold",
+          "cn": "寒冷",
+          "image": "feel/cold_寒冷.webp",
+          "audio": "cold.mp3"
+        },
+        {
+          "en": "lovely",
+          "cn": "可爱的",
+          "image": "feel/lovely_可爱的.webp",
+          "audio": "lovely.mp3"
+        },
+        {
+          "en": "surprised",
+          "cn": "惊讶的",
+          "image": "feel/surprised_惊讶的.webp",
+          "audio": "surprised.mp3"
+        },
+        {
+          "en": "push",
+          "cn": "推",
+          "image": "feel/push_推.webp",
+          "audio": "push.mp3"
+        },
+        {
+          "en": "east",
+          "cn": "东方",
+          "image": "feel/east_东方.webp",
+          "audio": "east.mp3"
+        },
+        {
+          "en": "close",
+          "cn": "关闭的",
+          "image": "feel/close_关闭的.webp",
+          "audio": "close.mp3"
+        },
+        {
+          "en": "strong",
+          "cn": "强壮的",
+          "image": "feel/strong_强壮的.webp",
+          "audio": "strong.mp3"
+        },
+        {
+          "en": "listen",
+          "cn": "听",
+          "image": "feel/listen_听.webp",
+          "audio": "listen.mp3"
+        },
+        {
+          "en": "draw",
+          "cn": "画画",
+          "image": "feel/draw_画画.webp",
+          "audio": "draw.mp3"
+        },
+        {
+          "en": "slow",
+          "cn": "慢的",
+          "image": "feel/slow_慢的.webp",
+          "audio": "slow.mp3"
+        },
+        {
+          "en": "tall",
+          "cn": "高的",
+          "image": "feel/tall_高的.webp",
+          "audio": "tall.mp3"
+        },
+        {
+          "en": "sing",
+          "cn": "唱歌",
+          "image": "feel/sing_唱歌.webp",
+          "audio": "sing.mp3"
+        },
+        {
+          "en": "short",
+          "cn": "矮的",
+          "image": "feel/short_矮的.webp",
+          "audio": "short.mp3"
+        },
+        {
+          "en": "meet",
+          "cn": "见面",
+          "image": "feel/meet_见面.webp",
+          "audio": "meet.mp3"
+        },
+        {
+          "en": "naughty",
+          "cn": "淘气的",
+          "image": "feel/naughty_淘气的.webp",
+          "audio": "naughty.mp3"
+        },
+        {
+          "en": "hungry",
+          "cn": "饿了",
+          "image": "feel/hungry_饿了.webp",
+          "audio": "hungry.mp3"
+        },
+        {
+          "en": "lazy",
+          "cn": "懒惰的",
+          "image": "feel/lazy_懒惰的.webp",
+          "audio": "lazy.mp3"
+        },
+        {
+          "en": "fat",
+          "cn": "胖的",
+          "image": "feel/fat_胖的.webp",
+          "audio": "fat.mp3"
+        },
+        {
+          "en": "cry",
+          "cn": "哭",
+          "image": "feel/cry_哭.webp",
+          "audio": "cry.mp3"
+        },
+        {
+          "en": "dark",
+          "cn": "黑暗的",
+          "image": "feel/dark_黑暗的.webp",
+          "audio": "dark.mp3"
+        },
+        {
+          "en": "thirsty",
+          "cn": "口渴的",
+          "image": "feel/thirsty_口渴的.webp",
+          "audio": "thirsty.mp3"
+        },
+        {
+          "en": "surprise",
+          "cn": "惊喜",
+          "image": "feel/surprise_惊喜.webp",
+          "audio": "surprise.mp3"
+        },
+        {
+          "en": "I love you",
+          "cn": "我爱你",
+          "image": "feel/I love you_我爱你.webp",
+          "audio": "I love you.mp3"
+        },
+        {
+          "en": "hear",
+          "cn": "听到",
+          "image": "feel/hear_听到.webp",
+          "audio": "hear.mp3"
+        },
+        {
+          "en": "I am happy",
+          "cn": "我很开心",
+          "image": "feel/I am happy_我很开心.webp",
+          "audio": "I am happy.mp3"
+        },
+        {
+          "en": "secret",
+          "cn": "秘密",
+          "image": "feel/secret_秘密.webp",
+          "audio": "secret.mp3"
+        },
+        {
+          "en": "noise",
+          "cn": "吵闹的",
+          "image": "feel/noise_吵闹的.webp",
+          "audio": "noise.mp3"
+        },
+        {
+          "en": "see",
+          "cn": "看",
+          "image": "feel/see_看.webp",
+          "audio": "see.mp3"
+        },
+        {
+          "en": "dance",
+          "cn": "跳舞",
+          "image": "feel/dance_跳舞.webp",
+          "audio": "dance.mp3"
+        },
+        {
+          "en": "inside",
+          "cn": "里面",
+          "image": "feel/inside_里面.webp",
+          "audio": "inside.mp3"
+        },
+        {
+          "en": "sing a song",
+          "cn": "唱歌",
+          "image": "feel/sing a song_唱歌.webp",
+          "audio": "sing a song.mp3"
+        },
+        {
+          "en": "safe",
+          "cn": "安全的",
+          "image": "feel/safe_安全的.webp",
+          "audio": "safe.mp3"
+        },
+        {
+          "en": "politely",
+          "cn": "懂礼貌的",
+          "image": "feel/politely_懂礼貌的.webp",
+          "audio": "politely.mp3"
+        },
+        {
+          "en": "laugh",
+          "cn": "大笑",
+          "image": "feel/laugh_大笑.webp",
+          "audio": "laugh.mp3"
+        },
+        {
+          "en": "important",
+          "cn": "重要的",
+          "image": "feel/important_重要的.webp",
+          "audio": "important.mp3"
+        },
+        {
+          "en": "dirty",
+          "cn": "脏的",
+          "image": "feel/dirty_脏的.webp",
+          "audio": "dirty.mp3"
+        },
+        {
+          "en": "fast",
+          "cn": "快的",
+          "image": "feel/fast_快的.webp",
+          "audio": "fast.mp3"
+        },
+        {
+          "en": "I am excited",
+          "cn": "我很兴奋",
+          "image": "feel/I am excited_我很兴奋.webp",
+          "audio": "I am excited.mp3"
+        },
+        {
+          "en": "west",
+          "cn": "西方",
+          "image": "feel/west_西方.webp",
+          "audio": "west.mp3"
+        },
+        {
+          "en": "take this",
+          "cn": "拿着这个",
+          "image": "feel/take this_拿着这个.webp",
+          "audio": "take this.mp3"
+        },
+        {
+          "en": "angry",
+          "cn": "生气的",
+          "image": "feel/angry_生气的.webp",
+          "audio": "angry.mp3"
+        },
+        {
+          "en": "excited",
+          "cn": "兴奋",
+          "image": "feel/excited_兴奋.webp",
+          "audio": "excited.mp3"
+        },
+        {
+          "en": "new",
+          "cn": "新的",
+          "image": "feel/new_新的.webp",
+          "audio": "new.mp3"
+        },
+        {
+          "en": "hot",
+          "cn": "热的",
+          "image": "feel/hot_热的.webp",
+          "audio": "hot.mp3"
+        },
+        {
+          "en": "open",
+          "cn": "打开",
+          "image": "feel/open_打开.webp",
+          "audio": "open.mp3"
+        },
+        {
+          "en": "help",
+          "cn": "帮助",
+          "image": "feel/help_帮助.webp",
+          "audio": "help.mp3"
+        },
+        {
+          "en": "study",
+          "cn": "学",
+          "image": "feel/study_学.webp",
+          "audio": "study.mp3"
+        },
+        {
+          "en": "brave",
+          "cn": "勇敢的",
+          "image": "feel/brave_勇敢的.webp",
+          "audio": "brave.mp3"
+        },
+        {
+          "en": "thin",
+          "cn": "瘦的",
+          "image": "feel/thin_瘦的.webp",
+          "audio": "thin.mp3"
+        },
+        {
+          "en": "awful",
+          "cn": "糟糕的",
+          "image": "feel/awful_糟糕的.webp",
+          "audio": "awful.mp3"
+        },
+        {
+          "en": "funny",
+          "cn": "有趣的",
+          "image": "feel/funny_有趣的.webp",
+          "audio": "funny.mp3"
+        },
+        {
+          "en": "early",
+          "cn": "早的",
+          "image": "feel/early_早的.webp",
+          "audio": "early.mp3"
+        },
+        {
+          "en": "clever",
+          "cn": "聪明的",
+          "image": "feel/clever_聪明的.webp",
+          "audio": "clever.mp3"
+        },
+        {
+          "en": "throw",
+          "cn": "扔出去",
+          "image": "feel/throw_扔出去.webp",
+          "audio": "throw.mp3"
+        },
+        {
+          "en": "nice",
+          "cn": "真棒",
+          "image": "feel/nice_真棒.webp",
+          "audio": "nice.mp3"
+        },
+        {
+          "en": "deep",
+          "cn": "深的",
+          "image": "feel/deep_深的.webp",
+          "audio": "deep.mp3"
+        },
+        {
+          "en": "busy",
+          "cn": "忙碌的",
+          "image": "feel/busy_忙碌的.webp",
+          "audio": "busy.mp3"
+        },
+        {
+          "en": "south",
+          "cn": "南方",
+          "image": "feel/south_南方.webp",
+          "audio": "south.mp3"
+        },
+        {
+          "en": "smell",
+          "cn": "闻味道",
+          "image": "feel/smell_闻味道.webp",
+          "audio": "smell.mp3"
+        },
+        {
+          "en": "scare",
+          "cn": "害怕",
+          "image": "feel/scare_害怕.webp",
+          "audio": "scare.mp3"
+        },
+        {
+          "en": "old",
+          "cn": "年老的",
+          "image": "feel/old_年老的.webp",
+          "audio": "old.mp3"
+        },
+        {
+          "en": "scream",
+          "cn": "尖叫",
+          "image": "feel/scream_尖叫.webp",
+          "audio": "scream.mp3"
+        },
+        {
+          "en": "stomachache",
+          "cn": "胃疼",
+          "image": "feel/stomachache_胃疼.webp",
+          "audio": "stomachache.mp3"
+        },
+        {
+          "en": "happy",
+          "cn": "开心",
+          "image": "feel/happy_开心.webp",
+          "audio": "happy.mp3"
+        },
+        {
+          "en": "time",
+          "cn": "时间",
+          "image": "feel/time_时间.webp",
+          "audio": "time.mp3"
+        },
+        {
+          "en": "young",
+          "cn": "年轻的",
+          "image": "feel/young_年轻的.webp",
+          "audio": "young.mp3"
+        },
+        {
+          "en": "I feel better",
+          "cn": "我感觉好点了",
+          "image": "feel/I feel better_我感觉好点了.webp",
+          "audio": "I feel better.mp3"
+        },
+        {
+          "en": "wake up",
+          "cn": "起床",
+          "image": "feel/wake up_起床.webp",
+          "audio": "wake up.mp3"
+        },
+        {
+          "en": "run",
+          "cn": "跑步",
+          "image": "feel/run_跑步.webp",
+          "audio": "run.mp3"
+        },
+        {
+          "en": "teach",
+          "cn": "教学",
+          "image": "feel/teach_教学.webp",
+          "audio": "teach.mp3"
+        },
+        {
+          "en": "toothache",
+          "cn": "牙疼",
+          "image": "feel/toothache_牙疼.webp",
+          "audio": "toothache.mp3"
+        },
+        {
+          "en": "headache",
+          "cn": "头疼",
+          "image": "feel/headache_头疼.webp",
+          "audio": "headache.mp3"
+        },
+        {
+          "en": "start",
+          "cn": "开始",
+          "image": "feel/start_开始.webp",
+          "audio": "start.mp3"
+        },
+        {
+          "en": "read",
+          "cn": "读书",
+          "image": "feel/read_读书.webp",
+          "audio": "read.mp3"
+        },
+        {
+          "en": "learn",
+          "cn": "学习",
+          "image": "feel/learn_学习.webp",
+          "audio": "learn.mp3"
+        },
+        {
+          "en": "rude",
+          "cn": "粗鲁的",
+          "image": "feel/rude_粗鲁的.webp",
+          "audio": "rude.mp3"
+        },
+        {
+          "en": "sad",
+          "cn": "伤心的",
+          "image": "feel/sad_伤心的.webp",
+          "audio": "sad.mp3"
+        },
+        {
+          "en": "small",
+          "cn": "小的",
+          "image": "feel/small_小的.webp",
+          "audio": "small.mp3"
+        },
+        {
+          "en": "touch",
+          "cn": "触摸",
+          "image": "feel/touch_触摸.webp",
+          "audio": "touch.mp3"
+        },
+        {
+          "en": "big",
+          "cn": "大的",
+          "image": "feel/big_大的.webp",
+          "audio": "big.mp3"
+        },
+        {
+          "en": "jump",
+          "cn": "跳",
+          "image": "feel/jump_跳.webp",
+          "audio": "jump.mp3"
+        },
+        {
+          "en": "smile",
+          "cn": "微笑",
+          "image": "feel/smile_微笑.webp",
+          "audio": "smile.mp3"
+        },
+        {
+          "en": "tired",
+          "cn": "累了的",
+          "image": "feel/tired_累了的.webp",
+          "audio": "tired.mp3"
+        },
+        {
+          "en": "I am sad",
+          "cn": "我很伤心",
+          "image": "feel/I am sad_我很伤心.webp",
+          "audio": "I am sad.mp3"
+        },
+        {
+          "en": "warm",
+          "cn": "温暖的",
+          "image": "feel/warm_温暖的.webp",
+          "audio": "warm.mp3"
+        }
+      ]
+    },
+    {
+      "id": "animal",
+      "title": "Animal 动物",
+      "icon": "animal_icon.webp",
+      "items": [
+        {
+          "en": "turtle",
+          "cn": "海龟",
+          "image": "animal/turtle_海龟.webp",
+          "audio": "turtle.mp3"
+        },
+        {
+          "en": "lobster",
+          "cn": "龙虾",
+          "image": "animal/lobster_龙虾.webp",
+          "audio": "lobster.mp3"
+        },
+        {
+          "en": "pigeon",
+          "cn": "鸽子",
+          "image": "animal/pigeon_鸽子.webp",
+          "audio": "pigeon.mp3"
+        },
+        {
+          "en": "butterfly",
+          "cn": "蝴蝶",
+          "image": "animal/butterfly_蝴蝶.webp",
+          "audio": "butterfly.mp3"
+        },
+        {
+          "en": "sheep",
+          "cn": "绵羊",
+          "image": "animal/sheep_绵羊.webp",
+          "audio": "sheep.mp3"
+        },
+        {
+          "en": "clownfish",
+          "cn": "小丑鱼",
+          "image": "animal/clownfish_小丑鱼.webp",
+          "audio": "clownfish.mp3"
+        },
+        {
+          "en": "goldfish",
+          "cn": "金鱼",
+          "image": "animal/goldfish_金鱼.webp",
+          "audio": "goldfish.mp3"
+        },
+        {
+          "en": "crab",
+          "cn": "螃蟹",
+          "image": "animal/crab_螃蟹.webp",
+          "audio": "crab.mp3"
+        },
+        {
+          "en": "puppy",
+          "cn": "小奶狗",
+          "image": "animal/puppy_小奶狗.webp",
+          "audio": "puppy.mp3"
+        },
+        {
+          "en": "giraffe",
+          "cn": "长颈鹿",
+          "image": "animal/giraffe_长颈鹿.webp",
+          "audio": "giraffe.mp3"
+        },
+        {
+          "en": "monkey",
+          "cn": "猴子",
+          "image": "animal/monkey_猴子.webp",
+          "audio": "monkey.mp3"
+        },
+        {
+          "en": "shark",
+          "cn": "鲨鱼",
+          "image": "animal/shark_鲨鱼.webp",
+          "audio": "shark.mp3"
+        },
+        {
+          "en": "lamb",
+          "cn": "小羊",
+          "image": "animal/lamb_小羊.webp",
+          "audio": "lamb.mp3"
+        },
+        {
+          "en": "chicken",
+          "cn": "鸡",
+          "image": "animal/chicken_鸡.webp",
+          "audio": "chicken.mp3"
+        },
+        {
+          "en": "donkey",
+          "cn": "驴",
+          "image": "animal/donkey_驴.webp",
+          "audio": "donkey.mp3"
+        },
+        {
+          "en": "goose",
+          "cn": "鹅",
+          "image": "animal/goose_鹅.webp",
+          "audio": "goose.mp3"
+        },
+        {
+          "en": "horse",
+          "cn": "马",
+          "image": "animal/horse_马.webp",
+          "audio": "horse.mp3"
+        },
+        {
+          "en": "cow",
+          "cn": "牛",
+          "image": "animal/cow_牛.webp",
+          "audio": "cow.mp3"
+        },
+        {
+          "en": "calf",
+          "cn": "小牛",
+          "image": "animal/calf_小牛.webp",
+          "audio": "calf.mp3"
+        },
+        {
+          "en": "snake",
+          "cn": "蛇",
+          "image": "animal/snake_蛇.webp",
+          "audio": "snake.mp3"
+        },
+        {
+          "en": "seagull",
+          "cn": "海鸥",
+          "image": "animal/seagull_海鸥.webp",
+          "audio": "seagull.mp3"
+        },
+        {
+          "en": "deer",
+          "cn": "鹿",
+          "image": "animal/deer_鹿.webp",
+          "audio": "deer.mp3"
+        },
+        {
+          "en": "crow",
+          "cn": "乌鸦",
+          "image": "animal/crow_乌鸦.webp",
+          "audio": "crow.mp3"
+        },
+        {
+          "en": "lion",
+          "cn": "狮子",
+          "image": "animal/lion_狮子.webp",
+          "audio": "lion.mp3"
+        },
+        {
+          "en": "pig",
+          "cn": "猪",
+          "image": "animal/pig_猪.webp",
+          "audio": "pig.mp3"
+        },
+        {
+          "en": "goat",
+          "cn": "山羊",
+          "image": "animal/goat_山羊.webp",
+          "audio": "goat.mp3"
+        },
+        {
+          "en": "eagle",
+          "cn": "老鹰",
+          "image": "animal/eagle_老鹰.webp",
+          "audio": "eagle.mp3"
+        },
+        {
+          "en": "kangaroo",
+          "cn": "袋鼠",
+          "image": "animal/kangaroo_袋鼠.webp",
+          "audio": "kangaroo.mp3"
+        },
+        {
+          "en": "sloth",
+          "cn": "树懒",
+          "image": "animal/sloth_树懒.webp",
+          "audio": "sloth.mp3"
+        },
+        {
+          "en": "mouse",
+          "cn": "老鼠",
+          "image": "animal/mouse_老鼠.webp",
+          "audio": "mouse.mp3"
+        },
+        {
+          "en": "pony",
+          "cn": "小马",
+          "image": "animal/pony_小马.webp",
+          "audio": "pony.mp3"
+        },
+        {
+          "en": "starfish",
+          "cn": "海星",
+          "image": "animal/starfish_海星.webp",
+          "audio": "starfish.mp3"
+        },
+        {
+          "en": "jellyfish",
+          "cn": "水母",
+          "image": "animal/jellyfish_水母.webp",
+          "audio": "jellyfish.mp3"
+        },
+        {
+          "en": "rooster",
+          "cn": "公鸡",
+          "image": "animal/rooster_公鸡.webp",
+          "audio": "rooster.mp3"
+        },
+        {
+          "en": "swan",
+          "cn": "天鹅",
+          "image": "animal/swan_天鹅.webp",
+          "audio": "swan.mp3"
+        },
+        {
+          "en": "ant",
+          "cn": "蚂蚁",
+          "image": "animal/ant_蚂蚁.webp",
+          "audio": "ant.mp3"
+        },
+        {
+          "en": "fox",
+          "cn": "狐狸",
+          "image": "animal/fox_狐狸.webp",
+          "audio": "fox.mp3"
+        },
+        {
+          "en": "bird",
+          "cn": "鸟",
+          "image": "animal/bird_鸟.webp",
+          "audio": "bird.mp3"
+        },
+        {
+          "en": "chick",
+          "cn": "小鸡",
+          "image": "animal/chick_小鸡.webp",
+          "audio": "chick.mp3"
+        },
+        {
+          "en": "peacock",
+          "cn": "孔雀",
+          "image": "animal/peacock_孔雀.webp",
+          "audio": "peacock.mp3"
+        },
+        {
+          "en": "seahorse",
+          "cn": "海马",
+          "image": "animal/seahorse_海马.webp",
+          "audio": "seahorse.mp3"
+        },
+        {
+          "en": "rabbit",
+          "cn": "兔子",
+          "image": "animal/rabbit_兔子.webp",
+          "audio": "rabbit.mp3"
+        },
+        {
+          "en": "brown bear",
+          "cn": "棕熊",
+          "image": "animal/brown bear_棕熊.webp",
+          "audio": "brown bear.mp3"
+        },
+        {
+          "en": "dog",
+          "cn": "狗",
+          "image": "animal/dog_狗.webp",
+          "audio": "dog.mp3"
+        },
+        {
+          "en": "tiger",
+          "cn": "老虎",
+          "image": "animal/tiger_老虎.webp",
+          "audio": "tiger.mp3"
+        },
+        {
+          "en": "hippo",
+          "cn": "河马",
+          "image": "animal/hippo_河马.webp",
+          "audio": "hippo.mp3"
+        },
+        {
+          "en": "parrot",
+          "cn": "鹦鹉",
+          "image": "animal/parrot_鹦鹉.webp",
+          "audio": "parrot.mp3"
+        },
+        {
+          "en": "owl",
+          "cn": "猫头鹰",
+          "image": "animal/owl_猫头鹰.webp",
+          "audio": "owl.mp3"
+        },
+        {
+          "en": "seal",
+          "cn": "海豹",
+          "image": "animal/seal_海豹.webp",
+          "audio": "seal.mp3"
+        },
+        {
+          "en": "bee",
+          "cn": "蜜蜂",
+          "image": "animal/bee_蜜蜂.webp",
+          "audio": "bee.mp3"
+        },
+        {
+          "en": "hamster",
+          "cn": "仓鼠",
+          "image": "animal/hamster_仓鼠.webp",
+          "audio": "hamster.mp3"
+        },
+        {
+          "en": "elephant",
+          "cn": "大象",
+          "image": "animal/elephant_大象.webp",
+          "audio": "elephant.mp3"
+        },
+        {
+          "en": "shrimp",
+          "cn": "虾",
+          "image": "animal/shrimp_虾.webp",
+          "audio": "shrimp.mp3"
+        },
+        {
+          "en": "dolphin",
+          "cn": "海豚",
+          "image": "animal/dolphin_海豚.webp",
+          "audio": "dolphin.mp3"
+        },
+        {
+          "en": "whale",
+          "cn": "鲸鱼",
+          "image": "animal/whale_鲸鱼.webp",
+          "audio": "whale.mp3"
+        },
+        {
+          "en": "dragon",
+          "cn": "龙",
+          "image": "animal/dragon_龙.webp",
+          "audio": "dragon.mp3"
+        },
+        {
+          "en": "dinosaur",
+          "cn": "恐龙",
+          "image": "animal/dinosaur_恐龙.webp",
+          "audio": "dinosaur.mp3"
+        },
+        {
+          "en": "panda",
+          "cn": "熊猫",
+          "image": "animal/panda_熊猫.webp",
+          "audio": "panda.mp3"
+        },
+        {
+          "en": "duck",
+          "cn": "鸭子",
+          "image": "animal/duck_鸭子.webp",
+          "audio": "duck.mp3"
+        },
+        {
+          "en": "spider",
+          "cn": "蜘蛛",
+          "image": "animal/spider_蜘蛛.webp",
+          "audio": "spider.mp3"
+        },
+        {
+          "en": "alligator",
+          "cn": "鳄鱼",
+          "image": "animal/alligator_鳄鱼.webp",
+          "audio": "alligator.mp3"
+        },
+        {
+          "en": "fish",
+          "cn": "鱼",
+          "image": "animal/fish_鱼.webp",
+          "audio": "fish.mp3"
+        },
+        {
+          "en": "zebra",
+          "cn": "斑马",
+          "image": "animal/zebra_斑马.webp",
+          "audio": "zebra.mp3"
+        },
+        {
+          "en": "gorilla",
+          "cn": "黑猩猩",
+          "image": "animal/gorilla_黑猩猩.webp",
+          "audio": "gorilla.mp3"
+        },
+        {
+          "en": "fly",
+          "cn": "苍蝇",
+          "image": "animal/fly_苍蝇.webp",
+          "audio": "fly.mp3"
+        },
+        {
+          "en": "cat",
+          "cn": "猫",
+          "image": "animal/cat_猫.webp",
+          "audio": "cat.mp3"
+        },
+        {
+          "en": "penguin",
+          "cn": "企鹅",
+          "image": "animal/penguin_企鹅.webp",
+          "audio": "penguin.mp3"
+        },
+        {
+          "en": "octopus",
+          "cn": "章鱼",
+          "image": "animal/octopus_章鱼.webp",
+          "audio": "octopus.mp3"
+        },
+        {
+          "en": "mosquito",
+          "cn": "蚊子",
+          "image": "animal/mosquito_蚊子.webp",
+          "audio": "mosquito.mp3"
+        },
+        {
+          "en": "camel",
+          "cn": "骆驼",
+          "image": "animal/camel_骆驼.webp",
+          "audio": "camel.mp3"
+        },
+        {
+          "en": "oyster",
+          "cn": "生蚝",
+          "image": "animal/oyster_生蚝.webp",
+          "audio": "oyster.mp3"
+        },
+        {
+          "en": "kitten",
+          "cn": "小奶猫",
+          "image": "animal/kitten_小奶猫.webp",
+          "audio": "kitten.mp3"
+        },
+        {
+          "en": "frog",
+          "cn": "青蛙",
+          "image": "animal/frog_青蛙.webp",
+          "audio": "frog.mp3"
+        },
+        {
+          "en": "wolf",
+          "cn": "狼",
+          "image": "animal/wolf_狼.webp",
+          "audio": "wolf.mp3"
+        },
+        {
+          "en": "leopard",
+          "cn": "猎豹",
+          "image": "animal/leopard_猎豹.webp",
+          "audio": "leopard.mp3"
+        }
+      ]
+    },
+    {
+      "id": "KidsVocabTests",
+      "title": "Kidsvocabtests ",
+      "icon": "KidsVocabTests_icon.webp",
+      "items": []
+    },
+    {
+      "id": "outdoor",
+      "title": "Outdoor 户外",
+      "icon": "outdoor_icon.webp",
+      "items": [
+        {
+          "en": "rocket",
+          "cn": "火箭",
+          "image": "outdoor/rocket_火箭.webp",
+          "audio": "rocket.mp3"
+        },
+        {
+          "en": "kite",
+          "cn": "风筝",
+          "image": "outdoor/kite_风筝.webp",
+          "audio": "kite.mp3"
+        },
+        {
+          "en": "helicopter",
+          "cn": "直升机",
+          "image": "outdoor/helicopter_直升机.webp",
+          "audio": "helicopter.mp3"
+        },
+        {
+          "en": "garden",
+          "cn": "公园",
+          "image": "outdoor/garden_公园.webp",
+          "audio": "garden.mp3"
+        },
+        {
+          "en": "fog",
+          "cn": "雾",
+          "image": "outdoor/fog_雾.webp",
+          "audio": "fog.mp3"
+        },
+        {
+          "en": "football",
+          "cn": "橄榄球",
+          "image": "outdoor/football_橄榄球.webp",
+          "audio": "football.mp3"
+        },
+        {
+          "en": "library",
+          "cn": "图书馆",
+          "image": "outdoor/library_图书馆.webp",
+          "audio": "library.mp3"
+        },
+        {
+          "en": "job",
+          "cn": "工作",
+          "image": "outdoor/job_工作.webp",
+          "audio": "job.mp3"
+        },
+        {
+          "en": "thursday",
+          "cn": "星期四",
+          "image": "outdoor/thursday_星期四.webp",
+          "audio": "thursday.mp3"
+        },
+        {
+          "en": "shadow",
+          "cn": "影子",
+          "image": "outdoor/shadow_影子.webp",
+          "audio": "shadow.mp3"
+        },
+        {
+          "en": "school",
+          "cn": "学校",
+          "image": "outdoor/school_学校.webp",
+          "audio": "school.mp3"
+        },
+        {
+          "en": "bridge",
+          "cn": "桥",
+          "image": "outdoor/bridge_桥.webp",
+          "audio": "bridge.mp3"
+        },
+        {
+          "en": "traffic jam",
+          "cn": "堵车",
+          "image": "outdoor/traffic jam_堵车.webp",
+          "audio": "traffic jam.mp3"
+        },
+        {
+          "en": "statue",
+          "cn": "雕塑",
+          "image": "outdoor/statue_雕塑.webp",
+          "audio": "statue.mp3"
+        },
+        {
+          "en": "restaurant",
+          "cn": "饭店",
+          "image": "outdoor/restaurant_饭店.webp",
+          "audio": "restaurant.mp3"
+        },
+        {
+          "en": "bush",
+          "cn": "灌木丛",
+          "image": "outdoor/bush_灌木丛.webp",
+          "audio": "bush.mp3"
+        },
+        {
+          "en": "sunday",
+          "cn": "星期日",
+          "image": "outdoor/sunday_星期日.webp",
+          "audio": "sunday.mp3"
+        },
+        {
+          "en": "gift",
+          "cn": "礼物",
+          "image": "outdoor/gift_礼物.webp",
+          "audio": "gift.mp3"
+        },
+        {
+          "en": "tuesday",
+          "cn": "星期二",
+          "image": "outdoor/tuesday_星期二.webp",
+          "audio": "tuesday.mp3"
+        },
+        {
+          "en": "school bus",
+          "cn": "校车",
+          "image": "outdoor/school bus_校车.webp",
+          "audio": "school bus.mp3"
+        },
+        {
+          "en": "find",
+          "cn": "寻找",
+          "image": "outdoor/find_寻找.webp",
+          "audio": "find.mp3"
+        },
+        {
+          "en": "crossroads",
+          "cn": "十字路口",
+          "image": "outdoor/crossroads_十字路口.webp",
+          "audio": "crossroads.mp3"
+        },
+        {
+          "en": "truck",
+          "cn": "卡车",
+          "image": "outdoor/truck_卡车.webp",
+          "audio": "truck.mp3"
+        },
+        {
+          "en": "map",
+          "cn": "地图",
+          "image": "outdoor/map_地图.webp",
+          "audio": "map.mp3"
+        },
+        {
+          "en": "rubbish",
+          "cn": "垃圾",
+          "image": "outdoor/rubbish_垃圾.webp",
+          "audio": "rubbish.mp3"
+        },
+        {
+          "en": "highway",
+          "cn": "高速公路",
+          "image": "outdoor/highway_高速公路.webp",
+          "audio": "highway.mp3"
+        },
+        {
+          "en": "flight",
+          "cn": "航班",
+          "image": "outdoor/flight_航班.webp",
+          "audio": "flight.mp3"
+        },
+        {
+          "en": "subway",
+          "cn": "地铁",
+          "image": "outdoor/subway_地铁.webp",
+          "audio": "subway.mp3"
+        },
+        {
+          "en": "holiday",
+          "cn": "假期",
+          "image": "outdoor/holiday_假期.webp",
+          "audio": "holiday.mp3"
+        },
+        {
+          "en": "castle",
+          "cn": "城堡",
+          "image": "outdoor/castle_城堡.webp",
+          "audio": "castle.mp3"
+        },
+        {
+          "en": "There is a refrigerator in the kitchen",
+          "cn": "厨房里有一个冰箱",
+          "image": "outdoor/There is a refrigerator in the kitchen_厨房里有一个冰箱.webp",
+          "audio": "There is a refrigerator in the kitchen.mp3"
+        },
+        {
+          "en": "boat",
+          "cn": "小船",
+          "image": "outdoor/boat_小船.webp",
+          "audio": "boat.mp3"
+        },
+        {
+          "en": "train",
+          "cn": "火车",
+          "image": "outdoor/train_火车.webp",
+          "audio": "train.mp3"
+        },
+        {
+          "en": "entrance",
+          "cn": "入口",
+          "image": "outdoor/entrance_入口.webp",
+          "audio": "entrance.mp3"
+        },
+        {
+          "en": "wednesday",
+          "cn": "星期三",
+          "image": "outdoor/wednesday_星期三.webp",
+          "audio": "wednesday.mp3"
+        },
+        {
+          "en": "ambulance",
+          "cn": "救护车",
+          "image": "outdoor/ambulance_救护车.webp",
+          "audio": "ambulance.mp3"
+        },
+        {
+          "en": "you and me",
+          "cn": "你和我",
+          "image": "outdoor/you and me_你和我.webp",
+          "audio": "you and me.mp3"
+        },
+        {
+          "en": "first",
+          "cn": "第一",
+          "image": "outdoor/first_第一.webp",
+          "audio": "first.mp3"
+        },
+        {
+          "en": "mud",
+          "cn": "泥土",
+          "image": "outdoor/mud_泥土.webp",
+          "audio": "mud.mp3"
+        },
+        {
+          "en": "fire truck",
+          "cn": "消防车",
+          "image": "outdoor/fire truck_消防车.webp",
+          "audio": "fire truck.mp3"
+        },
+        {
+          "en": "carry",
+          "cn": "携带",
+          "image": "outdoor/carry_携带.webp",
+          "audio": "carry.mp3"
+        },
+        {
+          "en": "ship",
+          "cn": "大船",
+          "image": "outdoor/ship_大船.webp",
+          "audio": "ship.mp3"
+        },
+        {
+          "en": "zoo",
+          "cn": "动物园",
+          "image": "outdoor/zoo_动物园.webp",
+          "audio": "zoo.mp3"
+        },
+        {
+          "en": "The banana is on the middle",
+          "cn": "香蕉在中间",
+          "image": "outdoor/The banana is on the middle_香蕉在中间.webp",
+          "audio": "The banana is on the middle.mp3"
+        },
+        {
+          "en": "wrong",
+          "cn": "错误的",
+          "image": "outdoor/wrong_错误的.webp",
+          "audio": "wrong.mp3"
+        },
+        {
+          "en": "balloon",
+          "cn": "气球",
+          "image": "outdoor/balloon_气球.webp",
+          "audio": "balloon.mp3"
+        },
+        {
+          "en": "bicycle",
+          "cn": "自行车",
+          "image": "outdoor/bicycle_自行车.webp",
+          "audio": "bicycle.mp3"
+        },
+        {
+          "en": "petrol",
+          "cn": "汽油",
+          "image": "outdoor/petrol_汽油.webp",
+          "audio": "petrol.mp3"
+        },
+        {
+          "en": "bus",
+          "cn": "公交车",
+          "image": "outdoor/bus_公交车.webp",
+          "audio": "bus.mp3"
+        },
+        {
+          "en": "weekend",
+          "cn": "周末",
+          "image": "outdoor/weekend_周末.webp",
+          "audio": "weekend.mp3"
+        },
+        {
+          "en": "swing",
+          "cn": "秋千",
+          "image": "outdoor/swing_秋千.webp",
+          "audio": "swing.mp3"
+        },
+        {
+          "en": "police car",
+          "cn": "警车",
+          "image": "outdoor/police car_警车.webp",
+          "audio": "police car.mp3"
+        },
+        {
+          "en": "tennis",
+          "cn": "网球",
+          "image": "outdoor/tennis_网球.webp",
+          "audio": "tennis.mp3"
+        },
+        {
+          "en": "flag",
+          "cn": "旗子",
+          "image": "outdoor/flag_旗子.webp",
+          "audio": "flag.mp3"
+        },
+        {
+          "en": "airport",
+          "cn": "机场",
+          "image": "outdoor/airport_机场.webp",
+          "audio": "airport.mp3"
+        },
+        {
+          "en": "ball",
+          "cn": "球",
+          "image": "outdoor/ball_球.webp",
+          "audio": "ball.mp3"
+        },
+        {
+          "en": "car",
+          "cn": "汽车",
+          "image": "outdoor/car_汽车.webp",
+          "audio": "car.mp3"
+        },
+        {
+          "en": "exit",
+          "cn": "出口",
+          "image": "outdoor/exit_出口.webp",
+          "audio": "exit.mp3"
+        },
+        {
+          "en": "saturday",
+          "cn": "星期六",
+          "image": "outdoor/saturday_星期六.webp",
+          "audio": "saturday.mp3"
+        },
+        {
+          "en": "ticket",
+          "cn": "票",
+          "image": "outdoor/ticket_票.webp",
+          "audio": "ticket.mp3"
+        },
+        {
+          "en": "hotel",
+          "cn": "酒店",
+          "image": "outdoor/hotel_酒店.webp",
+          "audio": "hotel.mp3"
+        },
+        {
+          "en": "basketball",
+          "cn": "篮球",
+          "image": "outdoor/basketball_篮球.webp",
+          "audio": "basketball.mp3"
+        },
+        {
+          "en": "diesel",
+          "cn": "柴油",
+          "image": "outdoor/diesel_柴油.webp",
+          "audio": "diesel.mp3"
+        },
+        {
+          "en": "downstairs",
+          "cn": "下楼",
+          "image": "outdoor/downstairs_下楼.webp",
+          "audio": "downstairs.mp3"
+        },
+        {
+          "en": "upstairs",
+          "cn": "上楼",
+          "image": "outdoor/upstairs_上楼.webp",
+          "audio": "upstairs.mp3"
+        },
+        {
+          "en": "swimming pool",
+          "cn": "游泳池",
+          "image": "outdoor/swimming pool_游泳池.webp",
+          "audio": "swimming pool.mp3"
+        },
+        {
+          "en": "seesaw",
+          "cn": "跷跷板",
+          "image": "outdoor/seesaw_跷跷板.webp",
+          "audio": "seesaw.mp3"
+        },
+        {
+          "en": "friday",
+          "cn": "星期五",
+          "image": "outdoor/friday_星期五.webp",
+          "audio": "friday.mp3"
+        },
+        {
+          "en": "monday",
+          "cn": "星期一",
+          "image": "outdoor/monday_星期一.webp",
+          "audio": "monday.mp3"
+        },
+        {
+          "en": "supermarket",
+          "cn": "超市",
+          "image": "outdoor/supermarket_超市.webp",
+          "audio": "supermarket.mp3"
+        },
+        {
+          "en": "dry",
+          "cn": "干的",
+          "image": "outdoor/dry_干的.webp",
+          "audio": "dry.mp3"
+        },
+        {
+          "en": "airplane",
+          "cn": "飞机",
+          "image": "outdoor/airplane_飞机.webp",
+          "audio": "airplane.mp3"
+        },
+        {
+          "en": "hospital",
+          "cn": "医院",
+          "image": "outdoor/hospital_医院.webp",
+          "audio": "hospital.mp3"
+        },
+        {
+          "en": "park",
+          "cn": "停车",
+          "image": "outdoor/park_停车.webp",
+          "audio": "park.mp3"
+        },
+        {
+          "en": "soccer",
+          "cn": "足球",
+          "image": "outdoor/soccer_足球.webp",
+          "audio": "soccer.mp3"
+        },
+        {
+          "en": "root",
+          "cn": "根部",
+          "image": "outdoor/root_根部.webp",
+          "audio": "root.mp3"
+        },
+        {
+          "en": "There is a taxi",
+          "cn": "那有一辆出租车",
+          "image": "outdoor/There is a taxi_那有一辆出租车.webp",
+          "audio": "There is a taxi.mp3"
+        },
+        {
+          "en": "slide",
+          "cn": "滑梯",
+          "image": "outdoor/slide_滑梯.webp",
+          "audio": "slide.mp3"
+        },
+        {
+          "en": "building",
+          "cn": "建筑",
+          "image": "outdoor/building_建筑.webp",
+          "audio": "building.mp3"
+        },
+        {
+          "en": "climb",
+          "cn": "爬",
+          "image": "outdoor/climb_爬.webp",
+          "audio": "climb.mp3"
+        },
+        {
+          "en": "van",
+          "cn": "面包车",
+          "image": "outdoor/van_面包车.webp",
+          "audio": "van.mp3"
+        },
+        {
+          "en": "palace",
+          "cn": "宫殿",
+          "image": "outdoor/palace_宫殿.webp",
+          "audio": "palace.mp3"
+        },
+        {
+          "en": "swim",
+          "cn": "游泳",
+          "image": "outdoor/swim_游泳.webp",
+          "audio": "swim.mp3"
+        },
+        {
+          "en": "money",
+          "cn": "钱",
+          "image": "outdoor/money_钱.webp",
+          "audio": "money.mp3"
+        },
+        {
+          "en": "bank",
+          "cn": "银行",
+          "image": "outdoor/bank_银行.webp",
+          "audio": "bank.mp3"
+        },
+        {
+          "en": "motorcycle",
+          "cn": "摩托车",
+          "image": "outdoor/motorcycle_摩托车.webp",
+          "audio": "motorcycle.mp3"
+        }
+      ]
+    }
+  ]
+}

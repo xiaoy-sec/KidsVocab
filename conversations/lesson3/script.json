@@ -1,0 +1,55 @@
+{
+  "title": "Numbers and Colors 数字和颜色",
+  "folderName": "lesson3",
+  "backgroundImage": "bg3",
+  "script": [
+    {
+      "textEN": "Hello again!",
+      "textCN": "又见面啦！"
+    },
+    {
+      "textEN": "What color is this?",
+      "textCN": "这是什么颜色？"
+    },
+    {
+      "textEN": "It is red.",
+      "textCN": "它是红色的。"
+    },
+    {
+      "textEN": "What color is your bag?",
+      "textCN": "你的书包是什么颜色？"
+    },
+    {
+      "textEN": "My bag is blue.",
+      "textCN": "我的书包是蓝色的。"
+    },
+    {
+      "textEN": "Can you count to five?",
+      "textCN": "你能数到五吗？"
+    },
+    {
+      "textEN": "One, two, three, four, five!",
+      "textCN": "一，二，三，四，五！"
+    },
+    {
+      "textEN": "How many apples do you see?",
+      "textCN": "你看到几个苹果？"
+    },
+    {
+      "textEN": "I see eight apples.",
+      "textCN": "我看到八个苹果。"
+    },
+    {
+      "textEN": "Good job!",
+      "textCN": "做得很好！"
+    },
+    {
+      "textEN": "Thank you!",
+      "textCN": "谢谢！"
+    },
+    {
+      "textEN": "See you next time!",
+      "textCN": "下次见！"
+    }
+  ]
+}

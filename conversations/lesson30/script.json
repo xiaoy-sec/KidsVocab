@@ -1,0 +1,27 @@
+{
+  "title": "An unusual day 很不平常的一天",
+  "folderName": "lesson30",
+  "backgroundImage": "bg30",
+  "script": [
+    {
+      "textEN": "It is eight o'clock. Mr. Mario is going to work.",
+      "textCN": "现在是8点钟。马里奥先生正要去上班。"
+    },
+    {
+      "textEN": "He usually goes by car, but today he is walking.",
+      "textCN": "他通常开车去，但今天他正步行去。"
+    },
+    {
+      "textEN": "It is morning. The children are playing in the garden.",
+      "textCN": "现在是早晨。孩子们正在花园里玩耍。"
+    },
+    {
+      "textEN": "What's the time? ",
+      "textCN": "几点钟了？"
+    },
+    {
+      "textEN": "It's a quarter past eight.",
+      "textCN": "几点钟了？八点一刻。"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "My Day 我的日常",
+  "folderName": "lesson11",
+  "backgroundImage": "bg11",
+  "script": [
+    {
+      "textEN": "wake up",
+      "textCN": "起床了"
+    },
+    {
+      "textEN": "I brush my teeth.",
+      "textCN": "我刷牙。"
+    },
+    {
+      "textEN": "I wash my face.",
+      "textCN": "我洗脸。"
+    },
+    {
+      "textEN": "I eat breakfast.",
+      "textCN": "我吃早餐。"
+    },
+    {
+      "textEN": "I drink milk.",
+      "textCN": "我喝牛奶。"
+    },
+    {
+      "textEN": "I go to school.",
+      "textCN": "我去上学。"
+    },
+    {
+      "textEN": "I play with my friends.",
+      "textCN": "我和朋友一起玩。"
+    },
+    {
+      "textEN": "I do my homework.",
+      "textCN": "我做作业。"
+    },
+    {
+      "textEN": "I go to bed.",
+      "textCN": "我上床睡觉。"
+    }
+  ]
+}

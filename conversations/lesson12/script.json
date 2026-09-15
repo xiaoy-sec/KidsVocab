@@ -1,0 +1,31 @@
+{
+  "title": "Excuse me 打扰一下",
+  "folderName": "lesson12",
+  "backgroundImage": "bg12",
+  "script": [
+    {
+      "textEN": "Excuse me! Is this your bag?",
+      "textCN": "打扰一下,这是你的包吗"
+    },
+    {
+      "textEN": "pardon.",
+      "textCN": "你说什么?"
+    },
+    {
+      "textEN": "Is this your bag?",
+      "textCN": "这是你的包吗。"
+    },
+    {
+      "textEN": "Yes, it is. Thank you very much.",
+      "textCN": "是的,非常感谢。"
+    },
+    {
+      "textEN": "Whose bag is that? Is it Mario's?",
+      "textCN": "这个包是谁的?是马里奥的吗。"
+    },
+    {
+      "textEN": "Perhaps it is, sir. White is his colour.",
+      "textCN": "也许是吧,先生,他的是白色。"
+    }
+  ]
+}

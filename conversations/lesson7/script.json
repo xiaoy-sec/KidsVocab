@@ -1,0 +1,47 @@
+{
+  "title": "Daily Routine 日常生活",
+  "folderName": "lesson7",
+  "backgroundImage": "bg7",
+  "script": [
+    {
+      "textEN": "What time do you get up?",
+      "textCN": "你几点起床？"
+    },
+    {
+      "textEN": "I get up at seven.",
+      "textCN": "我七点起床。"
+    },
+    {
+      "textEN": "What do you do in the morning?",
+      "textCN": "你早上做什么？"
+    },
+    {
+      "textEN": "I brush my teeth.",
+      "textCN": "我刷牙。"
+    },
+    {
+      "textEN": "Do you eat breakfast?",
+      "textCN": "你吃早饭吗？"
+    },
+    {
+      "textEN": "Yes, I do.",
+      "textCN": "是的，我吃。"
+    },
+    {
+      "textEN": "What do you eat?",
+      "textCN": "你吃什么？"
+    },
+    {
+      "textEN": "I eat bread and milk.",
+      "textCN": "我吃面包和牛奶。"
+    },
+    {
+      "textEN": "Do you go to school in the morning?",
+      "textCN": "你早上去学校吗？"
+    },
+    {
+      "textEN": "Yes, I go to school.",
+      "textCN": "是的，我去学校。"
+    }
+  ]
+}

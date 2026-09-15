@@ -1,0 +1,27 @@
+{
+  "title": "Don't drop it! 别摔了！",
+  "folderName": "lesson21",
+  "backgroundImage": "bg21",
+  "script": [
+    {
+      "textEN": "What are you going to do with that vase?",
+      "textCN": "你打算怎么处理那个花瓶？"
+    },
+    {
+      "textEN": "I'm going to put it on this table.",
+      "textCN": "我准备把它放在这张桌子上。"
+    },
+    {
+      "textEN": "Give it to me. I'm going to put it in front of the window.",
+      "textCN": "把它给我。我准备把它放在窗户前面。"
+    },
+    {
+      "textEN": "Be careful! Don't drop it!",
+      "textCN": "小心点！别摔了！"
+    },
+    {
+      "textEN": "Put it here, on this shelf. There we are!",
+      "textCN": "把它放在这儿，这个架子上。好啦！"
+    }
+  ]
+}

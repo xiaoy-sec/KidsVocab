@@ -1,0 +1,27 @@
+{
+  "title": "The car race 汽车比赛",
+  "folderName": "lesson36",
+  "backgroundImage": "bg36",
+  "script": [
+    {
+      "textEN": "There is a car race near our town every year.",
+      "textCN": "每年在我们镇子附近都有汽车比赛。"
+    },
+    {
+      "textEN": "When was the race? ",
+      "textCN": "比赛是什么时候？"
+    },
+    {
+      "textEN": "It was on Sunday.",
+      "textCN": "是在周日。"
+    },
+    {
+      "textEN": "Where was the finish? ",
+      "textCN": "终点在哪儿？"
+    },
+    {
+      "textEN": "It was at the end of the town.",
+      "textCN": "在镇子的尽头。"
+    }
+  ]
+}

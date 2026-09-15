@@ -1,0 +1,47 @@
+{
+  "title": "Introduction 自我介绍",
+  "folderName": "lesson1",
+  "backgroundImage": "bg1",
+  "script": [
+    {
+      "textEN": "Hello! What is your name?",
+      "textCN": "你好！你叫什么名字？"
+    },
+    {
+      "textEN": "My name is Mario. What about you?",
+      "textCN": "我叫马里奥。你呢？"
+    },
+    {
+      "textEN": "My name is Luigi. Nice to meet you.",
+      "textCN": "我叫路易吉。很高兴认识你。"
+    },
+    {
+      "textEN": "Nice to meet you too.",
+      "textCN": "我也很高兴认识你。"
+    },
+    {
+      "textEN": "How old are you?",
+      "textCN": "你几岁了？"
+    },
+    {
+      "textEN": "I am five years old.",
+      "textCN": "我五岁了。"
+    },
+    {
+      "textEN": "Do you like apple?",
+      "textCN": "你喜欢苹果吗？"
+    },
+    {
+      "textEN": "Yes, I like apple.",
+      "textCN": "是的，我喜欢苹果。"
+    },
+    {
+      "textEN": "Goodbye!",
+      "textCN": "再见！"
+    },
+    {
+      "textEN": "See you tomorrow!",
+      "textCN": "明天见！"
+    }
+  ]
+}

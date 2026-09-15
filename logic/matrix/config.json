@@ -1,0 +1,121 @@
+[
+  {
+    "id": "logic_hard_01",
+    "type": "matrix_overlay",
+    "difficulty": "hard",
+    "prompt": "图形叠在一起变成了什么？",
+    "layout": "equation",
+    "matrix_items": [
+      "vertical_line", "horizontal_line", "plus_sign",
+      "circle_outline", "plus_sign", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "circle_empty", "isAnswer": false },
+      { "id": "opt2", "image": "plus_sign", "isAnswer": false },
+      { "id": "opt3", "image": "circle_with_cross", "isAnswer": true },
+      { "id": "opt4", "image": "circle_broken", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_02",
+    "type": "matrix_subtraction",
+    "difficulty": "hard",
+    "prompt": "拿走一部分，还剩什么？",
+    "layout": "equation",
+    "matrix_items": [
+      "square_with_dot", "dot", "square_empty",
+      "triangle_with_line", "line", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "triangle_with_line", "isAnswer": false },
+      { "id": "opt2", "image": "line_only", "isAnswer": false },
+      { "id": "opt3", "image": "triangle_empty", "isAnswer": true },
+      { "id": "opt4", "image": "square_empty", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_03",
+    "type": "matrix_rotation",
+    "difficulty": "hard",
+    "prompt": "小箭头在转圈圈，下一个指向哪？",
+    "layout": "sequence",
+    "matrix_items": [
+      "arrow_up", "arrow_right",
+      "arrow_down", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "arrow_up", "isAnswer": false },
+      { "id": "opt2", "image": "arrow_left", "isAnswer": true },
+      { "id": "opt3", "image": "arrow_right", "isAnswer": false },
+      { "id": "opt4", "image": "arrow_down", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_04",
+    "type": "matrix_color_invert",
+    "difficulty": "hard",
+    "prompt": "颜色和背景都在变，找找规律",
+    "layout": "2x2",
+    "matrix_items": [
+      "red_circle_green_bg", "green_circle_red_bg",
+      "red_star_green_bg", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "red_circle_black_bg", "isAnswer": false },
+      { "id": "opt2", "image": "green_circle_black_bg", "isAnswer": false },
+      { "id": "opt3", "image": "green_star_red_bg", "isAnswer": true },
+      { "id": "opt4", "image": "red_star_black_bg", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_05",
+    "type": "matrix_position_move",
+    "difficulty": "very_hard",
+    "prompt": "小黑点在移动，它要去哪里？",
+    "layout": "2x2",
+    "matrix_items": [
+      "square_dot_top_left", "square_dot_top_right",
+      "square_dot_bottom_right", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "square_dot_top_left", "isAnswer": false },
+      { "id": "opt2", "image": "square_dot_bottom_left", "isAnswer": true },
+      { "id": "opt3", "image": "square_dot_center", "isAnswer": false },
+      { "id": "opt4", "image": "square_no_dot", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_06",
+    "type": "matrix_mirror",
+    "difficulty": "hard",
+    "prompt": "照镜子！",
+    "layout": "2x2",
+    "matrix_items": [
+      "shape_P", "shape_q",
+      "shape_L", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "shape_L", "isAnswer": false },
+      { "id": "opt2", "image": "shape_J_reversed", "isAnswer": true },
+      { "id": "opt3", "image": "shape_7", "isAnswer": false },
+      { "id": "opt4", "image": "shape_V", "isAnswer": false }
+    ]
+  },
+  {
+    "id": "logic_hard_07",
+    "type": "matrix_inside_outside",
+    "difficulty": "very_hard",
+    "prompt": "里外交换！",
+    "layout": "2x2",
+    "matrix_items": [
+      "circle_in_square", "square_in_circle",
+      "triangle_in_box", "?"
+    ],
+    "options": [
+      { "id": "opt1", "image": "triangle_in_box", "isAnswer": false },
+      { "id": "opt2", "image": "box_in_triangle", "isAnswer": true },
+      { "id": "opt3", "image": "circle_in_triangle", "isAnswer": false },
+      { "id": "opt4", "image": "square_in_circle", "isAnswer": false }
+    ]
+  }
+]

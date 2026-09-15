@@ -1,0 +1,47 @@
+{
+  "title": "At the Park 在公园",
+  "folderName": "lesson10",
+  "backgroundImage": "bg10",
+  "script": [
+    {
+      "textEN": "Let’s go to the park.",
+      "textCN": "我们去公园吧。"
+    },
+    {
+      "textEN": "Great!",
+      "textCN": "太好了！"
+    },
+    {
+      "textEN": "Look at the tree.",
+      "textCN": "看那棵树。"
+    },
+    {
+      "textEN": "It is very tall.",
+      "textCN": "它很高。"
+    },
+    {
+      "textEN": "Can you run?",
+      "textCN": "你会跑吗？"
+    },
+    {
+      "textEN": "Yes, I can.",
+      "textCN": "是的，我会。"
+    },
+    {
+      "textEN": "Can you jump?",
+      "textCN": "你会跳吗？"
+    },
+    {
+      "textEN": "Yes, I can jump high!",
+      "textCN": "是的，我能跳得很高！"
+    },
+    {
+      "textEN": "I am tired.",
+      "textCN": "我累了。"
+    },
+    {
+      "textEN": "Let’s go home.",
+      "textCN": "我们回家吧。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Where 哪里",
+  "folderName": "lesson14",
+  "backgroundImage": "bg14",
+  "script": [
+    {
+      "textEN": "Where is my mom?",
+      "textCN": "我妈妈在哪里?"
+    },
+    {
+      "textEN": "She's in the garden, sitting under the tree.",
+      "textCN": "她在花园,坐在树下."
+    },
+    {
+      "textEN": "Is there a cat in the garden?",
+      "textCN": "有一只猫在花园吗?"
+    },
+    {
+      "textEN": "Yes, it's on the right",
+      "textCN": "是的,它在右边"
+    },
+    {
+      "textEN": "There are some flower",
+      "textCN": "那里有一些花朵"
+    }
+  ]
+}

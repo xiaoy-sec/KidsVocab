@@ -1,0 +1,27 @@
+{
+  "title": "Is that all? 就这些吗？",
+  "folderName": "lesson31",
+  "backgroundImage": "bg31",
+  "script": [
+    {
+      "textEN": "I want some pens, please.",
+      "textCN": "请给我拿些笔"
+    },
+    {
+      "textEN": "Do you want pens or pencils?",
+      "textCN": "您要钢笔还是铅笔？"
+    },
+    {
+      "textEN": "I want some writing paper, too",
+      "textCN": "我还要些纸"
+    },
+    {
+      "textEN": "Is that all? ",
+      "textCN": "就这些吗？"
+    },
+    {
+      "textEN": "Yes, that's all. How much is that?",
+      "textCN": "是的，就这些。多少钱？"
+    }
+  ]
+}

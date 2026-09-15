@@ -1,0 +1,23 @@
+{
+  "title": "Greeting 问候",
+  "folderName": "lesson2",
+  "backgroundImage": "bg2",
+  "script": [
+    {
+      "textEN": "Hello Mario，Good Morning",
+      "textCN": "你好马里奥，早上好。"
+    },
+    {
+      "textEN": "Hello Mario，Good Afternoon.",
+      "textCN": "你好马里奥，下午好。"
+    },
+    {
+      "textEN": "Hello Mario，Good Evening.",
+      "textCN": "你好马里奥，晚上好。"
+    },
+    {
+      "textEN": "Good night.",
+      "textCN": "晚安。"
+    }
+  ]
+}

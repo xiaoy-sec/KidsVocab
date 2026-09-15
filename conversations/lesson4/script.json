@@ -1,0 +1,43 @@
+{
+  "title": "Daily Conversation 日常对话",
+  "folderName": "lesson4",
+  "backgroundImage": "bg4",
+  "script": [
+    {
+      "textEN": "Hello! How are you?",
+      "textCN": "你好！你好吗？"
+    },
+    {
+      "textEN": "I am fine, thank you.",
+      "textCN": "我很好，谢谢你。"
+    },
+    {
+      "textEN": "This is my little brother, Luigi.",
+      "textCN": "这是我的弟弟，路易吉。"
+    },
+    {
+      "textEN": "Nice to meet you.",
+      "textCN": "很高兴认识你。"
+    },
+    {
+      "textEN": "I am from China.",
+      "textCN": "我来自中国。"
+    },
+    {
+      "textEN": "Where are you from?",
+      "textCN": "你来自哪里？"
+    },
+    {
+      "textEN": "I live in China.",
+      "textCN": "我住在中国。"
+    },
+    {
+      "textEN": "That is great!",
+      "textCN": "那真棒！"
+    },
+    {
+      "textEN": "See you!",
+      "textCN": "再见！"
+    }
+  ]
+}

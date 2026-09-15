@@ -1,0 +1,27 @@
+{
+  "title": "A fine day 晴天",
+  "folderName": "lesson18",
+  "backgroundImage": "bg18",
+  "script": [
+    {
+      "textEN": "It's a fine day today. The sun is shining.",
+      "textCN": "今天天气很好，阳光灿烂。"
+    },
+    {
+      "textEN": "They are walking over the bridge.",
+      "textCN": "他们正从桥上走过。"
+    },
+    {
+      "textEN": "What are they doing? They're looking at a big ship.",
+      "textCN": "他们在做什么？他们正在看一艘大船。"
+    },
+    {
+      "textEN": "The ship is going under the bridge.",
+      "textCN": "那艘船正从桥下驶过。"
+    },
+    {
+      "textEN": "The airplane is flying over the river.",
+      "textCN": "飞机正从河上飞过。"
+    }
+  ]
+}
