@@ -103,6 +103,10 @@ private enum WordDeckLoader {
 
 private enum VocabularyDisplayMode: String, CaseIterable { case all = "全部", study = "学习" }
 
+private enum SummaryFilter {
+    case all, unmastered, familiar, mastered
+}
+
 enum StudyPhase: String {
     case learning
     case readyToReview
@@ -121,7 +125,14 @@ struct OgdenWordCard: View {
         VStack(alignment: .leading, spacing: 10) {
             HStack(alignment: .top) {
                 Button(action: speakWord) {
-                    Text(word.w).font(.system(size: 26, weight: .bold, design: .rounded)).foregroundStyle(.primary).multilineTextAlignment(.leading)
+                    HStack(alignment: .top, spacing: 6) {
+                        Text(word.w).font(.system(size: 26, weight: .bold, design: .rounded)).foregroundStyle(.primary)
+                        // 音标：JSON 中有 b 且非空时才显示在单词后面
+                        if let phonetic = word.phonetic {
+                            Text(phonetic).font(.system(size: 15, weight: .medium, design: .rounded)).foregroundStyle(.secondary)
+                        }
+                    }
+                    .multilineTextAlignment(.leading)
                 }
                 .buttonStyle(.plain)
                 Spacer(minLength: 8)
@@ -164,6 +175,7 @@ struct OgdenVocabView: View {
     @State private var decks: [WordDeck] = []
     @State private var selectedDeckID: String?
     @State private var displayMode: VocabularyDisplayMode = .all
+    @State private var statusFilter: SummaryFilter = .all
     @State private var searchText = ""
     @State private var isLoading = true
     @State private var errorMessage: String?
@@ -173,8 +185,22 @@ struct OgdenVocabView: View {
     private var selectedDeck: WordDeck? { decks.first { $0.id == selectedDeckID } }
     private var visibleWords: [OgdenWord] {
         guard let deck = selectedDeck else { return [] }
-        guard !searchText.isEmpty else { return deck.words }
-        return deck.words.filter { $0.w.localizedCaseInsensitiveContains(searchText) || $0.zh.localizedCaseInsensitiveContains(searchText) || $0.ex.localizedCaseInsensitiveContains(searchText) || $0.exz.localizedCaseInsensitiveContains(searchText) }
+        var words = deck.words
+        if statusFilter != .all {
+            words = words.filter { matchesStatusFilter($0, deckID: deck.id) }
+        }
+        guard !searchText.isEmpty else { return words }
+        return words.filter { $0.w.localizedCaseInsensitiveContains(searchText) || $0.zh.localizedCaseInsensitiveContains(searchText) || $0.ex.localizedCaseInsensitiveContains(searchText) || $0.exz.localizedCaseInsensitiveContains(searchText) }
+    }
+
+    private func matchesStatusFilter(_ word: OgdenWord, deckID: String) -> Bool {
+        let status = manager.getStatus(for: word, deckID: deckID)
+        switch statusFilter {
+        case .all: return true
+        case .unmastered: return status == .none || status == .unknown
+        case .familiar: return status == .familiar
+        case .mastered: return status == .mastered
+        }
     }
     private var studyWords: [OgdenWord] {
         guard let deck = selectedDeck else { return [] }
@@ -228,10 +254,10 @@ struct OgdenVocabView: View {
 
     private var deckSummary: some View {
         HStack(spacing: 8) {
-            summaryItem("总数", count: selectedDeck?.words.count ?? 0, color: .primary)
-            summaryItem("未掌握", count: unmasteredCount(in: selectedDeck), color: .red)
-            summaryItem("不熟练", count: count(of: .familiar, in: selectedDeck), color: .orange)
-            summaryItem("掌握", count: count(of: .mastered, in: selectedDeck), color: .green)
+            summaryItem("总数", count: selectedDeck?.words.count ?? 0, color: .primary, filter: .all)
+            summaryItem("未掌握", count: unmasteredCount(in: selectedDeck), color: .red, filter: .unmastered)
+            summaryItem("不熟练", count: count(of: .familiar, in: selectedDeck), color: .orange, filter: .familiar)
+            summaryItem("掌握", count: count(of: .mastered, in: selectedDeck), color: .green, filter: .mastered)
         }
         .padding(.horizontal, 12)
     }
@@ -280,10 +306,21 @@ struct OgdenVocabView: View {
         .buttonStyle(.plain)
     }
 
-    private func summaryItem(_ label: String, count: Int, color: Color) -> some View {
-        VStack(spacing: 3) { Text("\(count)").font(.headline).foregroundStyle(color); Text(label).font(.caption2).foregroundStyle(.secondary) }
+    private func summaryItem(_ label: String, count: Int, color: Color, filter: SummaryFilter) -> some View {
+        let isSelected = statusFilter == filter
+        return Button {
+            statusFilter = isSelected ? .all : filter
+        } label: {
+            VStack(spacing: 3) { Text("\(count)").font(.headline).foregroundStyle(color); Text(label).font(.caption2).foregroundStyle(isSelected ? color : .secondary) }
             .frame(maxWidth: .infinity).padding(.vertical, 9)
             .background(Color(uiColor: .secondarySystemGroupedBackground), in: RoundedRectangle(cornerRadius: 12))
+            .overlay {
+                if isSelected { RoundedRectangle(cornerRadius: 12).stroke(color, lineWidth: 2) }
+            }
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel("按\(label)筛选单词")
+        .accessibilityHint(isSelected ? "再次点击显示全部单词" : "只显示\(label)的单词")
     }
 
     @ViewBuilder private var studyContent: some View {

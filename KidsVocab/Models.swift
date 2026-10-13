@@ -90,13 +90,21 @@ struct bBodyPart: Identifiable {
 struct OgdenWord: Identifiable, Codable, Hashable {
     var id = UUID() // 自动生成，不从 JSON 读取
     let w: String
+    let b: String?  // 音标（可选字段，部分 JSON 文件没有该字段）
     let zh: String
     let ex: String
     let exz: String
     
     // 关键：显式指定 CodingKeys，排除 id，这样 JSON 里没有 id 也能解析成功
     enum CodingKeys: String, CodingKey {
-        case w, zh, ex, exz
+        case w, b, zh, ex, exz
+    }
+    
+    /// 音标：仅当 JSON 中存在 b 且去掉首尾空白后非空时返回内容，否则返回 nil（卡片据此决定是否显示）
+    var phonetic: String? {
+        guard let value = b else { return nil }
+        let trimmed = value.trimmingCharacters(in: .whitespacesAndNewlines)
+        return trimmed.isEmpty ? nil : trimmed
     }
 }
 
