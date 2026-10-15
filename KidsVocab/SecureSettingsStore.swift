@@ -48,6 +48,13 @@ final class SecureSettingsStore {
         set { UserDefaults.standard.set(newValue, forKey: "aiVoicePitch") }
     }
 
+    // MARK: - 基础单词朗读模式
+
+    var vocabularySpeechMode: String {
+        get { UserDefaults.standard.string(forKey: "vocabularySpeechMode") ?? "normal" }
+        set { UserDefaults.standard.set(newValue, forKey: "vocabularySpeechMode") }
+    }
+
     private func read(account: String) -> String? {
         let query: [String: Any] = [
             kSecClass as String: kSecClassGenericPassword,

@@ -255,50 +255,82 @@ class SpeechManager: NSObject, ObservableObject, AVSpeechSynthesizerDelegate, AV
         )
     }
 
-    /// 基础单词朗读：英文 + 中文，全部使用 iOS 系统本地语音（用户在设置中选择）
+    /// 基础单词朗读：根据设置中的"朗读模式"决定读英文 / 中文 / 两者
+    /// 全部使用 iOS 系统本地语音（用户在设置中选择）
     func speakVocabularyWord(english: String, chinese: String) {
         stop()
         isSpeaking = true
 
         let rate = Float(SecureSettingsStore.shared.aiVoiceRate)
         let pitch = Float(SecureSettingsStore.shared.aiVoicePitch)
+        let mode = SecureSettingsStore.shared.vocabularySpeechMode
 
-        if !english.isEmpty {
-            speakSynthesized(
-                text: english,
-                language: "en-US",
-                voiceIdentifier: SecureSettingsStore.shared.englishVoiceIdentifier,
-                rate: rate,
-                pitch: pitch
-            ) { [weak self] in
-                if !chinese.isEmpty {
-                    self?.speakSynthesized(
-                        text: chinese,
-                        language: "zh-CN",
-                        voiceIdentifier: SecureSettingsStore.shared.chineseVoiceIdentifier,
-                        rate: rate,
-                        pitch: pitch
-                    ) { [weak self] in
-                        self?.isSpeaking = false
-                    }
-                } else {
+        switch mode {
+        case "englishOnly":
+            if !english.isEmpty {
+                speakSynthesized(
+                    text: english,
+                    language: "en-US",
+                    voiceIdentifier: SecureSettingsStore.shared.englishVoiceIdentifier,
+                    rate: rate,
+                    pitch: pitch
+                ) { [weak self] in
                     self?.isSpeaking = false
                 }
+            } else {
+                isSpeaking = false
             }
-
-        } else if !chinese.isEmpty {
-            speakSynthesized(
-                text: chinese,
-                language: "zh-CN",
-                voiceIdentifier: SecureSettingsStore.shared.chineseVoiceIdentifier,
-                rate: rate,
-                pitch: pitch
-            ) { [weak self] in
-                self?.isSpeaking = false
+        case "chineseOnly":
+            if !chinese.isEmpty {
+                speakSynthesized(
+                    text: chinese,
+                    language: "zh-CN",
+                    voiceIdentifier: SecureSettingsStore.shared.chineseVoiceIdentifier,
+                    rate: rate,
+                    pitch: pitch
+                ) { [weak self] in
+                    self?.isSpeaking = false
+                }
+            } else {
+                isSpeaking = false
             }
-
-        } else {
-            isSpeaking = false
+        default:
+            // "normal" 模式：先读英文，再读中文
+            if !english.isEmpty {
+                speakSynthesized(
+                    text: english,
+                    language: "en-US",
+                    voiceIdentifier: SecureSettingsStore.shared.englishVoiceIdentifier,
+                    rate: rate,
+                    pitch: pitch
+                ) { [weak self] in
+                    if !chinese.isEmpty {
+                        self?.speakSynthesized(
+                            text: chinese,
+                            language: "zh-CN",
+                            voiceIdentifier: SecureSettingsStore.shared.chineseVoiceIdentifier,
+                            rate: rate,
+                            pitch: pitch
+                        ) { [weak self] in
+                            self?.isSpeaking = false
+                        }
+                    } else {
+                        self?.isSpeaking = false
+                    }
+                }
+            } else if !chinese.isEmpty {
+                speakSynthesized(
+                    text: chinese,
+                    language: "zh-CN",
+                    voiceIdentifier: SecureSettingsStore.shared.chineseVoiceIdentifier,
+                    rate: rate,
+                    pitch: pitch
+                ) { [weak self] in
+                    self?.isSpeaking = false
+                }
+            } else {
+                isSpeaking = false
+            }
         }
     }
 

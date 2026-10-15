@@ -13,6 +13,7 @@ struct SettingsView: View {
     @State private var englishVoiceIdentifier = ""
     @State private var aiVoiceRate = 0.40
     @State private var aiVoicePitch = 1.05
+    @State private var vocabularySpeechMode = "normal"
     private let chineseVoices = AVSpeechSynthesisVoice.speechVoices()
         .filter { $0.language.hasPrefix("zh") || $0.language.hasPrefix("yue") }
         .sorted { $0.name.localizedCaseInsensitiveCompare($1.name) == .orderedAscending }
@@ -47,6 +48,18 @@ struct SettingsView: View {
                 //        Text("所有的金色打卡记录都会消失，孩子需要重新开始闯关。")
                 //    }
                 //}
+
+                Section(header: Text("基础单词朗读"), footer: Text("点击「基础单词」中的单词时，按所选模式进行朗读。")) {
+                    Picker("朗读模式", selection: $vocabularySpeechMode) {
+                        Text("正常模式（英文 + 中文）").tag("normal")
+                        Text("英文模式（只读英文）").tag("englishOnly")
+                        Text("中文模式（只读中文）").tag("chineseOnly")
+                    }
+                    .pickerStyle(.segmented)
+                    .onChange(of: vocabularySpeechMode) { _, newValue in
+                        SecureSettingsStore.shared.vocabularySpeechMode = newValue
+                    }
+                }
 
                 Section(header: Text("AI 对话"), footer: Text("DeepSeek API Key 会保存在本机 Keychain 中。")) {
                     SecureField("DeepSeek API Key", text: $deepSeekAPIKey)
@@ -148,6 +161,7 @@ struct SettingsView: View {
             englishVoiceIdentifier = SecureSettingsStore.shared.englishVoiceIdentifier
             aiVoiceRate = SecureSettingsStore.shared.aiVoiceRate
             aiVoicePitch = SecureSettingsStore.shared.aiVoicePitch
+            vocabularySpeechMode = SecureSettingsStore.shared.vocabularySpeechMode
         }
     }
 
